@@ -354,7 +354,7 @@ _M. de Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2015) [d
 
 ### oral communications
 
-1. **Detection of introgression: how hard can it be?** _M. de Navascués_. _From hybridisation to introgression: detection and evolutionary consequences_, 25 June 2024. Online --- Montpellier (France). Invited.
+1. **Detection of introgression: how hard can it be?** _M. de Navascués_. _From hybridisation to introgression: detection and evolutionary consequences_, 25 June 2024. Online --- Montpellier (France). **Invited**.
 <!-- Organisers: Anne-Céline Thuillet, Cécile Berthouly, Muriel Gros-Balthazard, Margret Veltman, Philippe Cubry, Yves Vigouroux (UMR DIADE, Institut de Récherche pour le Developpement, Montpellier) -->
 
 1. **Demographic inference from radiocarbon data**. _M. de Navascués_. _Mathematical and Computational Evolutionary Biology (MCEB)_, 17--21 June 2024. Saint-Martin-de-Londres (France).
@@ -377,7 +377,11 @@ _M. de Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2015) [d
 
 1. **High substitution rate estimates from temporally sampled sequences: are they biased or biologically meaningful?** _M. de Navascués_, B.C. Emerson. _Annual Meeting of the Society for Molecular Biology and Evolution (SMBE)_, 24--28 June 2007. Halifax (Canada).
 
-1. **Coalescent simulations for the evaluation of statistical tools for demographic inference and the effect of homoplasy in chloroplast microsatellites**. _M. de Navascués_, B.C. Emerson. IUFRO conference _"Population Genetics and Genomics of Forest Trees: from Gene Function to Evolutionary Dynamics and Conservation"_; _Workshop on Simulation Models of Tree Population Genetics_, 1--6 October 2006. Alcalá de Henares (Spain).
+1. **Coalescent simulations for the evaluation of statistical tools for demographic inference and the effect of homoplasy in chloroplast microsatellites**. _M. de Navascués_, B.C. Emerson. IUFRO conference _Population Genetics and Genomics of Forest Trees: from Gene Function to Evolutionary Dynamics and Conservation_; _Workshop on Simulation Models of Tree Population Genetics_, 1--6 October 2006. Alcalá de Henares (Spain).
+
+
+1. **Age of alleles: how ancestral are aDNA sequences?** _M. de Navascués_. European Science Foundation Workshop _New Tools for Biodiversity Conservation Through the Advancement of Phylogeographic Methodologies_, 3--6 July 2006, Norwich (UK). **Invited**.
+
 
 1. **Estudio biogeográfico y demográfico del pino canario mediante marcadores moleculares**. _M. de Navascués_, B.C. Emerson. _XIII Workshop Avances en Biología Molecular por Jóvenes Investigadores en el Extranjero_, Centro Nacional de Biotecnología, 27 December 2005. Cantoblanco (Spain).
 
