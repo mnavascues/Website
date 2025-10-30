@@ -323,3 +323,34 @@ box()
 1. **LMSE (LinkMicroSatelliteExpansion): Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes**. _M de Navascués_ (2020) [doi:10.5281/zenodo.4053654](http://doi.org/10.5281/zenodo.4053654 "Zenodo").
 <!-- Code from Navascués et al. (2009) doi:10.1534/genetics.108.098194 -->
 
+### Data
+
+1. **VCF files from the study of low recombining genomic regions in pearl millet**. M. Salson, M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, P. Cubry, A.-C. Thuillet, C. Burgarella,  _M. de Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, F. Adama, N. Kane, Y. Vigouroux, C. Berthouly-Salazar (2025)  [doi:10.23708/SN2T4A](http://doi.org/10.23708/SN2T4A).
+<!-- Data from Salson et al. (2025)  doi:10.1038/s41467-025-61529-z -->
+
+1. **_Medicago truncatula_ temporal data from: Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués}, J. Ronfort, K. Loridon, L. Gay (2019) [doi:10.15454/VCZIMR](http://doi.org/10.15454/VCZIMR).
+<!-- Data from Jullien et al. (2019)  doi:10.1038/s41437-019-0182-6 -->
+
+1. **Data from: Pleistocene origins of chorusing diversity in Mediterranean bush-cricket populations (_Ephippiger diurnus_)**. Y. Esquer-Garrigos, R. Streiff, V. Party, S. Nidelet, _M. de Navascués_, M.D. Greenfield (2018) [doi:10.5061/dryad.m04r4b5](http://doi.org/10.5061/dryad.m04r4b5 "Dryad").
+<!-- Data from Esquer-Garrigos et al. (2019)  doi:10.1093/biolinnean/bly195 -->
+
+1. **Data from: Genetic, morphological and acoustic evidence reveals lack of diversification in the colonization process in an island bird**. J.C. Illera, A.M. Palmero, P. Laiolo, F. Rodríguez, Á.C. Moreno, _M. de Navascués_ (2014) [doi:10.5061/dryad.q42p7](http://doi.org/10.5061/dryad.q42p7 "Dryad").
+<!-- Data from Illera et al. (2014)  doi:10.1111/evo.12429 -->
+
+1. **Data from: Distinguishing migration from isolation using genes with intragenic recombination: detecting introgression in the _Drosophila simulans_ species complex**
+_M. de Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2015) [doi:10.5061/dryad.67f8v](http://doi.org/10.5061/dryad.67f8v "Dryad").
+<!-- Data from Navascués et al. (2014)  doi:10.1186/1471-2148-14-89 -->
+
+1. **Data from: Recent population decline and selection shape diversity of taxol-related genes**. C. Burgarella, _M. de Navascués_, M. Zabal-Aguirre, E. Berganzo, M. Riba, M. Mayol, G.G. Vendramin, S.C. González-Martínez (2012) [doi:10.5061/dryad.4j7q3s0t](http://doi.org/10.5061/dryad.4j7q3s0t "Dryad").
+<!-- Data from Burgarella et al. (2014)  doi:10.1111/j.1365-294X.2012.05532.x -->
+
+1. **Data from: Elevated substitution rate estimates from ancient DNA: bias of Bayesian methods under complex demographic scenarios**. _M. de Navascués_, B.C. Emerson (2010) [doi:10.5061/dryad.1355](http://doi.org/10.5061/dryad.1355 "Dryad").
+<!-- Data from Navascués and Emerson (2009)  doi:10.1111/j.1365-294X.2009.04333.x -->
+
+1. **Data from: Genetic diversity of the endemic Canary Island pine tree, _Pinus canariensis_ (Ph.D. thesis)**. _M de Navascués_ (2012) [doi:10.5061/dryad.7tr51](http://doi.org/10.5061/dryad.7tr51 "Dryad").
+<!-- Data from Navascués et al. (2008) doi:10.1515/sg-2008-0052}; Navascués and Emerson (2007)   doi:10.1016/j.foreco.2007.04.009};  Navascués et al. (2006)   doi:10.1111/j.1365-294X.2006.02960.x -->
+ 
+
+
+
+
