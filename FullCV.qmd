@@ -285,6 +285,8 @@ box()
 
 ### Software
 
+1. **SelNeTime: a python package inferring effective population size and selection intensity from genomic time series data**. M. Uhl, P. Bunel, _M. de Navascués_, S. Boitard, B. Servin (2025) [Forge INRAE](https://forge.inrae.fr/genetic-time-series/selnetime "INRAE").
+
 1. **DARth ABC: Analysis of the dated archaeological record through approximate Bayesian computation**. _M. de Navascués_ (2025) [doi:10.5281/zenodo.7560876](http://doi.org/10.5281/zenodo.7560876 "Zenodo").
 
 1. **TimeAdapt: joint inference of demography and selection from longitudinal population genomic data**. _M de Navascués_ (2025) [doi:10.5281/zenodo.8232572](http://doi.org/10.5281/zenodo.8232572 "Zenodo").
@@ -294,38 +296,30 @@ box()
 1. **DriftTest: a computer program to detect selection from temporal genetic differentiation in partially selfing populations**. _M. de Navascués_, R. Vitalis (2020) [doi:10.5281/zenodo.1194662](http://doi.org/10.5281/zenodo.1194662 "Zenodo"). 
 <!-- Code from Navascués et al. (2020) doi:10.1101/2020.05.06.080895 -->
 
-1. **DriftTest-Evaluation: A suite of R scripts to evaluate the performance of DriftTest for detection of selection with temporal data**. A. Becheler, R. Vitalis, _M. de Navascués_ (2020) [doi:10.5281/zenodo.1194666](http://doi.org/10.5281/zenodo.1194666 "Zenodo")
-<!-- Code from Navascués _et al. (2020) doi:10.1101/2020.05.06.080895 -->
+1. **DriftTest-Evaluation: A suite of R scripts to evaluate the performance of DriftTest for detection of selection with temporal data**. A. Becheler, R. Vitalis, _M. de Navascués_ (2020) [doi:10.5281/zenodo.1194666](http://doi.org/10.5281/zenodo.1194666 "Zenodo").
+<!-- Code from Navascués et al. (2020) doi:10.1101/2020.05.06.080895 -->
 
-1. **microsatABC-IM: Approximate Bayesian computation inferences under the isolation with migration model from microsatellite data}
-_M de Navascués} (2017) \href{http://doi.org/10.5281/zenodo.895905}{doi:10.5281/zenodo.895905}
-%\footnotesize Code from Latinne _et al}.\ (2020) \href{http://doi.org/10.1007/s42991-019-00001-0}{doi:10.1007/s42991-019-00001-0}\normalsize
+1. **microsatABC-IM: Approximate Bayesian computation inferences under the isolation with migration model from microsatellite data**. _M. de Navascués_ (2017) [doi:10.5281/zenodo.895905](http://doi.org/10.5281/zenodo.895905 "Zenodo"). <!--  Code from Latinne _et al (2020) doi:10.1007/s42991-019-00001-0 -->
 
-1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations}
-M Jullien, _M de Navascués}, J Ronfort, L Gay (2019) \href{http://doi.org/10.15454/VYPXIJ}{doi:10.15454/VYPXIJ}
-%\footnotesize Code from Jullien _et al}.\ (2019) \href{http://doi.org/10.1038/s41437-019-0182-6}{doi:10.1038/s41437-019-0182-6}\normalsize
+1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués_, J. Ronfort, L. Gay (2019) [doi:10.15454/VYPXIJ](http://doi.org/10.15454/VYPXIJ).
+<!--  Code from Jullien et al. (2019) doi:10.1038/s41437-019-0182-6 -->
 
-1. **ABCQuinoa: Scripts in R for an an approximate Bayesian computation analysis of ancient Quinoa gene pools and their contribution to modern varieties in Antofagasta}
-_M de Navascués}, C Burgarella (2018) \href{http://doi.org/10.5281/zenodo.1489308}{doi:10.5281/zenodo.1489308}
-%\footnotesize Code from Winkel _et al}.\ (2018) \href{http://doi.org/10.1371/journal.pone.0207519}{doi:10.1371/journal.pone.0207519}\normalsize
+1. **ABCQuinoa: Scripts in R for an an approximate Bayesian computation analysis of ancient Quinoa gene pools and their contribution to modern varieties in Antofagasta**. _M. de Navascués_, C. Burgarella (2018) [doi:10.5281/zenodo.1489308](http://doi.org/10.5281/zenodo.1489308 "Zenodo").
+<!-- Code from Winkel et al. (2018) doi:10.1371/journal.pone.0207519 -->
 
-1. **TempoDiff: a computer program to detect selection from temporal genetic differentiation}
-R Vitalis, L Gay, _M de Navascués} (2017) \href{http://doi.org/10.5281/zenodo.375600}{doi:10.5281/zenodo.375600}
-%\footnotesize Code from Frachon _et al}.\:(2017) \href{http://doi.org/10.1038/s41559-017-0297-1}{doi:10.1038/s41559-017-0297-1}\normalsize 
+1. **TempoDiff: a computer program to detect selection from temporal genetic differentiation**. R. Vitalis, L. Gay, _M. de Navascués_ (2017) [doi:10.5281/zenodo.375600](http://doi.org/10.5281/zenodo.375600 "Zenodo").
+<!-- Code from Frachon et al. (2017) doi:10.1038/s41559-017-0297-1 -->
 
-1. **Blue Caterpillar: assignment methods on chloroplast microsatellites for provenance identification of reforested stands or seedlots}
-_M de Navascués}, J de Navascués (2020) \href{http://doi.org/10.5281/zenodo.4052295}{doi:10.5281/zenodo.4052295}
-%\footnotesize Code from Hernández-Tecles et al. (2017) \href{http://doi.org/10.5424/fs/2017262-9030}{doi:10.5424/fs/2017262-9030}\normalsize
+1. **Blue Caterpillar: assignment methods on chloroplast microsatellites for provenance identification of reforested stands or seedlots**. _M. de Navascués_, J. de Navascués (2020) [doi:10.5281/zenodo.4052295](http://doi.org/10.5281/zenodo.4052295 "Zenodo").
+<!-- Code from Hernández-Tecles et al. (2017) doi:10.5424/fs/2017262-9030 -->
 
-1. **DIYABCskylineplot: A suite of R scripts to perform a Approximate Bayesian Computation Skyline Plot}
-_M de Navascués} (2017) \href{http://doi.org/10.5281/zenodo.267182}{doi:10.5281/zenodo.267182}
-%\footnotesize Code from Navascués _et al}.\ (2017) \href{http://doi.org/10.7717/peerj.3530}{doi:10.7717/peerj.3530}\normalsize
+1. **DIYABCskylineplot: A suite of R scripts to perform a Approximate Bayesian Computation Skyline Plot**. _M. de Navascués_ (2017) [doi:10.5281/zenodo.267182](http://doi.org/10.5281/zenodo.267182 "Zenodo").
+<!-- Code from Navascués et al. (2017) doi:10.7717/peerj.3530 -->
 
 
-1. **SIplusA: A population genetics forward simulator with self-incompatibility system and partial asexuality**. _M de Navascués_ (2016) [doi:10.5281/zenodo.595878](http://doi.org/10.5281/zenodo.595878).
+1. **SIplusA: A population genetics forward simulator with self-incompatibility system and partial asexuality**. _M. de Navascués_ (2016) [doi:10.5281/zenodo.595878](http://doi.org/10.5281/zenodo.595878 "Zenodo").
 <!-- Code from Navascués et al (2010) doi:10.1038/hdy.2009.159 -->
 
-1. **LMSE (LinkMicroSatelliteExpansion): Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes}
-_M de Navascués} (2020) \href{http://doi.org/10.5281/zenodo.4053654}{doi:10.5281/zenodo.4053654}
-%\footnotesize Code from Navascués _et al}.\ (2009) \href{http://doi.org/10.1534/genetics.108.098194}{doi:10.1534/genetics.108.098194}\normalsize
+1. **LMSE (LinkMicroSatelliteExpansion): Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes**. _M de Navascués_ (2020) [doi:10.5281/zenodo.4053654](http://doi.org/10.5281/zenodo.4053654 "Zenodo").
+<!-- Code from Navascués et al. (2009) doi:10.1534/genetics.108.098194 -->
 
