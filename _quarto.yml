@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: "Miguel de Navascués"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: ShortCV.qmd
+        text: "Short CV"
+      - href: FullCV.qmd
+        text: "Full CV"
+
+format:
+  html:
+    code-fold: true
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    toc-title: Contents
+    link-external-icon: true
+    link-external-newwindow: true
+    other-links:
+      - text: ORCID
+        href: http://orcid.org/0000-0001-8342-6047
+      - text: OpenAlex
+        href: https://openalex.org/authors/a5008213968
+      - text: GitHub
+        href: https://github.com/mnavascues
+      - text: Mastodon
+        href: https://mastodon.online/@Miguel_de_Navascues
+      - text: CBGP web
+        href: https://umr-cbgp.fr/membre/de-navascues/
+  pdf:
+    geometry: 
+      - top=20mm
+      - left=20mm
+      - right=20mm
+      - nohead
+      - nofoot
+editor: source
+
+
+

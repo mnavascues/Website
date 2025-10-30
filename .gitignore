@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+CV.aux
+CV.tex
+/CV_files/
+CV.html
+/_site/

@@ -1,0 +1,350 @@
+---
+title: "Miguel de Navascués"
+date: today
+---
+
+# RESEARCH
+
+I am a researcher at the CBGP (*Centre de Biologie pour la Gestion des Populations* - INRAE) in Montpellier. My work focuses on the development and evaluation of statistical methods for analyzing population genetic data to infer evolutionary processes, including genetic drift, gene flow, and selection. Currently, my research is centered on three lines:
+
+1.  Simulation-based methods for the **joint inference of demographic and adaptive processes**.
+
+2.  **Analysis of temporal population genetic data**, such as data from monitored or experimental populations.
+
+3.  **Integrative demographic inference** combining genetic and demographic data (such as capture-recapture data).
+
+## Career
+
+2009--present
+:   **Researcher**, INRAE UMR1062 Centre de Biologie pour la Gestion des Populations (Montpellier, France).
+
+2021--2023
+:   **Visiting Researcher**, Human Evolution, EBC, Uppsala University (Sweden).
+
+2019--2021
+:   **Marie Skłodowska-Curie Fellow**, Human Evolution, EBC, Uppsala University (Sweden).
+
+2007--2009
+:   **Postdoctoral researcher**, CNRS UMR7625 Écologie et Évolution (Paris, France).
+<!--# Équipe de Éco-évolution Matematique -->
+
+2006--2007
+: **Visiting researcher**, Université Libre de Bruxelles (Belgium).
+<!--# 09/2006--02/2007 Service d'Éco-éthologie Évolutive -->
+
+2006
+: **Postdoctoral researcher**, Universidad Politécnica de Madrid & Centro de Investigación Forestal-INIA (Spain).
+<!--# 01--04/2006 UPM, Departamento de Silvopascicultura, Escuela Técnica Superior de Ingenieros de Montes & 05--07/2006 INIA, Unidad de Genética Forestal-->
+
+2001--2005
+: **Doctoral candidate**, University of East Anglia (UK).
+
+## Projects
+
+2025--2029
+: **OPTIMISTII - Optimisation du contrôle de *Drosophila suzukii* via une synergie entre Technique de l’Insecte Stérile et Technique de l’Insecte Incompatible**. PARSADA, FranceAgriMer. Rol: Collaborator. PI: N. Rode.
+<!--# 1285262€-->
+
+2022--2025
+: **DevOCGen: Développement et applications de nouveaux outils pour la gestion et la conservation des populations naturelles à partir de données génomiques**. BiodivOc - Biodiversité Occitanie. Rol: Collaborator. PI: S. Boitard & R Leblois.
+<!--#329800€-->
+
+2022--2024
+: **MODEGRAD: Modélisation de l'effet de la sélection naturelle, du changement climatique et de la gestion forestière sur la distribution des génotypes dans des gradients environnementaux**. AMI CLIMAE 2021, INRAE. Rol: Co-coordinator. PI: I. Scotti.
+<!--#49500€-->
+
+
+2020--2025
+: **INTROSPEC: Genomic consequences and evolutionary causes of introgression in the late stages of speciation**. ANR AAPG 2019. Rol: Collaborator. PI: P.-A. Crochet.
+<!--#517000€-->
+
+2020--2025
+: **PemilADAPT: Adaptive introgression in pearl millet**. ANR AAPG 2019. Rol: Collaborator. PI: C. Berthouly-Salazar.
+
+2019--2021
+: **TimeAdapt: Tracking genetic adaptation of populations using time-series genomic data**. Marie Skłodowska-Curie Individual Fellowships 2017. [doi:10.5281/zenodo.3267084](http://doi.org/10.5281/zenodo.3267084). Role: Fellow.
+<!--# 20000€ + 2 years salary -->
+
+2018--2019
+: **ABCSelection: Detection of loci under selection from temporal population genomic data through ABC random forest**. LabEx Agro, Cemeb & Numev Joint Call 2016. Rol: PI.
+<!--# 18 months postdoc salary + 5000€ -->
+
+<!--# 2016--2019 **GenomeHarvest: Mobilizing biomathematics-bioinformatics and genomics-genetics to decipher genome organization and dynamics as pathways to crop improvement** Agropolis Fondation flagship project. Rol: Collaborator. PI A D'Hont & M Ruiz -->
+<!--# 500000€ -->
+
+<!--# 2016--2017 **PlantEvol: Plant biodiversity in sub-Antarctic Islands: evolution, past and future in changing environments** Institut Paul-Emile Victor (IPEV) Project no. 1116. Rol: Collaborator. PI: F Hennion-->
+<!--#  20000€ ? -->
+
+<!--# 2014--2018 **TriPTIC: *Trichogramma* pour la protection des cultures : pangénomique, traits d'histoire de vie et capacités d'établissement** ANR AAPG 2014. Rol: Collaborator. PI: J-Y Rasplus -->
+<!--#  500000€ -->
+
+<!--# 2014 **Utilisation des longueurs d'haplotype et du déséquilibre de liaison pour l'inférence de l'histoire démographique populationnelle à partir de données génomique**. Appel à projets Jeunes Chercheurs et Animations Scientifiques (2013). Institut de Biologie Computationelle. Rol: Collaborator. PI: P Pudlo & R Leblois. -->
+<!--# 10000€  -->
+
+2013--2016
+: **SelfAdapt: Adaptation to climate change under selfing --- experimental test and selection footprints in _Medicago truncatula_**. Meta-programme INRA - Adapting Agriculture and Forestry to Climate Change 2012 (ACCAF). Rol: Co-coordinator. PI: L. Gay.
+<!--#  50000€  -->
+
+2012--2017
+: **IBC: Institute de Biologie Computationelle**. Investissements d'Avenir, Bioinformatique 2011. Rol: Collaborator. PI: O. Gascuel.
+<!--#  2000000€  -->
+
+2014--2015
+: **Interaction between ecological processes within community and population genetic structure**. Programme PHC Tournesol. Rol: Host.
+<!--#  With Gilles Dauby and Olivier Hardy -->
+
+<!--# 2014 **Apport des marqueurs de type RAD pour résoudre les relations phylogénétiques au sein de complexes d'espèces : le cas du genre *Thaumetopoea* **. Projet Innovant EFPA 2014. Rol: Co-coordinator. PI: C Kerdelhue. -->
+<!--#  8000€ -->
+
+2010--2013
+: **IGGiPop: Inférence en Génétique et Génomique des Populations**. Jeune Équipe INRA 2010. Rol: Collaborator. PI: R. Vitalis.
+<!--# 105000€-->
+
+
+2008--2009
+: **Diversidad Genética Neutral y Adaptativa de *Taxus baccata* en la Red de Parques Nacionales**. Ministerio de Medio Ambiente, Proyecto Parques Nacionales. Rol: Collaborator. PI: S. González-Martínez.
+<!--# 01/2008--12/2009   52088.58€  -->
+
+2007--2009
+: **TRANSBIODIV: Biodiversité trans-spécifique neutre et fonctionnelle : développements théoriques et quantification chez des organismes modèles**. ANR Biodiversité 2006. Rol: Postdoc. PI: M.-L. Cariou.
+
+
+2006--2007
+: **Developing Statistical Tools for Detection of Historical Demographic Expansions with Linked Microsatellites**. European Science Foundation, CONGEN Exchange Grant --- 1142. Rol: Grantee.
+<!--#  09/2006--03/2007  with Olivier Hardy 10700€ -->
+
+2005--2008
+: **Introgresión genética en las poblaciones relictas de *Pinus sylvestris* L. var *nevadensis* del Parque Nacional de Sierra Nevada**. Ministerio de Medio Ambiente, Proyecto Parques Nacionales. Rol: Postdoc. PI: J.J. Robledo-Arnuncio.
+
+2003
+: **Field Collection of Weevils (*Brachyderes* and *Rhinusa*) in Spain for Phylogeographic and Population Studies**. Richard Warn Memorial Fund Travel Award 2003. Rol: Grantee.
+<!--#  05/2003 300 pounds -->
+
+## Publications
+
+### citation statistics
+
+
+```{r}
+#| fig-cap: "Number of citations per year according to Google Scholar."
+#| warning: false
+library(scholar)
+profileMNavascues <- get_profile("I9Rd7ocAAAAJ")
+publicationsMNavascues <- get_publications("I9Rd7ocAAAAJ")
+citation_historyMNavascues <- get_citation_history("I9Rd7ocAAAAJ")
+par(mar=c(5,5,0,0)+0.2)
+barplot(citation_historyMNavascues$cites,names.arg=citation_historyMNavascues$year,col="orange",border = NA,xlab="",ylab="",las=2)
+box()
+```
+
+
+
+### preprints
+
+
+
+1. **Retracing the center of origin and evolutionary history of nutmeg _Myristica fragrans_, an emblematic spice tree species**. J. Kusuma, N. Scarcelli, _M. de Navascués_, M. Couderc, P. Gerard, J. Duminil (2023) [doi:10.22541/au.169114679.94713644/v1](http://doi.org/10.22541/au.169114679.94713644/v1 "Authorea"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="NXYAu82O0W8C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="NXYAu82O0W8C"]` "Google Scholar").
+<!--# Jakty Kusuma, Nora Scarcelli, _Miguel de Navascués_, Marie Couderc, Pierre Gerard, Jérôme Duminil -->
+<!-- submitted to Proceedings of the Royal Society B: Biological Sciences-->
+
+
+
+
+1. **Revisiting the African mtDNA landscape: A continental update from complete mitochondrial genomes**. I. Lankheet, A. Chowdhury, C. Tellgren-Roth, C. Jolly, A.E.R. Soares, _M. de Navascués_, S. Pacchiarotti, L. Maselli, G. Kouarata, J.-P. Donzo, V. Coetzee, M. de Castro, P. Ebbesen, E. Priehodová, E. Podgorná, V. Černý, S.T. Green, P. Harena, L. Bakrobena, F. Leypey Mathew Fomine, Z. Gebre, M. Tolesa, W. Abebe Mengesh, M. de Jongh, H. Soodyall, K. Bostoen, C. Barbieri, M. Larena, H. Malmström, C.M. Schlebusch (2025) [doi:10.1101/2025.04.05.647361](http://doi.org/10.1101/2025.04.05.647361 "bioRxiv"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="5rMqqAh47xYC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="5rMqqAh47xYC"]` "Google Scholar").
+<!--# Imke Lankheet, Afifa Chowdhury, Christian Tellgren-Roth, Cécile Jolly, André E. R. Soares, Miguel de Navascués, Sara Pacchiarotti, Lorenzo Maselli, Guy Kouarata, Jean-Pierre Donzo, Vinet Coetzee, Minique de Castro, Peter Ebbesen, Edita Priehodová, Eliška Podgorná, Viktor Černý, Susanne T. Green, Pakou Harena, Lebarama Bakrobena, Forka Leypey Mathew Fomine, Zelalem GebreMariam Tolesa, Wendawek Abebe Mengesh, Michael de Jongh, Himla Soodyall, Koen Bostoen, Chiara Barbieri, Maximilian Larena, Helena Malmström, Carina M. Schlebusch-->
+
+### articles
+
+
+1. **SelNeTime: a python package inferring effective population size and selection intensity from genomic time series data**. M. Uhl, P. Bunel, _M de Navascués_, S. Boitard, B. Servin (2024) [doi:10.1101/2024.11.06.622284](http://doi.org/10.1101/2024.11.06.622284 "bioRxiv"). [Open Peer-Review](https://doi.org/10.24072/pci.mcb.100406 "Peer Community in Computational and Mathematical Biology"), [Open Code](https://forge.inrae.fr/genetic-time-series/selnetime "Forge INRAE"), [Open Code](https://forge.inrae.fr/genetic-time-series/snt-simulation-pipeline "Forge INRAE"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="cF7EPgIk0B4C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="cF7EPgIk0B4C"]` "Google Scholar").
+<!--# Mathieu Uhl, Miguel de Navascués, Simon Boitard, Bertrand Servin-->
+
+1. **Variation in the number of radiocarbon (<sup>14</sup>C) dates does not equal change in stone age population size over time**. A. Högberg, K. Brink, T. Brorsson, H. Malmström, E. Rudebeck,  _M. de Navascués_ (2025) [doi:10.1016/j.jasrep.2025.105436](http://doi.org/10.1016/j.jasrep.2025.105436 "Journal of Archaeological Science: Reports 67:105436"). [Open Data](https://doi.org/10.1016/j.jasrep.2025.105436 "Journal of Archaeological Science: Reports"), [Open Code](https://doi.org/10.5281/zenodo.7560876 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="L7vk9XBBNxgC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="L7vk9XBBNxgC"]` "Google Scholar").
+<!--# Anders Högberg, Kristian Brink, Torbjörn Brorsson, Helena Malmström, Elisabeth Rudebeck, Miguel de Navascués-->
+
+1. **Performance evaluation of adaptive introgression classification methods**.
+ J. Romieu, G. Camarata, P.-A. Crochet,  _M de Navascués_, R. Leblois, F. Rousset (2025) [doi:10.24072/pcjournal.617](http://doi.org/10.24072/pcjournal.617 "Peer Community Journal 5:e95"). [Open Peer-Review](https://doi.org/10.24072/pci.evolbiol.100835 "Peer Community in Evolutionary Biology"), [Open Code](https://doi.org/10.5281/zenodo.14181497 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="Cvh0bltMcLgC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="Cvh0bltMcLgC"]` "Google Scholar").
+<!--# Jules Romieu, Ghislain Camarata, Pierre-André Crochet, View ORCID ProfileMiguel de Navascués, Raphaël Leblois, François Rousset -->
+
+
+1.  **Interplay between large low-recombining regions and pseudo-overdominance in a plant genome**.  M. Salson, M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, P. Cubry, A.-C. Thuillet, C. Burgarella,  _M de Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, A. Faye, N. Kane, Y. Vigouroux, C. Berthouly-Salazar (2025) [doi:10.1038/s41467-025-61529-z](http://doi.org/10.1038/s41467-025-61529-z "Nature Communications 16:6458"). [Open Peer-Review](http://doi.org/10.1038/s41467-025-61529-z "Nature Communications"), [Open Data](https://doi.org/10.23708/SN2T4A "DataSuds"), [Open Code](https://github.com/msalson/low-recombining_regions_study "GitHub"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="2Q0AJrNhS-QC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="2Q0AJrNhS-QC"]` "Google Scholar").
+<!--# Marine Salson, Maud Duranton, Stella Huynh, Cedric Mariac, Christine Tranchant-Dubreuil, Julie Orjuela, Philippe Cubry, Anne-celine Thuillet, Concetta Burgarella,  _Miguel de Navascués_, Leïla Zekraouï, Marie Couderc, Sandrine Arribat, Nathalie Rodde, Adeline Barnaud, Adama Faye, Ndjido Kane, Yves Vigouroux, Cecile Berthouly-Salazar-->
+
+1. **Analysis of the abundance of radiocarbon samples as count data**. _M. de Navascués_, C. Burgarella, M. Jakobsson (2024) [doi:10.24072/pcjournal.522](http://doi.org/10.24072/pcjournal.522 "Peer Community Journal 5:e20"). [Open Peer-Review](https://doi.org/10.24072/pci.archaeo.100583 "Peer Community in Archaeology"), [Open Code](https://doi.org/10.5281/zenodo.7560876 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="DGzKIA18-3YC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="DGzKIA18-3YC"]` "Google Scholar").
+<!--# Miguel de Navascués, Concetta Burgarella, Mattias Jakobsson -->
+
+1.  **Mating systems and recombination landscape strongly shape genetic diversity and selection in wheat relatives**. C. Burgarella, M.-F. Brémaud, G. Von Hirschheydt, V. Viader, M. Ardisson, S. Santoni, V. Ranwez,  _M. de Navascués_, J. David, S. Glémin (2024) [doi:10.1093/evlett/qrae039](http://doi.org/10.1093/evlett/qrae039 "Evolution Letters  8(6):866–880"). [Open Code](https://github.com/sylvainglemin/ms-rec-triticeae "GitHub"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="GtqhT-R7ZnwC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="GtqhT-R7ZnwC"]` "Google Scholar").
+<!-- Burgarella, Concetta and Brémaud, Marie-Fleur and Von Hirschheydt, Gesa and Viader, Veronique and Ardisson, Morgane and Santoni, Sylvain and Ranwez, Vincent and de Navascués, Miguel and David, Jacques and Glémin, Sylvain-->
+
+1.  **Genome scan of landrace populations of the self-fertilizing crop species rice, collected across time, revealed climate changes’ selective footprints in the genes network regulating flowering time**. N. Ahmadi, M. Barry, J. Frouin,  _M. de Navascués_, M. Touré (2023) [doi:10.1186/s12284-023-00633-4](http://doi.org/10.1186/s12284-023-00633-4 "Rice 16:15"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="eAUscmXIlQ8C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="eAUscmXIlQ8C"]` "Google Scholar").
+<!-- Nourollah Ahmadi, Mamadou Barry, Julien Frouin, Miguel de Navascués, Mamadou Touré -->
+
+1.  **Joint inference of adaptive and demographic history from temporal population genomic data**. V.A.C. Pavinato, S. De Mita, J.-M. Marin,  _M. de Navascués_ (2022) [doi:10.24072/pcjournal.203](http://doi.org/10.24072/pcjournal.203 "Peer Community Journal 2:e78"). [Open Peer-Review](https://doi.org/10.24072/pci.evolbiol.100158 "Peer Community in Evolutionary Biology"), [Open Data](https://doi.org/10.5281/zenodo.4599735 "Zenodo"), [Open Code](https://doi.org/10.5281/zenodo.4599735 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="htyGaKyDgHMC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="htyGaKyDgHMC"]` "Google Scholar").
+<!-- Vitor A. C. Pavinato, Stéphane De Mita, Jean-Michel Marin,  Miguel de Navascués-->
+
+
+1.  **Ancient and historical DNA in conservation policy**. E.L. Jensen, D. Díez-del-Molino, M.T.P. Gilbert, L. Bertola, F. Borges, V. Cubric-Curik,  _M. de Navascués_, P. Frandsen, M. Heuertz, C. Hvilsom, B. Jiménez-Mena, A. Miettinen, M. Moest, P. Pečnerová, I. Barnes, C. Vernesi (2022) [{doi:10.1016/j.tree.2021.12.010](http://doi.org/10.1016/j.tree.2021.12.010 "Trends in Ecology and Evolution 37(5):420–429"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="HqhvjgTjE9cC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="HqhvjgTjE9cC"]` "Google Scholar").
+<!-- Evelyn L. Jensen, David Díez-del-Molino, M. Thomas P. Gilbert, Laura Bertola, Filipa Borges, Vlatka Cubric-Curik,  _Miguel de Navascués_, Peter Frandsen, Myriam Heuertz, Christina Hvilsom, Belén Jiménez-Mena, Antti Miettinen, Markus Moest, Patrícia Pečnerová, Ian Barnes, Cristiano Vernesi -->
+
+1.  **Evolution of flowering time in a selfing annual plant: Roles of adaptation and genetic drift** L. Gay, J. Dhinaut, M. Jullien, R. Vitalis,  _M de Navascués_, V. Ranwez, J. Ronfort (2022) [doi:10.1002/ece3.8555](http://doi.org/10.1002/ece3.8555 "Ecology and Evolution 12(1):e8555"). [Open Peer-Review](http://doi.org/10.24072/pci.evolbiol.100128 "Peer Community in Evolutionary Biology"), [Open Code](http://doi.org/10.15454/ZY83BE). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="8RAEygVn5_EC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="8RAEygVn5_EC"]` "Google Scholar").
+<!-- Laurène Gay, Julien Dhinaut, Margaux Jullien, Renaud Vitalis,  _Miguel de Navascués_, Vincent Ranwez, Joëlle Ronfort -->
+
+1.  **Power and limits of selection genome scans on temporal data from a selfing population**.  _M. de Navascués_, A. Becheler, L. Gay, J. Ronfort, K. Loridon, R. Vitalis (2021) [doi:10.24072/pcjournal.47](http://doi.org/10.24072/pcjournal.47 "Peer Community Journal 1:e37"). [Open Peer-Review](http://doi.org/10.24072/pci.evolbiol.100110), [Open Code](http://doi.org/10.5281/zenodo.1194662), [Open Data](http://doi.org/10.15454/TYQDGP). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="wkm4DBaukwsC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="wkm4DBaukwsC"]` "Google Scholar").
+<!-- Miguel de Navascués, Arnaud Becheler, Laurène Gay, Joëlle Ronfort, Karine Loridon, Renaud Vitalis -->
+
+1.  **Linking seascape with landscape genetics: oceanic currents favour colonisation across the Galápagos Islands by a coastal plant**. Y. Arjona, J. Fernández-López,  _M. de Navascués_, N. Álvarez, M. Nogales, P. Vargas (2020) [doi:10.1111/jbi.13967](http://doi.org/10.1111/jbi.13967 "Journal of Biogeography 47(12):2622–2633"). [Open Access](https://digital.csic.es/handle/10261/220575 "CSIC"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="QKtdBID3u5MC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="QKtdBID3u5MC"]` "Google Scholar").
+<!-- Yurena Arjona, Javier Fernández-López,  _Miguel de Navascués_, Nadir Álvarez, Manuel Nogales, Pablo Vargas -->
+
+
+1.  **Phylogeography of the striped field mouse, _Apodemus agrarius_ (Rodentia: Muridae), throughout its distribution range in the Palearctic region**. A. Latinne,  _M. de Navascués_, M. Pavlenko, I. Kartavtseva, R.G. Ulrich, M.-L. Tiouchichine, G. Catteau, H. Sakka, J.‐P. Quéré, G. Chelomina, A. Bogdanov, M. Stanko, H. Lee, K. Neumann, H. Henttonen, J. Michaux (2020) [doi:10.1007/s42991-019-00001-0](http://doi.org/10.1007/s42991-019-00001-0 "Mammalian Biology 100(1):19–31"). [Open Access](https://hal.inrae.fr/hal-02544294 "HAL"), [Open Code](http://doi.org/10.5281/zenodo.895905 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="CMvovTBb2okC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="CMvovTBb2okC"]` "Google Scholar").
+<!-- Alice Latinne,  Miguel de Navascués, Marina Pavlenko, Irina Kartavtseva, Rainer G. Ulrich, Marie-Laure Tiouchichine, Gilles Catteau, Hela Sakka, Jean‐Pierre Quéré, Galina Chelomina, Aleksey Bogdanov, Michal Stanko, Hang Lee, Karsten Neumann, Heikki Henttonen, Johan Michaux -->
+
+
+1.  **Structure of multi-locus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués_, J. Ronfort, K. Loridon, L. Gay (2019) [doi:10.1038/s41437-019-0182-6](http://doi.org/10.1038/s41437-019-0182-6 "Heredity 123:176–191"). [Open Data](http://doi.org/10.15454/VCZIMR "Recherche Data Gouv"), [Open Code](http://doi.org/10.15454/VYPXIJ "Recherche Data Gouv"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="tBlTYpvFGQIC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="tBlTYpvFGQIC"]` "Google Scholar").
+<!-- Margaux Jullien, Miguel de Navascués, Joëlle Ronfort, Karine Loridon, Laurène Gay --> 
+
+1.  **Pleistocene origins of chorusing diversity in Mediterranean bush-cricket populations (_Ephippiger diurnus_)**. Y. Esquer-Garrigos, R. Streiff, V. Party, S. Nidelet, _M de Navascués_, M.D. Greenfield (2019) [http://doi.org/10.1093/biolinnean/bly195](http://doi.org/10.1093/biolinnean/bly195 "Biological Journal of the Linnean Society 126:598–613"). [Open Data](http://doi.org/10.5061/dryad.m04r4b5 "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="PVqtIyvKoSUC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="PVqtIyvKoSUC"]` "Google Scholar").
+<!-- Yareli Esquer-Garrigos, Réjane Streiff, Virginie Party, Sabine Nidelet, Miguel de Navascués, Michael D. Greenfield -->
+
+
+1.  **Discontinuities in quinoa biodiversity in the dry Andes: an 18-century perspective based on allelic genotyping**. T. Winkel, M.G. Aguirre, C.M. Arizio, C.A. Aschero, M.d.P. Babot, L. Benoit, C. Burgarella, S. Costa-Tártara, M.-P. Dubois, L. Gay, S. Hocsman, M. Jullien, S.M.L. Lopez Campeny, M.M. Manifesto,  _M. de Navascués_, N. Oliszewski, E. Pintar, S. Zenboudji, H.D. Bertero, R. Joffre (2018) [http://doi.org/10.1371/journal.pone.0207519](http://doi.org/10.1371/journal.pone.0207519 "PLoS ONE 13:e0207519"). [Open Code](http://doi.org/10.5281/zenodo.1489308 "Zenodo").  Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="u3T1itk59dMC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="u3T1itk59dMC"]` "Google Scholar").
+<!-- Thierry Winkel, María Gabriela Aguirre, Carla Marcela Arizio, Carlos Alberto Aschero, María del Pilar Babot, Laure Benoit, Concetta Burgarella, Sabrina Costa-Tártara, Marie-Pierre Dubois, Laurène Gay, Salomón Hocsman, Margaux Jullien, Sara Maria Luisa Lopez Campeny, María Marcela Manifesto,  Miguel de Navascués, Nurit Oliszewski, Elizabeth Pintar, Saliha Zenboudji, Hector Daniel Bertero, Richard Joffre -->
+
+1.  **Intermediate degrees of synergistic pleiotropy drive adaptive evolution in ecological time**. L. Frachon, C. Libourel, R. Villoutreix, S. Carrere, C. Glorieux, C. Huard-Chauveau,  _M de Navascués_, L. Gay, R. Vitalis, E. Baron, L. Amsellem, O. Bouchez, M. Vidal, V. Le Corre, D. Roby, J. Bergelson, F. Roux (2017) [doi:10.1038/s41559-017-0297-1](http://doi.org/10.1038/s41559-017-0297-1 "Nature Ecology and Evolution 1:1551–1561"). [Open Code](http://doi.org/10.5281/zenodo.375600 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="yIeBiWEAh44C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="yIeBiWEAh44C"]` "Google Scholar").
+¡<!-- Léa Frachon, Cyril Libourel, Romain Villoutreix, Sébastien Carrere, Cédric Glorieux, Carine Huard-Chauveau, Miguel de Navascués, Laurène Gay, Renaud Vitalis, Etienne Baron, Laurent Amsellem, Olivier Bouchez, Marie Vidal, Valérie Le Corre, Dominique Roby, Joy Bergelson, Fabrice Roux -->
+
+
+1.  **Identification of gene pools used in restoration and conservation by chloroplast microsatellite markers in Iberian pine species**. E. Hernández-Tecles, J. de las Heras, Z. Lorenzo,  _M. de Navascués_, R. Alía (2017) [doi:10.5424/fs/2017262-9030](http://doi.org/10.5424/fs/2017262-9030 "Forest Systems 26:e05S"). [Open Code](http://doi.org/10.5281/zenodo.4052295 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="oqD4_j7ulsYC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="oqD4_j7ulsYC"]` "Google Scholar").
+<!-- Enrique Hernández-Tecles, Jorge de las Heras, Zaida Lorenzo, Miguel de Navascués, Ricardo Alía -->
+
+1.  **Demographic inference through approximate-Bayesian-computation skyline plots**. _M. de Navascués_, R. Leblois, C. Burgarella (2017) [doi:10.7717/peerj.3530](http://doi.org/10.7717/peerj.3530 "PeerJ 5:e3530"). [Open Code](http://doi.org/10.5281/zenodo.267182). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="oursBaop5wYC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="oursBaop5wYC"]` "Google Scholar").
+<!-- Miguel de Navascués, Raphaël Leblois, Concetta Burgarella -->
+
+1.  **Increased fire frequency promotes stronger spatial genetic structure and natural selection at regional and local scales in  _Pinus pinaster_ Mill**. K.B. Budde,  _M. de Navascués_, S.C. González-Martínez, C. Burgarella, E. Mosca, Z. Lorenzo, M. Zabal-Aguirre, G.G. Vendramin, M. Verdú, J.G. Pausas, M. Heuertz (2017) [doi:10.1093/aob/mcw286](http://doi.org/10.1093/aob/mcw286 "Annals of Botany 119:1061–1072"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="lK9BDNCuzFgC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="lK9BDNCuzFgC"]` "Google Scholar").
+<!-- Katharina B. Budde,  _Miguel de Navascués_, Santiago C. González-Martínez, Concetta Burgarella, Elena Mosca, Zaida Lorenzo, Mario Zabal-Aguirre, Giovanni G. Vendramin, Miguel Verdú, Juli G. Pausas, Myriam Heuertz -->
+
+
+1.  **Black rat invasion of inland Sahel: insights from interviews and population genetics in South Western Niger**. K. Berthier, M. Garba, R. Leblois,  _M. de Navascués_, C. Tatard, P. Gauthier, S. Gagaré, S. Piry, C. Brouat, A. Dalecky, A. Loiseau, G. Dobigny (2016) [doi:10.1111/bij.12836](http://doi.org/10.1111/bij.12836 "Biological Journal of the Linnean Society 119:748–765"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="ukw-9cB-YDkC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="ukw-9cB-YDkC"]` "Google Scholar").
+<!-- Karine Berthier, Madougou Garba, Raphaël Leblois, Miguel de Navascués, Caroline Tatard, Philippe Gauthier, Sama Gagaré, Sylvain Piry, Carine Brouat, Ambroise Dalecky, Anne Loiseau, Gauthier Dobigny -->
+
+1.  **Genetic, morphological and acoustic evidence reveals lack of diversification in the colonization process in an island bird**. J.C. Illera, A.M. Palmero, P. Laiolo, F. Rodríguez, Á.C. Moreno,  _M. de Navascués_ (2014) [doi:10.1111/evo.12429](http://doi.org/10.1111/evo.12429 "Evolution 68:2259–2274"). [Open Data](http://doi.org/10.5061/dryad.q42p7 "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="4n0clTBhZ78C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="4n0clTBhZ78C"]` "Google Scholar").
+<!-- Juan Carlos Illera, Ana M. Palmero, Paola Laiolo, Felipe Rodríguez, Ángel C. Moreno,  Miguel de Navascués -->
+
+1.  **Distinguishing migration from isolation using genes with intragenic recombination: detecting introgression in the _Drosophila simulans_ species complex**. _M. de Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2014) [doi:10.1186/1471-2148-14-89](http://doi.org/10.1186/1471-2148-14-89 "BMC Evolutionary Biology 14:89"). [Open Data](http://doi.org/10.5061/dryad.67f8v "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="sbeIDTyQOFgC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="sbeIDTyQOFgC"]` "Google Scholar").
+<!--  _Miguel de Navascués_, Delphine Legrand, Cécile Campagne, Marie-Louise Cariou, Frantz Depaulis -->
+
+1.  **The complex history of the olive tree: from Late Quaternary diversification of Mediterranean lineages to primary domestication in the northern Levant**. G. Besnard, B. Khadari,  _M. de Navascués_, M. Fernández-Mazuecos, A. El Bakkali, N. Arrigo, D. Baali-Cherif, V. Brunini-Bronzini de Caraffa, S. Santoni, P. Vargas, V. Savolainen (2013) [doi:10.1098/rspb.2012.2833](http://doi.org/10.1098/rspb.2012.2833 "Proceedings of the Royal Society B: Biological Sciences 280:1471–2954"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="Se3iqnhoufwC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="Se3iqnhoufwC"]` "Google Scholar").
+<!-- Guillaume Besnard, Bouchaib Khadari,  _Miguel de Navascués_, Mario Fernández-Mazuecos, Ahmed El Bakkali, Nils Arrigo, Djamel Baali-Cherif, Virginie Brunini-Bronzini de Caraffa, Sylvain Santoni, Pablo Vargas, Vincent Savolainen -->
+
+
+1.  **Recent population decline and selection shape diversity of taxol-related genes**. C. Burgarella,  _M. de Navascués_, M. Zabal-Aguirre, E. Berganzo, M. Riba, M. Mayol, G.G. Vendramin, S.C. González-Martínez (2012) [doi:10.1111/j.1365-294X.2012.05532.x](http://doi.org/10.1111/j.1365-294X.2012.05532.x "Molecular Ecology 21:3006–3021"). [Open Data](http://doi.org/10.5061/dryad.4j7q3s0t "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="_FxGoFyzp5QC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="_FxGoFyzp5QC"]` "Google Scholar").
+<!-- Concetta Burgarella,  _Miguel de Navascués_, Mario Zabal-Aguirre, Elisa Berganzo, Miquel Riba, María Mayol, Giovanni G. Vendramin, Santiago C. González-Martínez -->
+
+1.  **Evolution of neutral and flowering genes along pearl millet (_Pennisetum glaucum_) domestication**. G. Lakis,  _M. de Navascués_, S. Sekima, M. Simon, M.-S. Remigereau, M. Leveugle, N. Takvorian, F. Lamy, F. Depaulis, T. Robert (2012) [doi:10.1371/journal.pone.0036642](http://doi.org/10.1371/journal.pone.0036642 "PLoS ONE 7:e36642"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="LkGwnXOMwfcC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="LkGwnXOMwfcC"]` "Google Scholar").
+<!-- Ghayas Lakis,  _Miguel de Navascués_, Samah Sekima, Mathieu Simon, Marie-Stanislas Remigereau, Magalie Leveugle, Najat Takvorian, Françoise Lamy, Frantz Depaulis, Thierry Robert -->
+
+1.  **Mutation rate estimates for 110 Y-chromosome STRs combining population and father-son pair data**. C. Burgarella,  _M. de Navascués_ (2011) [doi:10.1038/ejhg.2010.154](http://doi.org/10.1038/ejhg.2010.154 "European Journal of Human Genetics 19:70–75"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="zYLM7Y9cAGgC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="zYLM7Y9cAGgC"]` "Google Scholar").
+<!-- Concetta Burgarella,  Miguel de Navascués -->
+
+1.  **CpDNA-based species identification and phylogeography: application to African tropical tree species**. J. Duminil, M. Heuertz, J.‐L. Doucet, N. Bourland, C. Cruaud, F. Gavory, C. Doumenge,  _M. de Navascués_, O.J. Hardy (2010) [doi:10.1111/j.1365-294X.2010.04917.x](http://doi.org/10.1111/j.1365-294X.2010.04917.x "Molecular Ecology 19:5469–5483"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="9yKSN-GCB0IC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="9yKSN-GCB0IC"]` "Google Scholar").
+<!-- Jérôme Duminil, Myriam Heuertz, Jean‐Louis Doucet, Nils Bourland, Corinne Cruaud, Frédérick Gavory, Charles Doumenge, Miguel de Navascués, Olivier J. Hardy -->
+
+1.  **Combining contemporary and ancient DNA in population genetic and phylogeographic studies**. _M. de Navascués_, F. Depaulis, B.C. Emerson (2010) [doi:10.1111/j.1755-0998.2010.02895.x](http://doi.org/10.1111/j.1755-0998.2010.02895.x "Molecular Ecology Resources 10:760–772"). [Open Access](https://hal.archives-ouvertes.fr/hal-00584160/ "HAL"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="Y0pCki6q_DkC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="Y0pCki6q_DkC"]` "Google Scholar").
+<!-- Miguel de Navascués, Frantz Depaulis, Brent C. Emerson -->
+
+1.  **Genetic diversity and fitness in small populations of partially asexual, self-incompatible plants**.  _M. de Navascués_, S. Stoeckel, S. Mariette (2010) [doi:10.1038/hdy.2009.159](http://doi.org/10.1038/hdy.2009.159 "Heredity 104:482–492"). [Open Code](http://doi.org/10.5281/zenodo.595878). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="qjMakFHDy7sC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="qjMakFHDy7sC"]` "Google Scholar").
+<!-- Miguel de Navascués, Solenn Stoeckel, Stéphanie Mariette -->
+
+1.  **Estimating gametic introgression rates in a risk assessment context: a case study with Scots pine relicts**. J.J. Robledo-Arnuncio,  _M. de Navascués_, S.C. González-Martínez, L. Gil (2009) [http://doi.org/10.1038/hdy.2009.78](http://doi.org/10.1038/hdy.2009.78 "Heredity 103:385–393"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="UeHWp8X0CEIC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="UeHWp8X0CEIC"]` "Google Scholar").
+<!-- Juan J. Robledo-Arnuncio,  Miguel de Navascués, Santiago C. González-Martínez, Luis Gil -->
+
+1.  **Elevated substitution rate estimates from ancient DNA: model violation and bias of Bayesian methods**. _M. de Navascués_, B.C. Emerson (2009) [doi:10.1111/j.1365-294X.2009.04333.x](http://doi.org/10.1111/j.1365-294X.2009.04333.x "Molecular Ecology 18:4390–4397"). [Open Data](http://doi.org/10.5061/dryad.1355 "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="d1gkVwhDpl0C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="d1gkVwhDpl0C"]` "Google Scholar").
+<!--Miguel de Navascués, Brent C. Emerson -->
+
+1.  **Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes**.  _M. de Navascués_, O.J. Hardy, C. Burgarella (2009) [doi:10.1534/genetics.108.098194](http://doi.org/10.1534/genetics.108.098194 "Genetics 181:1013–1019"). [Open Code](http://doi.org/10.5281/zenodo.4053654 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="W7OEmFMy1HYC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="W7OEmFMy1HYC"]` "Google Scholar").
+<!--  _Miguel de Navascués_, Olivier J. Hardy, Concetta Burgarella -->
+
+1.  **The effect of altitude on patterns of gene flow in the endemic Canary Island pine,  _Pinus canariensis_**.  _M. de Navascués_, G.G. Vendramin, B.C. Emerson (2008) [doi:10.1515/sg-2008-0052](http://doi.org/10.1515/sg-2008-0052 "Silvae Genetica 57"). [Open Data](http://doi.org/10.5061/dryad.7tr51 "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="Tyk-4Ss8FVUC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="Tyk-4Ss8FVUC"]` "Google Scholar").
+<!--  _Miguel de Navascués_, Giovanni  G. Vendramin, Brent C. Emerson -->
+
+1.  **Natural recovery of genetic diversity in reforested areas of the endemic Canary Island pine, _Pinus canariensis_**.  _M. de Navascués_, B.C. Emerson (2007) [doi:10.1016/j.foreco.2007.04.009](http://doi.org/10.1016/j.foreco.2007.04.009 "Forest Ecology and Management 244:122–128"). [Open Access](https://arxiv.org/abs/0810.5676 "arXiv"), [Open Data](http://doi.org/10.5061/dryad.7tr51 "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="2osOgNQ5qMEC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="2osOgNQ5qMEC"]` "Google Scholar"). 
+<!--  _Miguel de Navascués_, Brent C. Emerson -->
+
+1.  **Narrow  genetic base in forest restoration with holm oak (_Quercus ilex_ L.) in Sicily**. C. Burgarella,  _M. de Navascués_, Á. Soto, Á. Lora, S. Fici (2007) [doi:10.1051/forest:2007055](http://doi.org/10.1051/forest:2007055 "Annals of Forest Science 64:757–763"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="IjCSPb-OGe4C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="IjCSPb-OGe4C"]` "Google Scholar"). 
+<!-- Concetta Burgarella,  _Miguel de Navascués_, Álvaro Soto, Ángel Lora, Silvio Fici -->
+
+1.  **Chloroplast microsatellites reveal colonization and metapopulation dynamics in the Canary Island pine**. _M. de Navascués_, Z. Vaxevanidou, S.C. González-Martínez, J. Climent, L. Gil, B.C. Emerson (2006) [doi:10.1111/j.1365-294X.2006.02960.x](http://doi.org/10.1111/j.1365-294X.2006.02960.x "Molecular Ecology 15:2691–2698"). [Open Data](http://doi.org/10.5061/dryad.7tr51 "Dryad"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="u-x6o8ySG0sC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="u-x6o8ySG0sC"]` "Google Scholar"). 
+<!-- Miguel de Navascués, Zafeiro Vaxevanidou, Santiago C. González-Martínez, José Climent, Luis Gil, Brent C. Emerson -->
+
+1.  **Chloroplast microsatellite: measures of genetic diversity and the effect of homoplasy**.  _M. de Navascués_, B.C. Emerson (2005) [doi:10.1111/j.1365-294X.2005.02504.x](http://doi.org/10.1111/j.1365-294X.2005.02504.x "Molecular Ecology 14:1333–1341"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="u5HHmVD_uO8C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="u5HHmVD_uO8C"]` "Google Scholar").
+<!--  Miguel de Navascués, Brent C. Emerson -->
+
+
+### book chapter
+
+1. **Introgresión genética en las poblaciones relictas de _Pinus sylvestris_ L. var. _nevadensis_ del Parque Nacional de Sierra Nevada**. J.J. Robledo-Arnuncio, _M. de Navascués_, S.C. González-Martínez, L. Gil (2009) in L Ramírez, B. Asensio (eds.) _Proyectos de Investigación en Parques Nacionales: 2005–2008_ Organismo Autónomo Parques Nacionales, Madrid.
+<!-- Juan J. Robledo-Arnuncio, Miguel de Navascués, Santiago C. González-Martínez, Luis Gil; Lucía Ramírez-Sanz and Benigno Asensio Nistal (eds.) -->
+<!-- webpage, not functional: https://www.miteco.gob.es/es/parques-nacionales-oapn/publicaciones/2005-2008.aspx -->
+
+### theses
+
+1. **Genetic diversity of the endemic Canary Island pine tree, _Pinus  canariensis_**. _M. de Navascués_ (2005) [doi:10.6084/m9.figshare.1108027.v1](https://doi.org/10.6084/m9.figshare.1108027.v1 "FigShare"). PhD thesis. University of East Anglia, School of Biological Sciences. Norwich (UK). Supervisor: B.C. Emerson.
+
+1. **Metapopulation dynamics as an explanation to the genetic structure of the desert locust populations: parameter exploration**. _M. de Navascués_ (2001) [doi:10.6084/m9.figshare.1108026.v1](http://doi.org/10.6084/m9.figshare.1108026.v1 "FigShare"). BSc research project. University of East Anglia, School of Biological Sciences. Norwich (UK). Supervisor: K. Ibrahim.
+
+### conference proceedings
+
+1. **Diversidad y flujo genético en plantaciones de _Pinus canariensis_**. _M. de Navascués_, B.C. Emerson (2006) in _Congreso de los Recursos Forestales. IV Jornadas Forestales de la Macaronesia_, Breña Baja (Spain).
+
+1. **Estudio de la variabilidad genética de repoblaciones de _Quercus ilex_ subsp. _ballota_ en Andalucía**. C. Burgarella, _M. de Navascués_, S- Fici, Á- Lora González (2005) in _Libro de Resúmenes, Conferencias y Ponencias del IV Congreso Forestal Español_, Sociedad Española de Ciencias Forestales, Zaragoza (Spain).
+
+1. **El éxito evolutivo de los insectos**. _M. de Navascués_ (1997) in A. Delgado Buscalioni, J. Díaz Díaz, M. Herráiz Moreno (eds.) _I Encuentro de Estudiantes sobre Biología Evolutiva_, Universidad Autónoma de Madrid, Madrid (Spain).
+
+## Software and Data
+
+### Software
+
+1. **DARth ABC: Analysis of the dated archaeological record through approximate Bayesian computation**. _M. de Navascués_ (2025) [doi:10.5281/zenodo.7560876](http://doi.org/10.5281/zenodo.7560876 "Zenodo").
+
+1. **TimeAdapt: joint inference of demography and selection from longitudinal population genomic data**. _M de Navascués_ (2025) [doi:10.5281/zenodo.8232572](http://doi.org/10.5281/zenodo.8232572 "Zenodo").
+
+1. **TrackingSelection: Tracking selection using temporal population genomics data**. V.A.C. Pavinato, S. De Mita, J.M. Cridland, _M. de Navascués_ (2022) [doi:10.5281/zenodo.7244868](http://doi.org/10.5281/zenodo.7244868 "Zenodo").
+
+1. **DriftTest: a computer program to detect selection from temporal genetic differentiation in partially selfing populations**. _M. de Navascués_, R. Vitalis (2020) [doi:10.5281/zenodo.1194662](http://doi.org/10.5281/zenodo.1194662 "Zenodo"). 
+<!-- Code from Navascués et al. (2020) doi:10.1101/2020.05.06.080895 -->
+
+1. **DriftTest-Evaluation: A suite of R scripts to evaluate the performance of DriftTest for detection of selection with temporal data**. A. Becheler, R. Vitalis, _M. de Navascués_ (2020) [doi:10.5281/zenodo.1194666](http://doi.org/10.5281/zenodo.1194666 "Zenodo")
+<!-- Code from Navascués _et al. (2020) doi:10.1101/2020.05.06.080895 -->
+
+1. **microsatABC-IM: Approximate Bayesian computation inferences under the isolation with migration model from microsatellite data}
+_M de Navascués} (2017) \href{http://doi.org/10.5281/zenodo.895905}{doi:10.5281/zenodo.895905}
+%\footnotesize Code from Latinne _et al}.\ (2020) \href{http://doi.org/10.1007/s42991-019-00001-0}{doi:10.1007/s42991-019-00001-0}\normalsize
+
+1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations}
+M Jullien, _M de Navascués}, J Ronfort, L Gay (2019) \href{http://doi.org/10.15454/VYPXIJ}{doi:10.15454/VYPXIJ}
+%\footnotesize Code from Jullien _et al}.\ (2019) \href{http://doi.org/10.1038/s41437-019-0182-6}{doi:10.1038/s41437-019-0182-6}\normalsize
+
+1. **ABCQuinoa: Scripts in R for an an approximate Bayesian computation analysis of ancient Quinoa gene pools and their contribution to modern varieties in Antofagasta}
+_M de Navascués}, C Burgarella (2018) \href{http://doi.org/10.5281/zenodo.1489308}{doi:10.5281/zenodo.1489308}
+%\footnotesize Code from Winkel _et al}.\ (2018) \href{http://doi.org/10.1371/journal.pone.0207519}{doi:10.1371/journal.pone.0207519}\normalsize
+
+1. **TempoDiff: a computer program to detect selection from temporal genetic differentiation}
+R Vitalis, L Gay, _M de Navascués} (2017) \href{http://doi.org/10.5281/zenodo.375600}{doi:10.5281/zenodo.375600}
+%\footnotesize Code from Frachon _et al}.\:(2017) \href{http://doi.org/10.1038/s41559-017-0297-1}{doi:10.1038/s41559-017-0297-1}\normalsize 
+
+1. **Blue Caterpillar: assignment methods on chloroplast microsatellites for provenance identification of reforested stands or seedlots}
+_M de Navascués}, J de Navascués (2020) \href{http://doi.org/10.5281/zenodo.4052295}{doi:10.5281/zenodo.4052295}
+%\footnotesize Code from Hernández-Tecles et al. (2017) \href{http://doi.org/10.5424/fs/2017262-9030}{doi:10.5424/fs/2017262-9030}\normalsize
+
+1. **DIYABCskylineplot: A suite of R scripts to perform a Approximate Bayesian Computation Skyline Plot}
+_M de Navascués} (2017) \href{http://doi.org/10.5281/zenodo.267182}{doi:10.5281/zenodo.267182}
+%\footnotesize Code from Navascués _et al}.\ (2017) \href{http://doi.org/10.7717/peerj.3530}{doi:10.7717/peerj.3530}\normalsize
+
+
+1. **SIplusA: A population genetics forward simulator with self-incompatibility system and partial asexuality**. _M de Navascués_ (2016) [doi:10.5281/zenodo.595878](http://doi.org/10.5281/zenodo.595878).
+<!-- Code from Navascués et al (2010) doi:10.1038/hdy.2009.159 -->
+
+1. **LMSE (LinkMicroSatelliteExpansion): Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes}
+_M de Navascués} (2020) \href{http://doi.org/10.5281/zenodo.4053654}{doi:10.5281/zenodo.4053654}
+%\footnotesize Code from Navascués _et al}.\ (2009) \href{http://doi.org/10.1534/genetics.108.098194}{doi:10.1534/genetics.108.098194}\normalsize
+
