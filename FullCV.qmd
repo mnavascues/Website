@@ -301,7 +301,7 @@ box()
 
 1. **microsatABC-IM: Approximate Bayesian computation inferences under the isolation with migration model from microsatellite data**. _M. de Navascués_ (2017) [doi:10.5281/zenodo.895905](http://doi.org/10.5281/zenodo.895905 "Zenodo"). <!--  Code from Latinne _et al (2020) doi:10.1007/s42991-019-00001-0 -->
 
-1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués_, J. Ronfort, L. Gay (2019) [doi:10.15454/VYPXIJ](http://doi.org/10.15454/VYPXIJ).
+1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués_, J. Ronfort, L. Gay (2019) [doi:10.15454/VYPXIJ](http://doi.org/10.15454/VYPXIJ "Recherche Data Gouv").
 <!--  Code from Jullien et al. (2019) doi:10.1038/s41437-019-0182-6 -->
 
 1. **ABCQuinoa: Scripts in R for an an approximate Bayesian computation analysis of ancient Quinoa gene pools and their contribution to modern varieties in Antofagasta**. _M. de Navascués_, C. Burgarella (2018) [doi:10.5281/zenodo.1489308](http://doi.org/10.5281/zenodo.1489308 "Zenodo").
