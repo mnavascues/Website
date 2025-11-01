@@ -3,41 +3,16 @@ title: "Miguel de Navascués"
 date: today
 ---
 
+
+
 # RESEARCH
 
-I am a researcher at the CBGP (*Centre de Biologie pour la Gestion des Populations* - INRAE) in Montpellier. My work focuses on the development and evaluation of statistical methods for analyzing population genetic data to infer evolutionary processes, including genetic drift, gene flow, and selection. Currently, my research is centered on three lines:
-
-1.  Simulation-based methods for the **joint inference of demographic and adaptive processes**.
-
-2.  **Analysis of temporal population genetic data**, such as data from monitored or experimental populations.
-
-3.  **Integrative demographic inference** combining genetic and demographic data (such as capture-recapture data).
+{{< include _short_research_presentation.qmd >}}
 
 ## Career
 
-2009--present
-: Researcher, INRAE UMR1062 Centre de Biologie pour la Gestion des Populations (Montpellier, France).
+{{< include _career.qmd >}}
 
-2021--2023
-: Visiting Researcher, Human Evolution, EBC, Uppsala University (Sweden).
-
-2019--2021
-: Marie Skłodowska-Curie Fellow, Human Evolution, EBC, Uppsala University (Sweden).
-
-2007--2009
-: Postdoctoral researcher, CNRS UMR7625 Écologie et Évolution (Paris, France).
-<!--# Équipe de Éco-évolution Matematique -->
-
-2006--2007
-: Visiting researcher, Université Libre de Bruxelles (Belgium).
-<!--# 09/2006--02/2007 Service d'Éco-éthologie Évolutive -->
-
-2006
-: Postdoctoral researcher, Universidad Politécnica de Madrid & Centro de Investigación Forestal-INIA (Spain).
-<!--# 01--04/2006 UPM, Departamento de Silvopascicultura, Escuela Técnica Superior de Ingenieros de Montes & 05--07/2006 INIA, Unidad de Genética Forestal-->
-
-2001--2005
-: Doctoral candidate, University of East Anglia (UK).
 
 ## Projects
 
@@ -59,16 +34,7 @@ I have participated, as coordinator and collaborator, to 21 funded research proj
 I have published 38 articles and 2 pre-prints. Selection of publications below.
 
 ```{r}
-#| fig-cap: "Number of citations per year according to Google Scholar."
-#| fig-height: 3
-#| warning: false
-library(scholar)
-profileMNavascues <- get_profile("I9Rd7ocAAAAJ")
-publicationsMNavascues <- get_publications("I9Rd7ocAAAAJ")
-citation_historyMNavascues <- get_citation_history("I9Rd7ocAAAAJ")
-par(mar=c(5,5,0,0)+0.2)
-barplot(citation_historyMNavascues$cites,names.arg=citation_historyMNavascues$year,col="orange",border = NA,xlab="",ylab="",las=2)
-box()
+{{< include _citation_statistics.R >}}
 ```
 
 

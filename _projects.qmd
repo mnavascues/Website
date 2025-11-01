@@ -1,0 +1,68 @@
+<!-- Projects -->
+
+1. **OPTIMISTII - Optimisation du contrôle de *Drosophila suzukii* via une synergie entre Technique de l’Insecte Stérile et Technique de l’Insecte Incompatible**. PARSADA, FranceAgriMer (2025--2029). Rol: Collaborator. PI: N. Rode.
+<!-- 1285262€-->
+
+1. **DevOCGen: Développement et applications de nouveaux outils pour la gestion et la conservation des populations naturelles à partir de données génomiques**. BiodivOc - Biodiversité Occitanie (2022--2025). Rol: Collaborator. PI: S. Boitard & R Leblois.
+<!--329800€-->
+
+1. **MODEGRAD: Modélisation de l'effet de la sélection naturelle, du changement climatique et de la gestion forestière sur la distribution des génotypes dans des gradients environnementaux**. AMI CLIMAE 2021, INRAE (2022--2024). Rol: Co-coordinator. PI: I. Scotti.
+<!--49500€-->
+
+1. **INTROSPEC: Genomic consequences and evolutionary causes of introgression in the late stages of speciation**. ANR AAPG 2019 (2020--2025). Rol: Collaborator. PI: P.-A. Crochet.
+<!--517000€-->
+
+1. **PemilADAPT: Adaptive introgression in pearl millet**. ANR AAPG 2019 (2020--2025). Rol: Collaborator. PI: C. Berthouly-Salazar.
+
+1. **TimeAdapt: Tracking genetic adaptation of populations using time-series genomic data**. Marie Skłodowska-Curie Individual Fellowships 2017 (2019--2021). [doi:10.5281/zenodo.3267084](http://doi.org/10.5281/zenodo.3267084). Role: Fellow.
+<!-- 20000€ + 2 years salary -->
+
+1. **ABCSelection: Detection of loci under selection from temporal population genomic data through ABC random forest**. LabEx Agro, Cemeb & Numev Joint Call 2016 (2018--2019). Rol: PI.
+<!-- 18 months postdoc salary + 5000€ -->
+
+1. **GenomeHarvest: Mobilizing biomathematics-bioinformatics and genomics-genetics to decipher genome organization and dynamics as pathways to crop improvement** Agropolis Fondation flagship project (2016--2019). Rol: Collaborator. PI A D'Hont & M Ruiz
+<!-- 500000€ -->
+
+
+1. **PlantEvol: Plant biodiversity in sub-Antarctic Islands: evolution, past and future in changing environments** Institut Paul-Emile Victor (IPEV) Project no. 1116 (2016--2017). Rol: Collaborator. PI: F Hennion-->
+<!--  20000€ ? -->
+
+1. **TriPTIC: *Trichogramma* pour la protection des cultures : pangénomique, traits d'histoire de vie et capacités d'établissement** ANR AAPG 2014 (2014--2018). Rol: Collaborator. PI: J-Y Rasplus
+<!--  500000€ -->
+
+1. **Utilisation des longueurs d'haplotype et du déséquilibre de liaison pour l'inférence de l'histoire démographique populationnelle à partir de données génomique**. Appel à projets Jeunes Chercheurs et Animations Scientifiques 2013, Institut de Biologie Computationelle (2014). Rol: Collaborator. PI: P Pudlo & R Leblois.
+<!-- 10000€  -->
+
+
+1. **SelfAdapt: Adaptation to climate change under selfing --- experimental test and selection footprints in _Medicago truncatula_**. Meta-programme INRA - Adapting Agriculture and Forestry to Climate Change 2012 (ACCAF) INRA (2013--2016). Rol: Co-coordinator. PI: L. Gay.
+<!--  50000€  -->
+
+
+1. **IBC: Institute de Biologie Computationelle**. Investissements d'Avenir, Bioinformatique 2011 (2012--2017). Rol: Collaborator. PI: O. Gascuel.
+<!--  2000000€  -->
+
+
+1. **Interaction between ecological processes within community and population genetic structure**. Programme PHC Tournesol (2014--2015). Rol: Host.
+<!--  With Gilles Dauby and Olivier Hardy -->
+
+
+1. **Apport des marqueurs de type RAD pour résoudre les relations phylogénétiques au sein de complexes d'espèces : le cas du genre *Thaumetopoea* **. Projet Innovant EFPA (2014). Rol: Co-coordinator. PI: C Kerdelhue.
+<!--  8000€ -->
+
+
+1. **IGGiPop: Inférence en Génétique et Génomique des Populations**. Jeune Équipe INRA 2010 (2010--2013). Rol: Collaborator. PI: R. Vitalis.
+<!-- 105000€-->
+
+1. **Diversidad Genética Neutral y Adaptativa de *Taxus baccata* en la Red de Parques Nacionales**. Ministerio de Medio Ambiente, Proyecto Parques Nacionales (2008--2009). Rol: Collaborator. PI: S. González-Martínez.
+<!-- 01/2008--12/2009   52088.58€  -->
+
+1. **TRANSBIODIV: Biodiversité trans-spécifique neutre et fonctionnelle : développements théoriques et quantification chez des organismes modèles**. ANR Biodiversité 2006 (2007--2009). Rol: Postdoc. PI: M.-L. Cariou.
+
+1. **Developing Statistical Tools for Detection of Historical Demographic Expansions with Linked Microsatellites**. European Science Foundation, CONGEN Exchange Grant --- 1142 (2006--2007). Rol: Grantee.
+<!--  09/2006--03/2007  with Olivier Hardy 10700€ -->
+
+
+1. **Introgresión genética en las poblaciones relictas de *Pinus sylvestris* L. var *nevadensis* del Parque Nacional de Sierra Nevada**. Ministerio de Medio Ambiente, Proyecto Parques Nacionales (2005--2008). Rol: Postdoc. PI: J.J. Robledo-Arnuncio.
+
+1. **Field Collection of Weevils (*Brachyderes* and *Rhinusa*) in Spain for Phylogeographic and Population Studies**. Richard Warn Memorial Fund Travel Award (2003). Rol: Grantee.
+<!--  05/2003 300 pounds -->
