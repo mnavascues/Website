@@ -40,80 +40,108 @@ split_authors = function(txt) {
   do.call(rbind, res)
 }
 
-make_list = function(table, item_type, qmd_file, comment){
+make_list = function(table, item_type, type=NA, first_author=NA, focus_author="de Navascués, Miguel", qmd_file, comment){
   write(paste0("<!-- ", comment, " -->"), file = qmd_file)
   write("", file = qmd_file, append = T)
-  sub_table = table[which(table$Item.Type == item_type),]
+  sub_table = table[table$Item.Type %in% item_type, ]
+  if (any(!is.na(type))){
+    sub_table = sub_table[sub_table$Type %in% type, ]
+  }
   for (i in seq_along(sub_table$Key)){
-    reference = "1. "
-    reference = paste0(reference, "**", sub_table$Title[i], "**")
-    if (!endsWith(sub_table$Title[i], "?")) reference = paste0(reference, ".")
-    reference = paste0(reference, " ")
     authors = split_authors(sub_table$Author[i])
-    for (j in seq_along(authors$author)){
-      if (authors$author[j]=="de Navascués, Miguel"){
-        reference = paste0(reference, "_M. de Navascués_")
-      }else{
-        reference = paste0(reference, authors$initials[j], " ", authors$surname[j])
-      }
-      if (item_type=="thesis" & j==1 & j!=length(authors$author)){
-        reference = paste0(reference," supervised by ")
-      }else if (j!=length(authors$author)){
-        reference = paste0(reference,", ")
-      }
+    include_item=F
+    add_asterisk=F
+    if (is.na(first_author)){
+      include_item=T
+    }else if (first_author==T & authors$author[1]==focus_author){
+      include_item=T
+    }else if (first_author==F & authors$author[1]!=focus_author){ 
+      include_item=T
+      add_asterisk=T
     }
-    reference = paste0(reference, " (", sub_table$Publication.Year[i], ")")
-    
-    if (item_type=="thesis"){
-      reference = paste0(reference, ". ", sub_table$Publisher[i], ", ")
-      reference = paste0(reference, sub_table$Place[i])
-    }
-    
-    if (item_type=="bookSection" | item_type=="conferencePaper"){
-      reference = paste0(reference, " in ")
-      editors = split_authors(sub_table$Editor[i])
-      for (j in seq_along(editors$author)){
-        if (editors$author[j]=="de Navascués, Miguel"){
-          reference = paste0(reference, "_M. de Navascués_")
+    if (include_item){    
+      reference = "1. "
+      reference = paste0(reference, "**", sub_table$Title[i], "**")
+      if (!endsWith(sub_table$Title[i], "?")) reference = paste0(reference, ".")
+      reference = paste0(reference, " ")
+      for (j in seq_along(authors$author)){
+        if (authors$author[j]==focus_author){
+          reference = paste0(reference, "_", authors$initials[j], " ", authors$surname[j], "_")
         }else{
-          reference = paste0(reference, editors$initials[j], " ", editors$surname[j])
+          reference = paste0(reference, authors$initials[j], " ", authors$surname[j])
         }
-        if (j!=length(editors$author)) reference = paste0(reference,", ")
+        if (item_type=="presentation" & j==1 & add_asterisk){
+          reference = paste0(reference,"\\* ")
+        }
+        if (item_type=="thesis" & j==1 & j!=length(authors$author)){
+          reference = paste0(reference," supervised by ")
+        }else if (j!=length(authors$author)){
+          reference = paste0(reference,", ")
+        }
       }
-      if (length(editors$author)>2){
-        reference = paste0(reference, " (eds.) ")
-      }else if (length(editors$author)==1){
-        reference = paste0(reference, " (ed.) ")
-      }else{
-        reference = paste0(reference, " ")
+      reference = paste0(reference, " (", sub_table$Publication.Year[i], ")")
+      
+      if (item_type=="thesis"){
+        reference = paste0(reference, " ", sub_table$Type[i])
+        reference = paste0(reference, ". ", sub_table$Publisher[i], ", ")
+        reference = paste0(reference, sub_table$Place[i])
       }
-      reference = paste0(reference, "_", sub_table$Publication.Title[i], "_, ")
-      reference = paste0(reference, sub_table$Publisher[i], ", ")
-      reference = paste0(reference, sub_table$Place[i])
+      
+      if (item_type=="bookSection" | item_type=="conferencePaper" | item_type=="presentation"){
+        reference = paste0(reference, " in ")
+        editors = split_authors(sub_table$Editor[i])
+        for (j in seq_along(editors$author)){
+          if (editors$author[j]==focus_author){
+            reference = paste0(reference, "_", authors$initials[j], " ", authors$surname[j], "_")
+          }else{
+            reference = paste0(reference, editors$initials[j], " ", editors$surname[j])
+          }
+          if (j!=length(editors$author)) reference = paste0(reference,", ")
+        }
+        if (length(editors$author)>2){
+          reference = paste0(reference, " (eds.) ")
+        }else if (length(editors$author)==1){
+          reference = paste0(reference, " (ed.) ")
+        }else{
+          reference = paste0(reference, " ")
+        }
+        if (item_type=="presentation"){
+          reference = paste0(reference, "_", sub_table$Meeting.Name[i], "_, ")
+          reference = paste0(reference, sub_table$Organiser[i], ", ")
+        }else{
+          reference = paste0(reference, "_", sub_table$Publication.Title[i], "_, ")
+          reference = paste0(reference, sub_table$Publisher[i], ", ")
+        }
+         reference = paste0(reference, sub_table$Place[i])
+      }
+      
+      if (sub_table$DOI[i]!="" & !is.na(sub_table$DOI[i])){
+        reference = paste0(reference, " [doi:", sub_table$DOI[i],
+                           "](http://doi.org/", sub_table$DOI[i], " \"",
+                           sub_table$Publication.Title[i],"\")")
+      }else if (sub_table$Url[i]!="" & !is.na(sub_table$Url[i])){
+        reference = paste0(reference, " [", sub_table$Url[i],
+                           "](", sub_table$Url[i], ")")
+      }
+      reference = paste0(reference, ".")
+
+      if (item_type=="presentation" & sub_table$Type[i]=="Invited oral presentation"){
+        reference = paste0(reference, " **Invited**.")
+      }
+
+      if (item_type=="journalArticle" | item_type=="preprint"){
+        GoogleScholarCode = strsplit(sub_table$Extra[i],":")[[1]][2]
+        reference = paste0(reference,
+                           " Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid==\"",
+                           sub_table$GoogleScholar[i],
+                           "\"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} ",
+                           "publicationsMNavascues$cid[publicationsMNavascues$pubid==\"",
+                           sub_table$GoogleScholar[i], "\"]` \"Google Scholar\").")
+      }
+      
+      write(reference, file = qmd_file, append = T)
+      write("", file = qmd_file, append = T)
     }
-    
-    if (sub_table$DOI[i]!="" & !is.na(sub_table$DOI[i])){
-      reference = paste0(reference, " [doi:", sub_table$DOI[i],
-                         "](http://doi.org/", sub_table$DOI[i], " \"",
-                         sub_table$Publication.Title[i],"\")")
-    }else if (sub_table$Url[i]!="" & !is.na(sub_table$Url[i])){
-      reference = paste0(reference, " [", sub_table$Url[i],
-                         "](", sub_table$Url[i], ")")
-    }
-    reference = paste0(reference, ".")
-    
-    if (item_type=="journalArticle" | item_type=="preprint"){
-      GoogleScholarCode = strsplit(sub_table$Extra[i],":")[[1]][2]
-      reference = paste0(reference,
-                         " Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid==\"",
-                         sub_table$GoogleScholar[i],
-                         "\"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} ",
-                         "publicationsMNavascues$cid[publicationsMNavascues$pubid==\"",
-                         sub_table$GoogleScholar[i], "\"]` \"Google Scholar\").")
-    }
-    
-    write(reference, file = qmd_file, append = T)
-    write("", file = qmd_file, append = T)
   }
 }
 

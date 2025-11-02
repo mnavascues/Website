@@ -1,0 +1,46 @@
+<!-- Coauthor in Oral Presentations -->
+
+1. **Inferring demography and selection from genomic time series data**. S. Boitard\* , P. Bunel, M. Uhl, _M. de Navascués_, B. Servin (2025) in  _Premier Webinaire TIMe-ID_, TIMe-ID Consortium (INRAE), Online [https://hal.inrae.fr/hal-05107536](https://hal.inrae.fr/hal-05107536).
+
+1. **SelNeTime : a new method inferring demography and selection from genomic time series data**. S. Boitard\* , M. Uhl, _M. de Navascués_, B. Servin (2024) in  _Mathematical and Computational Evolutionary Biology_, MCEB, Saint-Martin-de-Londres (France) [https://hal.inrae.fr/hal-04659093](https://hal.inrae.fr/hal-04659093).
+
+1. **Overdominance likely maintained large structural variants polymorphism in pearl millet**. M. Salson\* , M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, A.-C. Thuillet, P. Cubry, C. Burgarella, _M. de Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, A. Faye, N. Kane, Y. Vigouroux, C. Berthouly-Salazar (2024) in  _Environmental and Agronomical Genomics_, France Génomique, GDR Génomique Environmental, Toulouse (France).
+
+1. **Joint inference of demography and selection from genomic temporal data using Approximate Bayesian Computation**. V.A. Pavinato\* , S. De Mita, J.-M. Marin, _M. de Navascués_ (2019) in  _ALPHY: Bioinformatics and Evolutionary Genomics_, GDR BIM Bioinformatrique moléculaire, Paris (France) [https://hal.inrae.fr/hal-02788596](https://hal.inrae.fr/hal-02788596).
+
+1. **Joint inference of demography and selection from genomic temporal data using Approximate Bayesian Computation**. V.A. Pavinato\* , S. De Mita, J.-M. Marin, _M. de Navascués_ (2019) in  _52<sup>nd</sup> Population Genetics Group Conference_, PopGroup, Oxford (UK) [https://hal.inrae.fr/hal-02787320](https://hal.inrae.fr/hal-02787320).
+
+1. **Tracking selection in time-series population genomic data using ABC random forests**. V.A.C. Pavinato\* , _M. de Navascués_ (2018) in  _Journée scientifique Inter LabEx - « Adaptation des organismes à l’environnement »_, LabEx CeMeb, LabEx Tulip, LabEx Agro, Montpellier (France) [https://hal.inrae.fr/hal-02785695](https://hal.inrae.fr/hal-02785695).
+
+1. **Tracking selection in time-series population genomic data using ABC random forests**. P. Pavinato\* , S.d. Mita, J.-M. Marin, M. Navascués (2018) in  _Mathematical and Computational Evolutionary Biology_, MCEB, Saint-Martin-de-Londres (France) [https://hal.inrae.fr/hal-02785697](https://hal.inrae.fr/hal-02785697).
+
+1. **Diversity and genetic structure in selfing populations in the absence of selection**. M. Jullien\* , _M. de Navascués_, J. Ronfort, L. Gay (2018) in  _Models in Ecology and Evolution_, Université de Montpellier, Montpellier (France) [https://hal.inrae.fr/hal-02785294](https://hal.inrae.fr/hal-02785294).
+
+1. **Tracking selection in time-series population genomic data using ABC random forests**. V.A.C. Pavinato\* , J.-M. Marin, M. Navascués (2018) in  _II Joint Congress on Evolutionary Biology_, European Society for Evolutionary Biology, American Society of Naturalists, Society for the Study of Evolution, Society of Systematic Biologists, Montpellier (France) [https://hal.inrae.fr/hal-02785503](https://hal.inrae.fr/hal-02785503).
+
+1. **Temporal study of diversity in selfing plants**. M. Jullien\* , _M. de Navascués_, J. Ronfort, L. Gay (2017) in  _Le Petit Pois Déridé 38_, Groupe d'Étude de Biologie et Génétique des Populations Date, Orsay (France) [https://hal.inrae.fr/hal-02788128](https://hal.inrae.fr/hal-02788128).
+
+1. **Temporal study of diversity in selfing plants**. M. Jullien\* , _M. de Navascués_, J. Ronfort, L. Gay (2017) in  _Journées des jeunes chercheurs du département Biologie et Amélioration des Plantes de l'INRA_, Département BAP, INRA, Bordeaux (France) [https://hal.inrae.fr/hal-02789025](https://hal.inrae.fr/hal-02789025).
+
+1. **Ecological genetics and adaptation in European yew (<i>Taxus baccata</i> L.)**. S.C. González-Martínez\* , M. Riba, C. Burgarella, _M. de Navascués_, F. Bagnoli, S. Cavers, D. Grivet, G.G. Vendramin, M. Mayol (2016) in  _Genomics and Forest Tree Genetics Conference_, IUFRO, Arcachon (France) [https://hal.inrae.fr/hal-02741608](https://hal.inrae.fr/hal-02741608).
+
+1. **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames**. A. Becheler\* , _M. de Navascués_, R. Vitalis (2014) in  _Le Petit Pois Déridé_, Groupe d'Étude de Biologie et Génétique des Populations, Orsay (France).
+
+1. **Population genetics of Spectacled Warbler, <i>Sylvia conspicillata</i>**. J.C. Illera\* , A.M. Palmero, P. Laiolo, M. Navascués (2013) in  _9<sup>th</sup> Conference of the European Ornithologists's Union_, European Ornithologists's Union, Norwich (UK) [https://hal.inrae.fr/hal-02747155](https://hal.inrae.fr/hal-02747155).
+
+1. **Genetic diversity and fitness in gametophytic self-incompatible and asexual populations : theoretical approach and experimental observations in <i>Prunus avium</i> L.**. S. Mariette\* , _M. de Navascués_ (2010) in  _Green Plant Breeding Technologies - International conference_, Vienna International Plant Conference Association, Vienna (Austria) [https://hal.inrae.fr/hal-02811680](https://hal.inrae.fr/hal-02811680).
+
+1. **Evolution of neutral and flowering genes under domestication in pearl millet (<i>Pennisetum glaucum</i>)**. G. Lakis\* , S. Rekima, _M. de Navascués_, F. Lamy, M.-S. Remigereau, M. Leveugle, F. Depaulis, T. Robert (2010) in  _Plant and Animal Genome XVIII Conference_, Scherago International, San Diego (USA).
+
+1. **Interaction between gene flow and selection in hybridizing oak species**. P. Garnier-Géré\* , P. Abadie, _M. de Navascués_, T. Lang, O. Brendel, C. Scotti-Saintagne, S. Gerber, C. Bodénès, R.J. Petit, A. Kremer (2009) in  _Genomics of Forest and Ecosystem Health in the Fagaceae_, EVOLTREE, Research Triangle Park, North Carolina (USA).
+
+1. **Discrimination between ancestral polymorphism and recent introgression as causes of shared polymorphic sites between species**. F. Depaulis\* , _M. de Navascués_ (2009) in  _International Conference on Polyploidy, Hybridization and Biodiversity_, Polyploidy Consortium ‘Polyploidy and Biodiversity’, Saint Malo (France).
+
+1. **Ancient DNA and the time dependency of mutation rates**. B.C. Emerson\* , _M. de Navascués_ (2007) in  _41<sup>st</sup> Population Genetics Group Conference_, PopGroup, Warwick (UK).
+
+1. **Introgresión genética en la población relicta de <i>Pinus sylvestris</i> L. var. <i>nevadensis</i> del Parque Nacional de Sierra Nevada: Implicaciones para la conservación de sus recursos genéticos**. L. Gil\* , J.J. Robledo-Arnuncio, _M. de Navascués_, S.C. González-Martínez (2006) in  _Jornada de Seguimiento de Proyectos de Investigación_, Parque Nacional de Sierra Nevada, Granada (Spain).
+
+1. **Sistemas de reproducción de las especies forestales y conservación <i>in situ</i>**. S.C. González-Martínez\* , J.J. Robledo-Arnuncio, _M. de Navascués_ (2006) in  _Simposio sobre Conservación y Uso Sostenible de Recursos Genéticos Forestales_, NA, La Laguna (Spain).
+
+1. **Estudio de la variabilidad genética de repoblaciones de <i>Quercus ilex</i> L. subsp. <i>ballota</i> (Desf.) Samp. in Bol. en Andalucía**. C. Burgarella\* , M. de Navascués, S. Fici, A.L. González (2005) in  _IV Congreso Forestal Español_, Sociedad Española de Ciencias Forestales, Zaragoza (Spain) [https://hal.inrae.fr/hal-02828959](https://hal.inrae.fr/hal-02828959).
+

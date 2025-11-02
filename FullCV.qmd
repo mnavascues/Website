@@ -55,84 +55,11 @@ date: today
 
 ### oral communications
 
-1. **Detection of introgression: how hard can it be?** _M. de Navascués_. _From hybridisation to introgression: detection and evolutionary consequences_, 25 June 2024. Online --- Montpellier (France). **Invited**.
-<!-- Organisers: Anne-Céline Thuillet, Cécile Berthouly, Muriel Gros-Balthazard, Margret Veltman, Philippe Cubry, Yves Vigouroux (UMR DIADE, Institut de Récherche pour le Developpement, Montpellier) -->
-
-1. **Demographic inference from radiocarbon data**. _M. de Navascués_. _Mathematical and Computational Evolutionary Biology (MCEB)_, 17--21 June 2024. Saint-Martin-de-Londres (France).
-
-1. **Joint inference of adaptive and demographic history from temporal population genomic data**. _M. de Navascués_, V.A.C. Pavinato, S. De Mita, J.-M. Marin. _Réunion GDR Approche Interdisciplinaire de l'Evolution Moléculaire (AIEM)_, 6--8 November 2019. Toulouse (France).
-
-1.  **Joint inference of adaptive and demographic history from temporal population genomic data**. _M. de Navascués_, V.A.C. Pavinato, S. De Mita, J.-M. Marin. _Mathematical and Computational Evolutionary Biology (MCEB)_, 26--30 May 2019. Porquerolles (France).
-
-1. **Tracking adaptation of selfing populations to environmental changes with temporal genetic data**. _M. de Navascués_, L. Gay, J. Ronfort, R. Vitalis. _4<sup>èmes</sup> Rencontres Scientifiques du Département EFPA (INRA)_, 20--22 November 2017. Pont-à-Mousson  (France).
-
-1. **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames**. A. Becheler, R. Vitalis, _M. de Navascués_. _Empirisme et Théorie en Ecologie et Evolution_, 28--30 September 2015. Gif-sur-Yvette (France).
-<!-- meeting of the GDR AIEM before its creation the following year -->
-
-1. **Distinguishing shared ancestral polymorphism from recent introgression in genes with recombination**. _M. de Navascués_, F. Depaulis. _Réunion du GDR Génomique des Populations et Génomique Évolutive_, 15--17 October 2008. Sète (France).
-<!-- %GDR 1928 -->
-
-1. **A new composite likelihood method to characterize demographic expansions: preliminary results from Y-chromosome STR data**. _M. de Navascués_, C. Burgarella. _DNA in Forensics 2008_, 27--30 May 2008. Ancona (Italy).
-
-1. **The role of clonality in the maintenance of self-incompatibility**. _M. de Navascués_, S. Mariette. _2<sup>èmes</sup> Journées EvoSud_, 15--16 Novembre 2007. Orsay (France).
-
-1. **High substitution rate estimates from temporally sampled sequences: are they biased or biologically meaningful?** _M. de Navascués_, B.C. Emerson. _Annual Meeting of the Society for Molecular Biology and Evolution (SMBE)_, 24--28 June 2007. Halifax (Canada).
-
-1. **Coalescent simulations for the evaluation of statistical tools for demographic inference and the effect of homoplasy in chloroplast microsatellites**. _M. de Navascués_, B.C. Emerson. IUFRO conference _Population Genetics and Genomics of Forest Trees: from Gene Function to Evolutionary Dynamics and Conservation_; _Workshop on Simulation Models of Tree Population Genetics_, 1--6 October 2006. Alcalá de Henares (Spain).
-
-
-1. **Age of alleles: how ancestral are aDNA sequences?** _M. de Navascués_. European Science Foundation Workshop _New Tools for Biodiversity Conservation Through the Advancement of Phylogeographic Methodologies_, 3--6 July 2006, Norwich (UK). **Invited**.
-
-
-1. **Estudio biogeográfico y demográfico del pino canario mediante marcadores moleculares**. _M. de Navascués_, B.C. Emerson. _XIII Workshop Avances en Biología Molecular por Jóvenes Investigadores en el Extranjero_, Centro Nacional de Biotecnología, 27 December 2005. Cantoblanco (Spain).
-
-1. **Can flowering time produce isolation by altitude in the Canary Island pine?** _M. de Navascués_, B.C. Emerson. _IX<sup>th</sup> IOPB Meeting, Plant Evolution in Mediterranean Climate Zones_. 16--19 May 2004. Valencia (Spain).
-
-1.  **El éxito evolutivo de los insectos**. _M de Navascués_. _I Encuentro de Estudiantes de Biología Evolutiva_. November 1997. Cantoblanco (Spain).
+{{< include _oral_presentations.qmd >}}
 
 ### co-authorship on oral communications
 \* presenting author
 
-1. **Overdominance likely maintained large structural variants polymorphism in pearl millet**. M. Salson\*, M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, A.-C. Thuillet, P. Cubry, C. Burgarella, _M. de Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, A. Faye, N. Kane, Y. Vigouroux, C. Berthouly-Salazar. _Environmental and Agronomical Genomics_, 14--16 February 2024. Toulouse (France).
-<!-- Organisers: France Génomique and GDR Génomique Environmental -->
+{{< include _oral_presentations_coauthor.qmd >}}
 
-1. **Joint inference of demography and selection from genomic temporal data using approximate Bayesian computation**. V.A.C. Pavinato\*, S. de Mitta, J.-M. Marin, _M. de Navascués_. _Alphy (Génomique Evolutive, Bioinformatique, Alignement et Phylogénie)_, 7--8 February 2019. Paris (France).
-
-1.  **Joint inference of demography and selection from genomic temporal data using approximate Bayesian computation**. V.A.C. Pavinato\*, S. de Mitta, J.-M. Marin, _M. de Navascués_. _52<sup>nd</sup> Population Genetics Group Conference (PopGroup)_, 3--6 January 2019. Oxford (UK).
-
-1. **Tracking selection in time-series population genomic data using ABC random forests**. V.A.C. Pavinato\*, S. de Mitta, J.-M. Marin, _M. de Navascués_. _II Joint Congress on Evolutionary Biology_, 19--22 August 2018. Montpellier (France).
-
-1. **Tracking selection in time-series population genomic data using ABC random forests**. V.A.C. Pavinato\*, J.-M. Marin, _M. de Navascués_. _Mathematical and Computational Evolutionary Biology_,  25--29 June 2018. Saint-Martin-de-Londres (France).
-
-1. **Tracking selection in time-series population genomic data using ABC random forests**. V.A.C. Pavinato\*, _M. de Navascués_. _Journée scientifique Inter LabEx --- « Adaptation des organismes à l'environnement »_, 13 February 2018. Montpellier (France).
-
-1.  **Diversity and genetic structure in selfing populations in the absence of selection**. M. Jullien\*, _M. de Navascués_, J. Ronfort, L. Gay. _Models in Ecology and Evolution 9_, 31 May--1 June 2018, Montpellier (France).
-
-1.  **Temporal study of diversity in selfing plants** M. Jullien\*, _M. de Navascués_, J. Ronfort, L. Gay. _38. Réunion du Groupe d'Étude de Biologie et Génétique des Populations --- Le Petit Pois Déridé_, 6--9 June 2017. Orsay (France).
-
-
-1.  **Temporal study of diversity in selfing plants**. M. Jullien\*, _M. de Navascués_, J. Ronfort, L. Gay. _Journées des jeunes chercheurs du département Biologie et Amélioration des Plantes de l'INRA_, 20--21 April 2017. Bordeaux (France).
-
-1.  **Ecological genetics and adaptation in European yew (_Taxus baccata_ L.)**. S.C. González-Martínez\*, M. Riba, C. Burgarella, _M. de Navascués_, F. Bagnoli, S. Cavers, D. Grivet, G.G. Vendramin, M. Mayol. _Genomics and Forest Tree Genetics Conference IUFRO 2016_, 30 May--3 June. Arcachon (France).
-
-1.  **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames**. A. Becheler\*, R. Vitalis, _M. de Navascués_. _Le Petit Pois Déridé 2014_, 25--28 August 2014. Orsay (France).
-
-1.  **Genetic diversity and fitness in gametophytic self-incompatible and asexual populations: theoretical approach and experimental observations in _Prunus avium_ L. (wild and sweet cherry)**. S. Mariette\*, _M. de Navascués_. _Green Plant Breeding Technologies International Conference_, 2--5 February 2010, Vienna (Austria).
-
-1.  **Population genetics of spectacled warbler, _Sylvia conspicillata_**. J.C. Illera\*, A.M. Palmero, P. Laiolo, _M. de Navascués_. _9<sup>th</sup> Conference of the European Ornithologists's Union_, 27--31 August 2013. Norwich (UK).
-
-1. **Evolution of neutral and flowering genes under domestication in pearl millet (_Pennisetum glaucum_)**. G. Lakis\*, S. Rekima, _M. de Navascués_, F. Lamy, M.-S. Remigereau, M. Leveugle, F. Depaulis, T. Robert. _Plant and Animal Genome XVIII Conference_, 9--13 January 2010. San Diego (USA).
-
-
-1.  **Interaction between gene flow and selection in hybridizing oak species**. P. Garnier-Géré\*, P. Abadie, _M. de Navascués_, T. Lang, O. Brendel, C. Scotti-Saintagne, S. Gerber, C. Bodénès, R. Petit, A. Kremer. _Genomics of Forest and Ecosystem Health in the Fagaceae (Beech Family)_, 11--14 November 2009. North Carolina (USA).
-
-1. **Discrimination between ancestral polymorphism and recent introgression as causes of shared polymorphic sites between species**. _M. de Navascués_, F, Depaulis\*. _International Conference on Polyploidy, Hybridization and Biodiversity_, 17--20 May 2009. Saint Malo (France).
-
-1. **Ancient DNA and the time dependency of mutation rates**. B. Emerson\*, _M. de Navascués_. _Population Genetics Group 41 (PopGroup)_, December 2007. Warwick (UK).
-
-1.   **Introgresión genética en la población relicta de _Pinus sylvestris_ L. var. _nevadensis_ del Parque Nacional de Sierra Nevada: Implicaciones para la conservación de sus recursos genéticos** J.J. Robledo Arnuncio, _M. de Navascués_, S.C. González-Martínez, L. Gil\*. _Jornada de Seguimiento de Proyectos de Investigación_, May 2006. Parque Nacional de Sierra Nevada, Granada (Spain).
-
-1.   **Sistemas de reproducción de las especies forestales y conservación _in situ_**. S.C. González-Martínez\*, J.J. Robledo Arnuncio, _M. de Navascués_. _Simposio sobre Conservación y Uso Sostenible de Recursos Genéticos Forestales_, May 2006. La Laguna (Spain).
-
-1.  **Estudio de la variabilidad genética de repoblaciones de _Quercus ilex_ subsp. _ballota_ en Andalucía**. C. Burgarella\*, _M. de Navascués_, S. Fici, Á. Lora González. _IV Congreso Forestal Español_, 26--30 September 2005. Zaragoza (Spain).
 

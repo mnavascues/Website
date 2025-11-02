@@ -6,6 +6,7 @@ production = production[order(-production$Publication.Year), ]
 
 extra_fields = extract_extra_fields(production$Extra)
 production = cbind(production, GoogleScholar = unlist(extra_fields$GoogleScholar))
+production = cbind(production, Organiser = unlist(extra_fields$Organiser))
 pos = which(production$DOI=="")
 for (i in pos){
   if (is.na(production$DOI[i]) | production$DOI[i]==""){
@@ -48,3 +49,20 @@ make_list(table = production,
           item_type = "dataset",
           qmd_file = "_data.qmd",
           comment = "Data")
+
+make_list(table = production,
+          item_type = "presentation",
+          type = c("Oral presentation","Invited oral presentation"),
+          first_author = T,
+          qmd_file = "_oral_presentations.qmd",
+          comment = "Oral Presentations")
+
+make_list(table = production,
+          item_type = "presentation",
+          type = c("Oral presentation","Invited oral presentation"),
+          first_author = F,
+          qmd_file = "_oral_presentations_coauthor.qmd",
+          comment = "Coauthor in Oral Presentations")
+
+unique(production$Item.Type)
+unique(production$Type)
