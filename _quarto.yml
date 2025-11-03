@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Films.qmd
+        text: "Films"
       - href: ShortCV.qmd
         text: "Short CV"
       - href: FullCV.qmd
@@ -36,7 +38,7 @@ format:
       - text: Mastodon
         icon: mastodon
         href: https://mastodon.online/@Miguel_de_Navascues
-      - text: CBGP web
+      - text: CBGP
         icon: person-workspace
         href: https://umr-cbgp.fr/membre/de-navascues/
   pdf:

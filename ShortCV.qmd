@@ -1,5 +1,5 @@
 ---
-title: "Miguel de Navascués"
+title: "Miguel de Navascués - CV"
 date: today
 ---
 
