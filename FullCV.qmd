@@ -62,4 +62,7 @@ date: today
 
 {{< include _oral_presentations_coauthor.qmd >}}
 
+### posters
+
+{{< include _posters.qmd >}}
 

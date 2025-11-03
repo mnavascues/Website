@@ -25,14 +25,19 @@ format:
     link-external-newwindow: true
     other-links:
       - text: ORCID
+        icon: person-circle
         href: http://orcid.org/0000-0001-8342-6047
       - text: OpenAlex
+        icon: person-circle
         href: https://openalex.org/authors/a5008213968
       - text: GitHub
+        icon: github
         href: https://github.com/mnavascues
       - text: Mastodon
+        icon: mastodon
         href: https://mastodon.online/@Miguel_de_Navascues
       - text: CBGP web
+        icon: person-workspace
         href: https://umr-cbgp.fr/membre/de-navascues/
   pdf:
     geometry: 

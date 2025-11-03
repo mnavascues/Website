@@ -1,0 +1,60 @@
+<!-- Posters -->
+
+1. **Interplay between low-recombining regions and overdominance in a plant genome?** M. Salson, M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, P. Cubry, A.-C. Thuillet, C. Burgarella, _M. de Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, A. Faye, N. Kane, Y. Vigouroux, C. Berthouly-Salazar (2025) in  _Congress of the European Society for Evolutionary Biology_, ESEB, Barcelona (Spain) [https://hal.science/hal-05227656](https://hal.science/hal-05227656).
+
+1. **Infer selection and demography from genomic time series**. P. Bunel, M. Uhl, M.d. Navascués, S. Boitard, B. Servin (2025) in  _Séminaire des Doctorants du Département de Génétique Animale de l'INRAE_, Département GA (INRAE), Bordeaux (France) [https://hal.science/hal-05111581](https://hal.science/hal-05111581).
+
+1. **Performance evaluation of adaptive introgression classification methods**. J. Romieu, G. Camarata, P.-A. Crochet, M.d. Navascués, R. Leblois, F. Rousset (2024) in  _Mathematical and Computational Evolutionary Biology_, MCEB, Saint-Martin-de-Londres (France) [https://hal.inrae.fr/hal-04713611](https://hal.inrae.fr/hal-04713611).
+
+1. **SelNeTime: A new method inferring demography and selection from genomic time series data**. M. Uhl, S. Boitard, _M. de Navascués_, B. Servin (2024) in  _conservgenomics: Conservation Genomics Paris_, Muséum National d'Histoire Naturelle, Paris (France) [https://hal.inrae.fr/hal-04659055](https://hal.inrae.fr/hal-04659055).
+
+1. **Joint inference of demography and selection from temporal population genomic data via approximate Bayesian computation**. V.A.C. Pavinato, S. De Mita, J.-M. Marin, _M. de Navascués_ (2021) in  _Probabilistic Modeling in Genomics (Virtual)_, Cold Spring Harbor Laboratory, Online (USA) [doi:10.6084/m9.figshare.23943312](http://doi.org/10.6084/m9.figshare.23943312 "").
+
+1. **Joint inference of effective population size and genetic load from temporal population genomic data**. V.A.C. Pavinato, S. De Mita, J.-M. Marin, _M. de Navascués_ (2021) in  _Ancient Biomolecules of Plants, Animals, and Microbes_, Wellcome Connecting Science, Online (UK) [doi:10.6084/m9.figshare.23943828](http://doi.org/10.6084/m9.figshare.23943828 "").
+
+1. **Detection of loci under selection from temporal population genomic data through ABC random forest**. V.A.C. Pavinato, J.-M. Marin, _M. de Navascués_ (2018) in  _Journées Scientifiques du LabEx Numev_, LabEx Numev, Montpellier (France) [https://hal.inrae.fr/hal-02787307](https://hal.inrae.fr/hal-02787307).
+
+1. **Genetic diversity in selfing populations: a case study in <i>Medicago truncatula</i>**. M. Jullien, J. Ronfort, M. Navascués, L. Gay (2018) in  _II Joint Congress on Evolutionary Biology_, European Society for Evolutionary Biology, American Society of Naturalists, Society for the Study of Evolution, Society of Systematic Biologists, Montpellier (France) [doi:10.6084/m9.figshare.13022732](http://doi.org/10.6084/m9.figshare.13022732 "").
+
+1. **Temporal <i>F</i><sub>ST</sub> genome scans: the case of partially selfing populations**. _M. de Navascués_, A. Becheler, L. Gay, J. Ronfort, R. Vitalis (2018) in  _II Joint Congress on Evolutionary Biology_, European Society for Evolutionary Biology, American Society of Naturalists, Society for the Study of Evolution, Society of Systematic Biologists, Montpellier (France) [doi:10.6084/m9.figshare.13010312.v1](http://doi.org/10.6084/m9.figshare.13010312.v1 "").
+
+1. **Temporal <i>F</i><sub>ST</sub> genome scans: the case of partially selfing populations**. _M. de Navascués_, A. Becheler, L. Gay, J. Ronfort, R. Vitalis (2018) in  _Sex uncovered: the evolutionary biology of reproductive systems_, Jacques Monod Conference, Roscoff (France) [doi:10.6084/m9.figshare.13010312.v1](http://doi.org/10.6084/m9.figshare.13010312.v1 "").
+
+1. **Diversity and genetic structure in selfing populations in the absence of selection**. M. Jullien, _M. de Navascués_, J. Ronfort, L. Gay (2018) in  _Sex uncovered: the evolutionary biology of reproductive systems_, Jacques Monod Conference, Roscoff (France) [doi:10.6084/m9.figshare.13022738](http://doi.org/10.6084/m9.figshare.13022738 "").
+
+1. **Tracking adaptation in selfing plant populations**. _M. de Navascués_, A. Becheler, M. Jullien, L. Frachon, C. Libourel, R. Villoutreix, J. Ronfort, F. Roux, R. Vitalis, L. Gay (2016) in  _Evolutionary genomics and systems biology: bringing together theoretical and experimental approaches_, Jacques Monod Conference, Roscoff (France) [doi:10.6084/m9.figshare.4036098](http://doi.org/10.6084/m9.figshare.4036098 "").
+
+1. **Detection of locus under selection from temporal samples of partial-selfing populations**. _M. de Navascués_, A. Becheler, R. Vitalis (2015) in  _SMBE Satellite meeting SMBEBA 2015. Investigating biological adaptation with NGS: data and models_, SMBE, Saint-Martin-de-Londres (France) [https://hal.inrae.fr/hal-02797018](https://hal.inrae.fr/hal-02797018).
+
+1. **Tracking adaptation to environmental changes: selfing and detection of loci under selection**. A. Becheler, R. Vitalis, _M. de Navascués_ (2015) in  _Congress of the European Society for Evolutionary Biology_, ESEB, Lausanne (Switzerland) [doi:10.6084/m9.figshare.3571107](http://doi.org/10.6084/m9.figshare.3571107 "").
+
+1. **Seed collections to study plant evolution**. L. Gay, J. Dhinaut, J.-M. Prosperi, _M. de Navascués_, J. Ronfort (2015) in  _Annual Meeting of the Society for Molecular Biology and Evolution_, SMBE, Vienna (Austria) [https://hal.inrae.fr/hal-02795320](https://hal.inrae.fr/hal-02795320).
+
+1. **Demographic inference using skyline plots on approximate Bayesian computation**. _M. de Navascués_, C. Burgarella (2012) in  _Annual Meeting of the Society for Molecular Biology et Evolution_, SMBE, Dublin (Ireland) [doi:10.6084/m9.figshare.1108025](http://doi.org/10.6084/m9.figshare.1108025 "").
+
+1. **Inférence démographique utilisant des “skyline plots” avec le calcul Bayésien approché**. _M. de Navascués_ (2012) in  _Le Petit Pois Déridé_, Groupe d’Etude de Biologie et Génétique des Populations, Avignon (France) [https://hal.inrae.fr/hal-02745827](https://hal.inrae.fr/hal-02745827).
+
+1. **Demographic inference using skyline plots on approximate Bayesian computation**. _M. de Navascués_, C. Burgarella (2012) in  _Mathematical and Computational Evolutionary Biology_, MCEB, Saint-Martin-de-Londres (France).
+
+1. **Étude d’un système de reproduction combinant auto-incompatibilité gamétophytique et asexualité**. _M. de Navascués_, S. Stoeckel, S. Mariette (2010) in  _Écologie 2010_, Société Française d’Écologie, Montpellier (France) [doi:10.6084/m9.figshare.1108015](http://doi.org/10.6084/m9.figshare.1108015 "").
+
+1. **Mutation rate estimates for 110 Y-chromosome STRs combining population and father-son pair data**. _M. de Navascués_, C. Burgarella (2010) in  _Annual Meeting of the Society for Molecular Biology and Evolution_, SMBE, Lyon (France) [doi:10.6084/m9.figshare.1108022](http://doi.org/10.6084/m9.figshare.1108022 "").
+
+1. **Distinguishing recent introgression from ancestral polymorphism as the origin of shared polymorphisms and application on the <i>Drosophila simulans</i> species complex**. _M. de Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2009) in  _Annual Meeting of the Society for Molecular Biology and Evolution_, SMBE, Iowa City (USA) [doi:10.6084/m9.figshare.1108024](http://doi.org/10.6084/m9.figshare.1108024 "").
+
+1. **Discrimination between ancestral polymorphism and recent introgression as causes of shared polymorphic sites between species**. _M. de Navascués_, F. Depaulis (2008) in  _Annual Meeting of the Society for Molecular Biology and Evolution_, SMBE, Barcelona (Spain) [doi:10.6084/m9.figshare.1108019](http://doi.org/10.6084/m9.figshare.1108019 "").
+
+1. **Demographic expansions in conifer and human populations characterized by linked microsatellite data**. C. Burgarella, _M. de Navascués_ (2008) in  _Annual Meeting of the Society for Molecular Biology and Evolution_, SMBE, Barcelona (Spain) [doi:10.6084/m9.figshare.1108021](http://doi.org/10.6084/m9.figshare.1108021 "").
+
+1. **Evolution of inbreeding depression in species combining self-incompatibility and partial asexual reproduction**. M. Navascués, S. Stoeckel, S. Mariette (2007) in  _Congress of the European Society of Evolutionary Biology_, ESEB, Uppsala (Sweden) [doi:10.6084/m9.figshare.1108016](http://doi.org/10.6084/m9.figshare.1108016 "").
+
+1. **Characterization of historical demographic expansions from linked microsatellite data**. _M. de Navascués_, O. Hardy (2007) in  _Evolutionary Genomics_, Jacques Monod Conference, Roscoff (France) [doi:10.6084/m9.figshare.1108020](http://doi.org/10.6084/m9.figshare.1108020 "").
+
+1. **Evaluation of the power of assignment methods on chloroplast microsatellites for provenance identification of reforested stands**. _M. de Navascués_ (2006) in  _Population Genetics and Genomics of Forest Trees: from Gene Function to Evolutionary Dynamics and Conservation_, IUFRO, Alcalá de Henares (Spain) [doi:10.6084/m9.figshare.1108018](http://doi.org/10.6084/m9.figshare.1108018 "").
+
+1. **Diversidad y flujo genético en plantaciones de <i>Pinus canariensis</i>**. _M. de Navascués_, B.C. Emerson (2006) in  _IV Jornadas Forestales de la Macaronesia_, Gobierno de Canarias, Governo dos Açores, Arena, Breña Baja, La Palma (Spain) [doi:10.6084/m9.figshare.1108023](http://doi.org/10.6084/m9.figshare.1108023 "").
+
+1. **Chloroplast microsatellite evolution in conifers: measures of genetic diversity and the effects of homoplasy**. _M. de Navascués_, B.C. Emerson (2003) in  _Congress of the European Society for Evolutionary Biology_, ESEB, Leeds (UK) [doi:10.6084/m9.figshare.1108017](http://doi.org/10.6084/m9.figshare.1108017 "").
+
+1. **Chloroplast microsatellite evolution in conifers**. _M. de Navascués_, B.C. Emerson (2003) in  _Postgraduate Poster Competition_, Association of Applied Biologist, London (UK) [doi:10.6084/m9.figshare.1108017](http://doi.org/10.6084/m9.figshare.1108017 "").
+

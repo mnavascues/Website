@@ -64,5 +64,12 @@ make_list(table = production,
           qmd_file = "_oral_presentations_coauthor.qmd",
           comment = "Coauthor in Oral Presentations")
 
+make_list(table = production,
+          item_type = "presentation",
+          type = "Poster",
+          qmd_file = "_posters.qmd",
+          comment = "Posters")
+
+
 unique(production$Item.Type)
 unique(production$Type)
