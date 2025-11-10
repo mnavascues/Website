@@ -1,0 +1,13 @@
+<!-- Journal Articles -->
+
+1. **Analysis of the abundance of radiocarbon samples as count data**. _M. de Navascués_, C. Burgarella, M. Jakobsson (2025) [doi:10.24072/pcjournal.522](http://doi.org/10.24072/pcjournal.522 "Peer Community Journal"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="DGzKIA18-3YC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="DGzKIA18-3YC"]` "Google Scholar").
+
+
+1. **SelNeTime: a python package inferring effective population size and selection intensity from genomic time series data**. M. Uhl, P. Bunel, M.d. Navascues, S. Boitard, B. Servin (2025) [doi:10.24072/pci.mcb.100406](http://doi.org/10.24072/pci.mcb.100406 "Peer Community in Computational and Mathematical Biology"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="cF7EPgIk0B4C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="cF7EPgIk0B4C"]` "Google Scholar").
+
+
+1. **Joint inference of adaptive and demographic history from temporal population genomic data**. V.A.C. Pavinato, S. De Mita, J.-M. Marin, _M. de Navascués_ (2022) [doi:10.24072/pcjournal.203](http://doi.org/10.24072/pcjournal.203 "Peer Community Journal"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="htyGaKyDgHMC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="htyGaKyDgHMC"]` "Google Scholar").
+
+
+1. **Power and limits of selection genome scans on temporal data from a selfing population**. _M. de Navascués_, A. Becheler, L. Gay, J. Ronfort, K. Loridon, R. Vitalis (2021) [doi:10.24072/pcjournal.47](http://doi.org/10.24072/pcjournal.47 "Peer Community Journal"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="wkm4DBaukwsC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="wkm4DBaukwsC"]` "Google Scholar").
+

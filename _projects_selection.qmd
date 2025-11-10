@@ -1,0 +1,11 @@
+<!-- Projects -->
+
+1. **DevOCGen: Développement et applications de nouveaux outils pour la gestion et la conservation des populations naturelles à partir de données génomiques**. BiodivOc - Biodiversité Occitanie (2022--2025). Rol: Collaborator. PI: S. Boitard & R Leblois.
+<!--329800€-->
+
+1. **TimeAdapt: Tracking genetic adaptation of populations using time-series genomic data**. Marie Skłodowska-Curie Individual Fellowships 2017 (2019--2021). [doi:10.5281/zenodo.3267084](http://doi.org/10.5281/zenodo.3267084). Role: Fellow.
+<!-- 20000€ + 2 years salary -->
+
+1. **ABCSelection: Detection of loci under selection from temporal population genomic data through ABC random forest**. LabEx Agro, Cemeb & Numev Joint Call 2016 (2018--2019). Rol: PI.
+<!-- 18 months postdoc salary + 5000€ -->
+

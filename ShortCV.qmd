@@ -18,15 +18,7 @@ date: today
 
 I have participated, as coordinator and collaborator, to 21 funded research projects since 2003.  Selection of projects below.
 
-- **DevOCGen: Développement et applications de nouveaux outils pour la gestion et la conservation des populations naturelles à partir de données génomiques**. BiodivOc - Biodiversité Occitanie (2022--2025). Rol: Collaborator. PI: S. Boitard & R Leblois.
-
--  **INTROSPEC: Genomic consequences and evolutionary causes of introgression in the late stages of speciation**. ANR AAPG 2019 (2020--2025). Rol: Collaborator. PI: P.-A. Crochet.
-
--  **TimeAdapt: Tracking genetic adaptation of populations using time-series genomic data**. Marie Skłodowska-Curie Individual Fellowships 2017 (2019--2021). [doi:10.5281/zenodo.3267084](http://doi.org/10.5281/zenodo.3267084). Role: Fellow.
-
--  **ABCSelection: Detection of loci under selection from temporal population genomic data through ABC random forest**. LabEx Agro, Cemeb & Numev Joint Call 2016 (2018--2019). Rol: PI.
-
--  **SelfAdapt: Adaptation to climate change under selfing --- experimental test and selection footprints in _Medicago truncatula_**. Meta-programme INRA - Adapting Agriculture and Forestry to Climate Change 2012 (2013--2016). Rol: Co-coordinator. PI: L. Gay.
+{{< include _projects_selection.qmd >}}
 
 
 ## Publications
@@ -37,20 +29,4 @@ I have published 38 articles and 2 pre-prints. Selection of publications below.
 {{< include _citation_statistics.R >}}
 ```
 
-
-- **SelNeTime: a python package inferring effective population size and selection intensity from genomic time series data**. M. Uhl, P. Bunel, _M de Navascués_, S. Boitard, B. Servin (2024) [doi:10.1101/2024.11.06.622284](http://doi.org/10.1101/2024.11.06.622284 "bioRxiv"). [Open Peer-Review](https://doi.org/10.24072/pci.mcb.100406 "Peer Community in Computational and Mathematical Biology"), [Open Code](https://forge.inrae.fr/genetic-time-series/selnetime "Forge INRAE"), [Open Code](https://forge.inrae.fr/genetic-time-series/snt-simulation-pipeline "Forge INRAE"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="cF7EPgIk0B4C"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="cF7EPgIk0B4C"]` "Google Scholar").
-<!--# Mathieu Uhl, Miguel de Navascués, Simon Boitard, Bertrand Servin-->
-
-- **Analysis of the abundance of radiocarbon samples as count data**. _M. de Navascués_, C. Burgarella, M. Jakobsson (2024) [doi:10.24072/pcjournal.522](http://doi.org/10.24072/pcjournal.522 "Peer Community Journal 5:e20"). [Open Peer-Review](https://doi.org/10.24072/pci.archaeo.100583 "Peer Community in Archaeology"), [Open Code](https://doi.org/10.5281/zenodo.7560876 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="DGzKIA18-3YC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="DGzKIA18-3YC"]` "Google Scholar").
-<!--# Miguel de Navascués, Concetta Burgarella, Mattias Jakobsson -->
-
--  **Joint inference of adaptive and demographic history from temporal population genomic data**. V.A.C. Pavinato, S. De Mita, J.-M. Marin,  _M. de Navascués_ (2022) [doi:10.24072/pcjournal.203](http://doi.org/10.24072/pcjournal.203 "Peer Community Journal 2:e78"). [Open Peer-Review](https://doi.org/10.24072/pci.evolbiol.100158 "Peer Community in Evolutionary Biology"), [Open Data](https://doi.org/10.5281/zenodo.4599735 "Zenodo"), [Open Code](https://doi.org/10.5281/zenodo.4599735 "Zenodo"). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="htyGaKyDgHMC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="htyGaKyDgHMC"]` "Google Scholar").
-<!-- Vitor A. C. Pavinato, Stéphane De Mita, Jean-Michel Marin,  Miguel de Navascués-->
-
-
--  **Power and limits of selection genome scans on temporal data from a selfing population**.  _M. de Navascués_, A. Becheler, L. Gay, J. Ronfort, K. Loridon, R. Vitalis (2021) [doi:10.24072/pcjournal.47](http://doi.org/10.24072/pcjournal.47 "Peer Community Journal 1:e37"). [Open Peer-Review](http://doi.org/10.24072/pci.evolbiol.100110), [Open Code](http://doi.org/10.5281/zenodo.1194662), [Open Data](http://doi.org/10.15454/TYQDGP). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="wkm4DBaukwsC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="wkm4DBaukwsC"]` "Google Scholar").
-<!-- Miguel de Navascués, Arnaud Becheler, Laurène Gay, Joëlle Ronfort, Karine Loridon, Renaud Vitalis -->
-
--  **Demographic inference through approximate-Bayesian-computation skyline plots**. _M. de Navascués_, R. Leblois, C. Burgarella (2017) [doi:10.7717/peerj.3530](http://doi.org/10.7717/peerj.3530 "PeerJ 5:e3530"). [Open Code](http://doi.org/10.5281/zenodo.267182). Citations: [`{r} publicationsMNavascues$cites[publicationsMNavascues$pubid=="oursBaop5wYC"]`](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=`{r} publicationsMNavascues$cid[publicationsMNavascues$pubid=="oursBaop5wYC"]` "Google Scholar").
-<!-- Miguel de Navascués, Raphaël Leblois, Concetta Burgarella -->
-
+{{< include _journal_articles_selection.qmd >}}
