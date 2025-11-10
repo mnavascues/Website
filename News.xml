@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Miguel de Navascués --- Population Genetics</title>
+<link>https://mnavascues.github.io/Website/News.html</link>
+<atom:link href="https://mnavascues.github.io/Website/News.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 06 Nov 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>GDR-AIEM : annual meeting 2025</title>
+  <dc:creator>Miguel de Navascués</dc:creator>
+  <link>https://mnavascues.github.io/Website/posts/AIEM2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://gdr-aiem-2025.sciencesconf.org/data/header/Logo_aiem_2.png" title="AIEM logo" class="img-fluid"></p>
+<p>Last 5 to 7 November 2025 there was the <a href="https://gdr-aiem-2025.sciencesconf.org/">Annual Meeting of the GDR-AIEM</a> at the hameau de l’Étoile, in Saint-Martin de Londres (France). Two people from our group at CBGP presented their work. <a href="https://umr-cbgp.fr/membre/bunel-p/">Paul Bunel</a>, presented his work on the use of Hidden Markov Models for the inference of effective population size and selection coefficient of loci under selection from temporal series of genetic data. <a href="https://umr-cbgp.fr/membre/romieux/">Jules Romieu</a> presented his work using simulation based inference for characterising the proportion of the genome that is affected by adaptive introgression.</p>
+
+
+
+ ]]></description>
+  <category>student</category>
+  <category>conference</category>
+  <category>CBGP</category>
+  <guid>https://mnavascues.github.io/Website/posts/AIEM2025.html</guid>
+  <pubDate>Thu, 06 Nov 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://gdr-aiem-2025.sciencesconf.org/data/header/Logo_aiem_2.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>

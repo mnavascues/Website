@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mnavascues.github.io/Website/ShortCV.html</loc>
-    <lastmod>2025-11-03T07:51:31.587Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mnavascues.github.io/Website/Films.html</loc>
-    <lastmod>2025-11-03T07:51:01.122Z</lastmod>
-  </url>
-  <url>
     <loc>https://mnavascues.github.io/Website/FullCV.html</loc>
-    <lastmod>2025-11-03T07:51:31.534Z</lastmod>
+    <lastmod>2025-11-10T09:24:37.152Z</lastmod>
   </url>
   <url>
     <loc>https://mnavascues.github.io/Website/index.html</loc>
-    <lastmod>2025-10-31T12:39:17.510Z</lastmod>
+    <lastmod>2025-11-03T09:21:19.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/Films.html</loc>
+    <lastmod>2025-11-10T09:43:09.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/posts/AIEM2025.html</loc>
+    <lastmod>2025-11-10T10:07:37.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/News.html</loc>
+    <lastmod>2025-11-10T09:37:16.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/ShortCV.html</loc>
+    <lastmod>2025-11-03T07:51:31.580Z</lastmod>
   </url>
 </urlset>
