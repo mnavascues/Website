@@ -2,11 +2,14 @@ project:
   type: website
 
 website:
-  title: "Miguel de Navascués"
+  title: "Miguel de Navascués --- Population Genetics"
+  site-url: "https://mnavascues.github.io/Website/"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: News.qmd
+        text: "News"
       - href: Films.qmd
         text: "Films"
       - href: ShortCV.qmd

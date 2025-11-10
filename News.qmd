@@ -1,0 +1,9 @@
+---
+title: "News"
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  categories: true
+  feed: true
+---

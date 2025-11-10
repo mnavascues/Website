@@ -1,6 +1,5 @@
 ---
-title: "Miguel de Navascués"
-date: today
+title: "Miguel de Navascués --- Population Genetics"
 ---
 
 {{< include _short_research_presentation.qmd >}}

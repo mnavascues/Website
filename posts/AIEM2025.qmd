@@ -1,0 +1,11 @@
+---
+title: "GDR-AIEM : annual meeting 2025"
+author: Miguel de Navascués
+date: 2025-11-07
+categories: [student, conference, CBGP]
+image: https://gdr-aiem-2025.sciencesconf.org/data/header/Logo_aiem_2.png
+---
+
+![](https://gdr-aiem-2025.sciencesconf.org/data/header/Logo_aiem_2.png "AIEM logo")
+
+Last 5 to 7 November 2025 there was the [Annual Meeting of the GDR-AIEM](https://gdr-aiem-2025.sciencesconf.org/) at the hameau de l'Étoile, in Saint-Martin de Londres (France). Two people from our group at CBGP presented their work. [Paul Bunel](https://umr-cbgp.fr/membre/bunel-p/), presented his work on the use of Hidden Markov Models for the inference of effective population size and selection coefficient of loci under selection from temporal series of genetic data. [Jules Romieu](https://umr-cbgp.fr/membre/romieux/) presented his work using simulation based inference for characterising the proportion of the genome that is affected by adaptive introgression.
