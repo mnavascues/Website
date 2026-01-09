@@ -6,3 +6,4 @@
 /_site/
 *_files/
 *.rmarkdown
+**/*.quarto_ipynb
