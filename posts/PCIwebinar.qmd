@@ -1,0 +1,10 @@
+---
+title: "Webinar about Peer Community In"
+author: Miguel de Navascués
+date: 2026-01-13
+categories: [webinar, INRAE, ECODIV, PCI, peer review]
+image: https://peercommunityin.org/wp-content/uploads/2020/11/cropped-Capture-de%CC%81cran-2020-10-08-a%CC%80-17.54.49-1-e1765813228257.png
+---
+
+
+Last 13 january 2026 there was a [Webinar](https://ecodiv.intranet.inrae.fr/actualites/replay-webinaire-peer-community-in) organised by INRAE's ECODIV division about Peer Community In ([PCI](https://peercommunityin.org)) and Peer Community Journal ([PCJ](https://peercommunityjournal.org/)). There were several presentations, and among them I presented [PCI Evolutionary Biology](https://evolbiol.peercommunityin.org/). The whole seminar (2h, in French) is available in [YouTube](https://youtu.be/hD7fTscs1uo).
