@@ -9,8 +9,31 @@
 <link>https://mnavascues.github.io/Website/News.html</link>
 <atom:link href="https://mnavascues.github.io/Website/News.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Thu, 06 Nov 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 12 Jan 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Webinar about Peer Community In</title>
+  <dc:creator>Miguel de Navascués</dc:creator>
+  <link>https://mnavascues.github.io/Website/posts/PCIwebinar.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Last 13 january 2026 there was a <a href="https://ecodiv.intranet.inrae.fr/actualites/replay-webinaire-peer-community-in">Webinar</a> organised by INRAE’s ECODIV division about Peer Community In (<a href="https://peercommunityin.org">PCI</a>) and Peer Community Journal (<a href="https://peercommunityjournal.org/">PCJ</a>). There were several presentations, and among them I presented <a href="https://evolbiol.peercommunityin.org/">PCI Evolutionary Biology</a>. The whole seminar (2h, in French) is available in <a href="https://youtu.be/hD7fTscs1uo">YouTube</a>.</p>
+
+
+
+ ]]></description>
+  <category>webinar</category>
+  <category>INRAE</category>
+  <category>ECODIV</category>
+  <category>PCI</category>
+  <category>peer review</category>
+  <guid>https://mnavascues.github.io/Website/posts/PCIwebinar.html</guid>
+  <pubDate>Mon, 12 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://peercommunityin.org/wp-content/uploads/2020/11/cropped-Capture-de%CC%81cran-2020-10-08-a%CC%80-17.54.49-1-e1765813228257.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>GDR-AIEM : annual meeting 2025</title>
   <dc:creator>Miguel de Navascués</dc:creator>

@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mnavascues.github.io/Website/FullCV.html</loc>
-    <lastmod>2025-11-10T09:24:37.152Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mnavascues.github.io/Website/index.html</loc>
-    <lastmod>2025-11-03T09:21:19.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mnavascues.github.io/Website/Films.html</loc>
-    <lastmod>2025-11-10T09:43:09.052Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mnavascues.github.io/Website/posts/AIEM2025.html</loc>
-    <lastmod>2025-11-10T13:38:14.925Z</lastmod>
+    <loc>https://mnavascues.github.io/Website/ShortCV.html</loc>
+    <lastmod>2025-11-10T13:46:04.050Z</lastmod>
   </url>
   <url>
     <loc>https://mnavascues.github.io/Website/News.html</loc>
-    <lastmod>2025-11-10T09:37:16.328Z</lastmod>
+    <lastmod>2025-11-10T09:37:16.320Z</lastmod>
   </url>
   <url>
-    <loc>https://mnavascues.github.io/Website/ShortCV.html</loc>
-    <lastmod>2025-11-10T13:46:04.055Z</lastmod>
+    <loc>https://mnavascues.github.io/Website/posts/AIEM2025.html</loc>
+    <lastmod>2026-01-20T12:28:44.128Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/FullCV.html</loc>
+    <lastmod>2025-11-10T09:24:37.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/posts/PCIwebinar.html</loc>
+    <lastmod>2026-01-20T12:28:28.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/Films.html</loc>
+    <lastmod>2025-11-10T09:43:09.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mnavascues.github.io/Website/index.html</loc>
+    <lastmod>2025-11-03T09:21:19.599Z</lastmod>
   </url>
 </urlset>
