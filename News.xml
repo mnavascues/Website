@@ -10,7 +10,32 @@
 <atom:link href="https://mnavascues.github.io/Website/News.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 12 Jan 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Restitution of Results from Projet DevOCGen</title>
+  <dc:creator>Miguel de Navascués</dc:creator>
+  <link>https://mnavascues.github.io/Website/posts/DEVOCGEN.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Last 1-4 December there was the restitution week for the project <a href="https://biodivoc.edu.umontpellier.fr/recherche/projets-consortium/projet-de-consortium-devocgen/">DevOCGen</a> (<em>Développement et applications de nouveaux outils pour la gestion et la conservation des populations naturelles à partir de données génomiques</em>). Today the presentation slides are available <a href="https://biodivoc.edu.umontpellier.fr/recherche/projets-consortium/projet-de-consortium-devocgen/semaine-de-restitution-du-projet-devocgen/">here</a>. There were talks about haplotagging, genetic studies of endangered species in the Occitanie region and methods to estimate demography, population size and population fragmentation from molecular markers. There were also workshops about the methods developped during the project that are available <a href="https://forge.inrae.fr/devocgen/restitution_workshop">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>DevOCGen</category>
+  <category>workshop</category>
+  <category>researh project</category>
+  <category>conservation genetics</category>
+  <category>Occitanie</category>
+  <category>Montpellier</category>
+  <category>haplotagging</category>
+  <guid>https://mnavascues.github.io/Website/posts/DEVOCGEN.html</guid>
+  <pubDate>Sun, 01 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://biodivoc.edu.umontpellier.fr/files/2024/03/BiodivOc-cmjn-blanc-768x213.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Webinar about Peer Community In</title>
   <dc:creator>Miguel de Navascués</dc:creator>
