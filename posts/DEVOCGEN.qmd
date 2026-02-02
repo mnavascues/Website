@@ -1,10 +1,10 @@
 ---
-title: "Webinar about Peer Community In"
+title: "Restitution of Results from Projet DevOCGen"
 author: Miguel de Navascués
-date: 2026-01-13
-categories: [webinar, INRAE, ECODIV, PCI, peer review]
-image: https://peercommunityin.org/wp-content/uploads/2020/11/cropped-Capture-de%CC%81cran-2020-10-08-a%CC%80-17.54.49-1-e1765813228257.png
+date: 2026-02-02
+categories: [DevOCGen, workshop, researh project, conservation genetics, Occitanie, Montpellier, haplotagging]
+image: https://biodivoc.edu.umontpellier.fr/files/2024/03/BiodivOc-cmjn-blanc-768x213.png
 ---
 
+Last 1-4 December there was the restitution week for the project [DevOCGen](https://biodivoc.edu.umontpellier.fr/recherche/projets-consortium/projet-de-consortium-devocgen/) (*Développement et applications de nouveaux outils pour la gestion et la conservation des populations naturelles à partir de données génomiques*). Today the presentation slides are available [here](https://biodivoc.edu.umontpellier.fr/recherche/projets-consortium/projet-de-consortium-devocgen/semaine-de-restitution-du-projet-devocgen/). There were talks about haplotagging, genetic studies of endangered species in the Occitanie region and methods to estimate demography, population size and population fragmentation from molecular markers. There were also workshops about the methods developped during the project that are available [here](https://forge.inrae.fr/devocgen/restitution_workshop).
 
-Last 13 january 2026 there was a [Webinar](https://ecodiv.intranet.inrae.fr/actualites/replay-webinaire-peer-community-in) organised by INRAE's ECODIV division about Peer Community In ([PCI](https://peercommunityin.org)) and Peer Community Journal ([PCJ](https://peercommunityjournal.org/)). There were several presentations, and among them I presented [PCI Evolutionary Biology](https://evolbiol.peercommunityin.org/). The whole seminar (2h, in French) is available in [YouTube](https://youtu.be/hD7fTscs1uo).
