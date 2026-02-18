@@ -5,3 +5,5 @@ I am a researcher at the CBGP (*Centre de Biologie pour la Gestion des Populatio
 2.  **Analysis of temporal population genetic data**, such as data from monitored or experimental populations.
 
 3.  **Integrative demographic inference** combining genetic and demographic data (such as capture-recapture data).
+
+I am also board member of PCI Evolutionary Biology & Peer Community Journal.

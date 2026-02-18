@@ -46,6 +46,12 @@ format:
       - text: CBGP
         icon: person-workspace
         href: https://umr-cbgp.fr/membre/de-navascues/
+      - text: PCI Evol Biol
+        icon: journal-check
+        href: https://evolbiol.peercommunityin.org/
+      - text: Peer Community Journal
+        icon: journal-text
+        href: https://peercommunityjournal.org/
   pdf:
     geometry: 
       - top=20mm
