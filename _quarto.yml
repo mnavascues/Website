@@ -16,6 +16,8 @@ website:
         text: "Short CV"
       - href: FullCV.qmd
         text: "Full CV"
+      - href: Contact.qmd
+        text: "Contact"
 
 format:
   html:
