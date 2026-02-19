@@ -3,3 +3,5 @@ title: "Miguel de Navascués --- Population Genetics"
 ---
 
 {{< include _short_research_presentation.qmd >}}
+
+I am committed to Open Science, scientific quality and independence of scientific publication from financial interests. As such, I am a longtime supporter of the Peer Community In initiative and I am member of the Managing Board of PCI Evolutionary Biology and of the Editorial Board of Peer Community Journal.
