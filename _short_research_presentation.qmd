@@ -6,4 +6,5 @@ I am a researcher at the CBGP (*Centre de Biologie pour la Gestion des Populatio
 
 3.  **Integrative demographic inference** combining genetic and demographic data (such as capture-recapture data).
 
-I am also board member of PCI Evolutionary Biology & Peer Community Journal.
+I consider these three lines of research the three pillars for my long-term research objective of developing an inferential framework that can forecast the evolutionary states of a population based on demographic and genetic monitoring data.
+
