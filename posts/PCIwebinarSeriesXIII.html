@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Miguel de Navascués">
+<meta name="dcterms.date" content="2026-02-20">
 
-<title>News – Miguel de Navascués — Population Genetics</title>
+<title>UPCOMING PCI Webinar Series – Miguel de Navascués — Population Genetics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b5bdf136522145a1bcc2eb35951745d0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-b5bdf136522145a1bcc2eb35951745d0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,68 +70,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Miguel de Navascués --- Population Genetics" href="News.xml" data-external="1"></head>
+<link rel="stylesheet" href="../styles.css">
+</head>
 
 <body class="nav-fixed quarto-light">
 
@@ -140,9 +82,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Miguel de Navascués — Population Genetics</span>
     </a>
   </div>
@@ -153,27 +95,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./News.html" aria-current="page"> 
+    <a class="nav-link" href="../News.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Films.html"> 
+    <a class="nav-link" href="../Films.html"> 
 <span class="menu-text">Films</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ShortCV.html"> 
+    <a class="nav-link" href="../ShortCV.html"> 
 <span class="menu-text">Short CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./FullCV.html"> 
+    <a class="nav-link" href="../FullCV.html"> 
 <span class="menu-text">Full CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Contact.html"> 
+    <a class="nav-link" href="../Contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -188,21 +130,47 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q0JHUA==">CBGP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uZmVyZW5jZQ==">conference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uc2VydmF0aW9uJTIwZ2VuZXRpY3M=">conservation genetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGV2T0NHZW4=">DevOCGen <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RUNPRElW">ECODIV <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGFwbG90YWdnaW5n">haplotagging <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SU5SQUU=">INRAE <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9udHBlbGxpZXI=">Montpellier <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T2NjaXRhbmll">Occitanie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UENJ">PCI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cGVlciUyMHJldmlldw==">peer review <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cmVzZWFyaCUyMHByb2plY3Q=">researh project <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c3R1ZGVudA==">student <span class="quarto-category-count">(1)</span></div><div class="category" data-category="d2ViaW5hcg==">webinar <span class="quarto-category-count">(2)</span></div><div class="category" data-category="d29ya3Nob3A=">workshop <span class="quarto-category-count">(1)</span></div></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="News.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div><div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="http://orcid.org/0000-0001-8342-6047"><i class="bi bi-person-circle"></i>ORCID</a></li><li><a href="https://openalex.org/authors/a5008213968"><i class="bi bi-person-circle"></i>OpenAlex</a></li><li><a href="https://github.com/mnavascues"><i class="bi bi-github"></i>GitHub</a></li><li><a href="https://mastodon.online/@Miguel_de_Navascues"><i class="bi bi-mastodon"></i>Mastodon</a></li><li><a href="https://umr-cbgp.fr/membre/de-navascues/"><i class="bi bi-person-workspace"></i>CBGP</a></li><li><a href="https://evolbiol.peercommunityin.org/"><i class="bi bi-journal-check"></i>PCI Evol Biol</a></li><li><a href="https://peercommunityjournal.org/"><i class="bi bi-journal-text"></i>Peer Community Journal</a></li></ul></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#the-drain-of-scientific-publishing-why-publishing-is-becoming-a-burden-for-science-and-how-to-fix-it" id="toc-the-drain-of-scientific-publishing-why-publishing-is-becoming-a-burden-for-science-and-how-to-fix-it" class="nav-link active" data-scroll-target="#the-drain-of-scientific-publishing-why-publishing-is-becoming-a-burden-for-science-and-how-to-fix-it">The Drain of Scientific Publishing: why publishing is becoming a burden for science and how to fix it</a>
+  <ul class="collapse">
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="PCIwebinarSeriesXIII.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div><div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="http://orcid.org/0000-0001-8342-6047"><i class="bi bi-person-circle"></i>ORCID</a></li><li><a href="https://openalex.org/authors/a5008213968"><i class="bi bi-person-circle"></i>OpenAlex</a></li><li><a href="https://github.com/mnavascues"><i class="bi bi-github"></i>GitHub</a></li><li><a href="https://mastodon.online/@Miguel_de_Navascues"><i class="bi bi-mastodon"></i>Mastodon</a></li><li><a href="https://umr-cbgp.fr/membre/de-navascues/"><i class="bi bi-person-workspace"></i>CBGP</a></li><li><a href="https://evolbiol.peercommunityin.org/"><i class="bi bi-journal-check"></i>PCI Evol Biol</a></li><li><a href="https://peercommunityjournal.org/"><i class="bi bi-journal-text"></i>Peer Community Journal</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">News</h1>
-</div>
+<h1 class="title">UPCOMING PCI Webinar Series</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">webinar</div>
+    <div class="quarto-category">PCI</div>
+    <div class="quarto-category">peer review</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Miguel de Navascués </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 20, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -212,159 +180,21 @@ window.Quarto = {
 </header>
 
 
+<section id="the-drain-of-scientific-publishing-why-publishing-is-becoming-a-burden-for-science-and-how-to-fix-it" class="level1">
+<h1>The Drain of Scientific Publishing: why publishing is becoming a burden for science and how to fix it</h1>
+<p>by Paolo Crosetto (INRAE, Grenoble Applied Economics Laboratory, France)</p>
+<p>19th of March 2026 at 4 pm CET (GMT+1, Paris Time, until 5.15 pm) via Zoom</p>
+<p><a href="https://univ-cotedazur.zoom.us/meeting/register/EdGt3J2cSqKWOs4zxuXZvA">Zoom registration link</a></p>
+<p>See previous seminars at <a href="https://peercommunityin.org/pci-webinar-series/">peercommunityin.org</a></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>The scientific publishing market allows dissemination of knowledge and research results around the world. It is also the main source of academic prestige: the signals it produces are used to hire faculty, direct public research funds and rank universities and countries. And a very lucrative business, funneling billions of Euros each year from public agencies into publishers and learned societies. It is foundational to science as it is practiced now – we are what we publish. Yet, the system is nearing a breaking point. Scientists are increasingly overwhelmed by the volume of articles being published, the proliferation of journals and the increase in their charges, and by a scientific publication system that does not seem to have the best interest of science as its priority. This talk, based on the analyses of “The Strain on Scientific Publishing”, presents several data-driven metrics on publisher growth, processing times, marketing strategies and profits, and on author’s citation and publication behaviors, that allow to see the forest of scientific publishing for the trees. It makes the case for reform, highlighting potential paths to take to stop the drain of money, time, control and trust the system is imposing on science.</p>
 
 
+</section>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="d2ViaW5hciUyQ1BDSSUyQ3BlZXIlMjByZXZpZXc=" data-listing-date-sort="1771542000000" data-listing-file-modified-sort="1771585670130" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="226">
-<a href="./posts/PCIwebinarSeriesXIII.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://peercommunityin.org/wp-content/uploads/2020/11/cropped-Capture-de%CC%81cran-2020-10-08-a%CC%80-17.54.49-1-e1765813228257.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-UPCOMING PCI Webinar Series
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('d2ViaW5hcg=='); return false;">webinar</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UENJ'); return false;">PCI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGVlciUyMHJldmlldw=='); return false;">peer review</div>
-
-</div>
-<div class="card-text listing-description delink">
-by Paolo Crosetto (INRAE, Grenoble Applied Economics Laboratory, France)
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Miguel de Navascués
-</div>
-<div class="listing-date">
-Feb 20, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="RGV2T0NHZW4lMkN3b3Jrc2hvcCUyQ3Jlc2VhcmglMjBwcm9qZWN0JTJDY29uc2VydmF0aW9uJTIwZ2VuZXRpY3MlMkNPY2NpdGFuaWUlMkNNb250cGVsbGllciUyQ2hhcGxvdGFnZ2luZw==" data-listing-date-sort="1769986800000" data-listing-file-modified-sort="1771515334614" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="81">
-<a href="./posts/DEVOCGEN.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://biodivoc.edu.umontpellier.fr/files/2024/03/BiodivOc-cmjn-blanc-768x213.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Restitution of Results from Projet DevOCGen
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGV2T0NHZW4='); return false;">DevOCGen</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('d29ya3Nob3A='); return false;">workshop</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVzZWFyaCUyMHByb2plY3Q='); return false;">researh project</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29uc2VydmF0aW9uJTIwZ2VuZXRpY3M='); return false;">conservation genetics</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('T2NjaXRhbmll'); return false;">Occitanie</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW9udHBlbGxpZXI='); return false;">Montpellier</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aGFwbG90YWdnaW5n'); return false;">haplotagging</div>
-
-</div>
-<div class="card-text listing-description delink">
-Last 1-4 December there was the restitution week for the project DevOCGen (<em>Développement et applications de nouveaux outils pour la gestion et la conservation des…</em>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Miguel de Navascués
-</div>
-<div class="listing-date">
-Feb 2, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="d2ViaW5hciUyQ0lOUkFFJTJDRUNPRElWJTJDUENJJTJDcGVlciUyMHJldmlldw==" data-listing-date-sort="1768258800000" data-listing-file-modified-sort="1771515334614" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
-<a href="./posts/PCIwebinar.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://peercommunityin.org/wp-content/uploads/2020/11/cropped-Capture-de%CC%81cran-2020-10-08-a%CC%80-17.54.49-1-e1765813228257.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Webinar about Peer Community In
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('d2ViaW5hcg=='); return false;">webinar</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SU5SQUU='); return false;">INRAE</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RUNPRElW'); return false;">ECODIV</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UENJ'); return false;">PCI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGVlciUyMHJldmlldw=='); return false;">peer review</div>
-
-</div>
-<div class="card-text listing-description delink">
-Last 13 january 2026 there was a Webinar organised by INRAE’s ECODIV division about Peer Community In (PCI) and Peer Community Journal (PCJ). There were several…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Miguel de Navascués
-</div>
-<div class="listing-date">
-Jan 13, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="c3R1ZGVudCUyQ2NvbmZlcmVuY2UlMkNDQkdQ" data-listing-date-sort="1762470000000" data-listing-file-modified-sort="1771515334614" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="86">
-<a href="./posts/AIEM2025.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://gdr-aiem-2025.sciencesconf.org/data/header/Logo_aiem_2.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-GDR-AIEM : annual meeting 2025
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('c3R1ZGVudA=='); return false;">student</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29uZmVyZW5jZQ=='); return false;">conference</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q0JHUA=='); return false;">CBGP</div>
-
-</div>
-<div class="card-text listing-description delink">
-Last 5 to 7 November 2025 there was the Annual Meeting of the GDR-AIEM in Saint-Martin-de-Londres (France). Two people from our group at CBGP presented their work. Paul Bunel…<em></em>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Miguel de Navascués
-</div>
-<div class="listing-date">
-Nov 7, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

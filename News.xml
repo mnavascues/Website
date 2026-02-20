@@ -10,7 +10,38 @@
 <atom:link href="https://mnavascues.github.io/Website/News.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 01 Feb 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>UPCOMING PCI Webinar Series</title>
+  <dc:creator>Miguel de Navascués</dc:creator>
+  <link>https://mnavascues.github.io/Website/posts/PCIwebinarSeriesXIII.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="the-drain-of-scientific-publishing-why-publishing-is-becoming-a-burden-for-science-and-how-to-fix-it" class="level1">
+<h1>The Drain of Scientific Publishing: why publishing is becoming a burden for science and how to fix it</h1>
+<p>by Paolo Crosetto (INRAE, Grenoble Applied Economics Laboratory, France)</p>
+<p>19th of March 2026 at 4 pm CET (GMT+1, Paris Time, until 5.15 pm) via Zoom</p>
+<p><a href="https://univ-cotedazur.zoom.us/meeting/register/EdGt3J2cSqKWOs4zxuXZvA">Zoom registration link</a></p>
+<p>See previous seminars at <a href="https://peercommunityin.org/pci-webinar-series/">peercommunityin.org</a></p>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>The scientific publishing market allows dissemination of knowledge and research results around the world. It is also the main source of academic prestige: the signals it produces are used to hire faculty, direct public research funds and rank universities and countries. And a very lucrative business, funneling billions of Euros each year from public agencies into publishers and learned societies. It is foundational to science as it is practiced now – we are what we publish. Yet, the system is nearing a breaking point. Scientists are increasingly overwhelmed by the volume of articles being published, the proliferation of journals and the increase in their charges, and by a scientific publication system that does not seem to have the best interest of science as its priority. This talk, based on the analyses of “The Strain on Scientific Publishing”, presents several data-driven metrics on publisher growth, processing times, marketing strategies and profits, and on author’s citation and publication behaviors, that allow to see the forest of scientific publishing for the trees. It makes the case for reform, highlighting potential paths to take to stop the drain of money, time, control and trust the system is imposing on science.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>webinar</category>
+  <category>PCI</category>
+  <category>peer review</category>
+  <guid>https://mnavascues.github.io/Website/posts/PCIwebinarSeriesXIII.html</guid>
+  <pubDate>Thu, 19 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://peercommunityin.org/wp-content/uploads/2020/11/cropped-Capture-de%CC%81cran-2020-10-08-a%CC%80-17.54.49-1-e1765813228257.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Restitution of Results from Projet DevOCGen</title>
   <dc:creator>Miguel de Navascués</dc:creator>
