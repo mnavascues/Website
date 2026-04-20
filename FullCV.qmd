@@ -66,3 +66,9 @@ date: today
 
 {{< include _posters.qmd >}}
 
+## Training and Professional Development
+
+### conferences
+
+{{< include _conferences_attended.qmd >}}
+
