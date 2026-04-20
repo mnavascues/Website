@@ -1,30 +1,30 @@
 <!-- Software -->
 
-1. **SelNeTime: a python package inferring effective population size and selection intensity from genomic time series data**. M. Uhl, P. Bunel, _M. de Navascués_, S. Boitard, B. Servin (2025) [https://forge.inrae.fr/genetic-time-series/selnetime](https://forge.inrae.fr/genetic-time-series/selnetime).
+1. **SelNeTime: a python package inferring effective population size and selection intensity from genomic time series data**. M. Uhl, P. Bunel, _M.d. Navascués_, S. Boitard, B. Servin (2025) [https://forge.inrae.fr/genetic-time-series/selnetime](https://forge.inrae.fr/genetic-time-series/selnetime).
 
-1. **DARth ABC: Analysis of the Dated Archaeological Record through Approximate Bayesian Computation**. _M. de Navascués_ (2024) [doi:10.5281/zenodo.13383349](http://doi.org/10.5281/zenodo.13383349 "").
+1. **DARth ABC: analysis of the dated archaeological record through approximate Bayesian computation**. _M.d. Navascués_ (2024) [doi:10.5281/zenodo.13383349](http://doi.org/10.5281/zenodo.13383349 "").
 
-1. **TimeAdapt: joint inference of demography and selection from longitudinal population genomic data**. _M. de Navascués_ (2023) [doi:10.5281/zenodo.8232572](http://doi.org/10.5281/zenodo.8232572 "").
+1. **TimeAdapt: joint inference of demography and selection from longitudinal population genomic data**. _M.d. Navascués_ (2023) [doi:10.5281/zenodo.8232572](http://doi.org/10.5281/zenodo.8232572 "").
 
-1. **Tracking Selection using Temporal Population Genomics Data**. V.A.C. Pavinato, S. De Mita, J.M. Cridland, _M. de Navascués_ (2022) [doi:10.5281/zenodo.7244868](http://doi.org/10.5281/zenodo.7244868 "").
+1. **Tracking selection using temporal population genomics data**. V.A.C. Pavinato, S. De Mita, J.M. Cridland, _M.d. Navascués_ (2022) [doi:10.5281/zenodo.7244868](http://doi.org/10.5281/zenodo.7244868 "").
 
-1. **DriftTest. a computer program to detect selection from temporal genetic differentiation in partially selfing populations**. _M. de Navascués_, R. Vitalis (2020) [doi:10.5281/zenodo.8269179](http://doi.org/10.5281/zenodo.8269179 "").
+1. **DriftTest. a computer program to detect selection from temporal genetic differentiation in partially selfing populations**. _M.d. Navascués_, R. Vitalis (2020) [doi:10.5281/zenodo.8269179](http://doi.org/10.5281/zenodo.8269179 "").
 
-1. **DriftTest-Evaluation. A suite of R scripts to evaluate the performance of DriftTest for detection of selection with temporal data**. _M. de Navascués_, R. Vitalis (2020) [doi:10.5281/zenodo.4034607](http://doi.org/10.5281/zenodo.4034607 "").
+1. **DriftTest-Evaluation. A suite of R scripts to evaluate the performance of DriftTest for detection of selection with temporal data**. _M.d. Navascués_, R. Vitalis (2020) [doi:10.5281/zenodo.4034607](http://doi.org/10.5281/zenodo.4034607 "").
 
-1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués_, J. Ronfort, L. Gay (2019) [doi:10.15454/VYPXIJ](http://doi.org/10.15454/VYPXIJ "").
+1. **Code from Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M.d. Navascués_, J. Ronfort, L. Gay (2019) [doi:10.15454/VYPXIJ](http://doi.org/10.15454/VYPXIJ "").
 
-1. **ABCQuinoa: Scripts in R for an an approximate Bayesian computation analysis of ancient Quinoa gene pools and their contribution to modern varieties in Antofagasta**. _M. de Navascués_, C. Burgarella (2018) [doi:10.5281/zenodo.1489308](http://doi.org/10.5281/zenodo.1489308 "").
+1. **ABCQuinoa: Scripts in R for an an approximate Bayesian computation analysis of ancient Quinoa gene pools and their contribution to modern varieties in Antofagasta**. _M.d. Navascués_, C. Burgarella (2018) [doi:10.5281/zenodo.1489308](http://doi.org/10.5281/zenodo.1489308 "").
 
-1. **DIYABCskylineplot: A suite of R scripts to perform a Approximate Bayesian Computation Skyline Plot**. _M. de Navascués_ (2017) [doi:10.5281/zenodo.267182](http://doi.org/10.5281/zenodo.267182 "").
+1. **DIYABCskylineplot: A suite of R scripts to perform a Approximate Bayesian Computation Skyline Plot**. _M.d. Navascués_ (2017) [doi:10.5281/zenodo.267182](http://doi.org/10.5281/zenodo.267182 "").
 
-1. **microsatABC-IM: Approximate Bayesian computation inferences under the isolation with migration model from microsatellite data**. _M. de Navascués_ (2017) [doi:10.5281/zenodo.895905](http://doi.org/10.5281/zenodo.895905 "").
+1. **microsatABC-IM: Approximate Bayesian computation inferences under the isolation with migration model from microsatellite data**. _M.d. Navascués_ (2017) [doi:10.5281/zenodo.895905](http://doi.org/10.5281/zenodo.895905 "").
 
-1. **TempoDiff: a computer program to detect  selection from temporal genetic differentiation**. R. Vitalis, L. Gay, _M. de Navascués_ (2017) [doi:10.5281/zenodo.375600](http://doi.org/10.5281/zenodo.375600 "").
+1. **TempoDiff: a computer program to detect  selection from temporal genetic differentiation**. R. Vitalis, L. Gay, _M.d. Navascués_ (2017) [doi:10.5281/zenodo.375600](http://doi.org/10.5281/zenodo.375600 "").
 
-1. **SIplusA: a population genetics forward simulator with self-incompatibility system and partial asexuality**. _M. de Navascués_, S. Mariette (2010) [doi:10.5281/zenodo.163613](http://doi.org/10.5281/zenodo.163613 "").
+1. **SIplusA: a population genetics forward simulator with self-incompatibility system and partial asexuality**. _M.d. Navascués_, S. Mariette (2010) [doi:10.5281/zenodo.163613](http://doi.org/10.5281/zenodo.163613 "").
 
-1. **LMSE (LinkMicroSatelliteExpansion): Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes**. _M. de Navascués_ (2009) [doi:10.5281/zenodo.4053655](http://doi.org/10.5281/zenodo.4053655 "").
+1. **LMSE (LinkMicroSatelliteExpansion): Characterization of demographic expansions from pairwise comparisons of linked microsatellite haplotypes**. _M.d. Navascués_ (2009) [doi:10.5281/zenodo.4053655](http://doi.org/10.5281/zenodo.4053655 "").
 
-1. **Blue Caterpillar: assignment methods on chloroplast microsatellites for provenance identification of reforested stands or seedlots**. _M. de Navascués_, J. de Navascués (2006) [doi:10.5281/zenodo.4052295](http://doi.org/10.5281/zenodo.4052295 "").
+1. **Blue Caterpillar: assignment methods on chloroplast microsatellites for provenance identification of reforested stands or seedlots**. _M.d. Navascués_, J.d. Navascués (2006) [doi:10.5281/zenodo.4052295](http://doi.org/10.5281/zenodo.4052295 "").
 

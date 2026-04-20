@@ -1,24 +1,24 @@
 <!-- Thesis -->
 
-1. **Modélisation intégrée des paramètres démographiques et génétiques**. T. Lejeune supervised by _M. de Navascués_, R. Leblois, L. Marescot (2025) MSc thesis. Université de Montpellier, Montpellier (France).
+1. **Modélisation intégrée des paramètres démographiques et génétiques**. T. Lejeune supervised by _M.d. Navascués_, R. Leblois, L. Marescot (2025) MSc thesis. Université de Montpellier, Montpellier (France).
 
-1. **Comment identifier la part de l’introgression qui est due à la sélection ?** J. Romieu supervised by F. Rousset, R. Leblois, _M. de Navascués_ (2025) PhD thesis. Université de Montpellier, Montpellier (France).
+1. **Comment identifier la part de l’introgression qui est due à la sélection ?** J. Romieu supervised by F. Rousset, R. Leblois, _M.d. Navascués_ (2025) PhD thesis. Université de Montpellier, Montpellier (France).
 
-1. **Exploration de scénarios évolutifs de colonisation des Îles Kerguelen par la truite commune (<i>Salmo trutta</i>)**. L. Vallée supervised by S. Muratorio, _M. de Navascués_, G. Brahy (2024) MSc thesis. Université de Pau et des Pays de l'Adour, Pau (France).
+1. **Exploration de scénarios évolutifs de colonisation des Îles Kerguelen par la truite commune (<i>Salmo trutta</i>)**. L. Vallée supervised by S. Muratorio, _M.d. Navascués_, G. Brahy (2024) MSc thesis. Université de Pau et des Pays de l'Adour, Pau (France).
 
-1. **Évaluation des performances des méthodes de classification d’introgression adaptative**. G. Camarata supervised by J. Romieu, F. Rousset, R. Leblois, _M. de Navascués_ (2024) MSc thesis. Univerité de Montpellier, Montpellier (France).
+1. **Évaluation des performances des méthodes de classification d’introgression adaptative**. G. Camarata supervised by J. Romieu, F. Rousset, R. Leblois, _M.d. Navascués_ (2024) MSc thesis. Univerité de Montpellier, Montpellier (France).
 
-1. **Analyse temporelle de la diversité en régime autogame : Approches théorique et empirique**. M. Jullien supervised by J. Ronfort, L. Gay, _M. de Navascués_ (2019) PhD thesis. Montpellier SupAgro, Montpellier (France).
+1. **Analyse temporelle de la diversité en régime autogame : Approches théorique et empirique**. M. Jullien supervised by J. Ronfort, L. Gay, _M.d. Navascués_ (2019) PhD thesis. Montpellier SupAgro, Montpellier (France).
 
-1. **Detection of archaic introgression without genomic reference from the source population an ABC approach**. E.-E. Giaglara supervised by _M. de Navascués_, M. Gautier (2019) MSc thesis. Université de Montpellier, Montpellier (France).
+1. **Detection of archaic introgression without genomic reference from the source population an ABC approach**. E.-E. Giaglara supervised by _M.d. Navascués_, M. Gautier (2019) MSc thesis. Université de Montpellier, Montpellier (France).
 
-1. **Évaluation de la performance des statistiques pour la détection de l’introgression adaptative chez le mil (<i>Pennisetum glaucum</i>)**. O. Belkasseh supervised by _M. de Navascués_, C. Burgarella (2018) MSc project. Université de Montpellier, Montpellier (France).
+1. **Évaluation de la performance des statistiques pour la détection de l’introgression adaptative chez le mil (<i>Pennisetum glaucum</i>)**. O. Belkasseh supervised by _M.d. Navascués_, C. Burgarella (2018) MSc project. Université de Montpellier, Montpellier (France).
 
-1. **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames : une étude par simulation**. A. Becheler supervised by _M. de Navascués_, R. Vitalis (2014) MSc thesis. Université Montpellier 2, Montpellier (France).
+1. **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames : une étude par simulation**. A. Becheler supervised by _M.d. Navascués_, R. Vitalis (2014) MSc thesis. Université Montpellier 2, Montpellier (France).
 
-1. **Diversification of the olive tree (<i>Olea europaea</i>) in the Central Sahara and Macaronesia during the Quaternary**. M. Goudet supervised by G. Besnard, _M. de Navascués_ (2014) MSc thesis. Université Toulouse III Paul Sabatier, Toulouse (France).
+1. **Diversification of the olive tree (<i>Olea europaea</i>) in the Central Sahara and Macaronesia during the Quaternary**. M. Goudet supervised by G. Besnard, _M.d. Navascués_ (2014) MSc thesis. Université Toulouse III Paul Sabatier, Toulouse (France).
 
-1. **Genetic diversity of the endemic Canary Island pine tree, <i>Pinus canariensis</i>**. _M. de Navascués_ supervised by B.C. Emerson (2005) PhD thesis. University of East Anglia, Norwich (UK) [doi:10.6084/m9.figshare.1108027.v1](http://doi.org/10.6084/m9.figshare.1108027.v1 "").
+1. **Genetic diversity of the endemic Canary Island pine tree, <i>Pinus canariensis</i>**. _M.d. Navascués_ supervised by B.C. Emerson (2005) PhD thesis. University of East Anglia, Norwich (UK) [doi:10.6084/m9.figshare.1108027.v1](http://doi.org/10.6084/m9.figshare.1108027.v1 "").
 
-1. **Metapopulation dynamics as an explanation to the genetic structure of the desert locust populations: parameter exploration**. _M. de Navascués_ supervised by K. Ibrahim (2001) BSc project. University of East Anglia, Norwich (UK) [doi:10.6084/m9.figshare.1108026.v1](http://doi.org/10.6084/m9.figshare.1108026.v1 "").
+1. **Metapopulation dynamics as an explanation to the genetic structure of the desert locust populations: parameter exploration**. _M.d. Navascués_ supervised by K. Ibrahim (2001) BSc project. University of East Anglia, Norwich (UK) [doi:10.6084/m9.figshare.1108026.v1](http://doi.org/10.6084/m9.figshare.1108026.v1 "").
 

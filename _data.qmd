@@ -1,18 +1,18 @@
 <!-- Data -->
 
-1. **VCF files from the study of low recombining genomic regions in pearl millet**. M. Salson, M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, P. Cubry, A.-C. Thuillet, C. Burgarella, _M. de Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, A. Faye, N. Kane, Y. Vigouroux, C. Berthouly-Salazar (2025) [doi:10.23708/SN2T4A](http://doi.org/10.23708/SN2T4A "").
+1. **VCF files from the study of low recombining genomic regions in pearl millet**. M. Salson, M. Duranton, S. Huynh, C. Mariac, C. Tranchant-Dubreuil, J. Orjuela, P. Cubry, A.-C. Thuillet, C. Burgarella, _M.d. Navascués_, L. Zekraouï, M. Couderc, S. Arribat, N. Rodde, A. Barnaud, A. Faye, N. Kane, Y. Vigouroux, C. Berthouly-Salazar (2025) [doi:10.23708/SN2T4A](http://doi.org/10.23708/SN2T4A "").
 
-1. **<i>Medicago truncatula</i> temporal data from: Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M. de Navascués_, J. Ronfort, K. Loridon, L. Gay (2019) [doi:10.15454/VCZIMR](http://doi.org/10.15454/VCZIMR "").
+1. **<i>Medicago truncatula</i> temporal data from: Structure of multilocus genetic diversity in predominantly selfing populations**. M. Jullien, _M.d. Navascués_, J. Ronfort, K. Loridon, L. Gay (2019) [doi:10.15454/VCZIMR](http://doi.org/10.15454/VCZIMR "").
 
-1. **Data from: Pleistocene origins of chorusing diversity in Mediterranean bush-cricket populations (<i>Ephippiger diurnus</i>)**. Y. Esquer-Garrigos, R. Streiff, V. Party, S. Nidelet, _M. de Navascués_, M.D. Greenfield (2018) [doi:10.5061/DRYAD.M04R4B5](http://doi.org/10.5061/DRYAD.M04R4B5 "").
+1. **Data from: Pleistocene origins of chorusing diversity in Mediterranean bush-cricket populations (<i>Ephippiger diurnus</i>)**. Y. Esquer-Garrigos, R. Streiff, V. Party, S. Nidelet, _M.d. Navascués_, M.D. Greenfield (2018) [doi:10.5061/DRYAD.M04R4B5](http://doi.org/10.5061/DRYAD.M04R4B5 "").
 
-1. **Data from: Distinguishing migration from isolation using genes with intragenic recombination: detecting introgression in the <i>Drosophila simulans</i> species complex**. _M. de Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2015) [doi:10.5061/DRYAD.67F8V](http://doi.org/10.5061/DRYAD.67F8V "").
+1. **Data from: Distinguishing migration from isolation using genes with intragenic recombination: detecting introgression in the <i>Drosophila simulans</i> species complex**. _M.d. Navascués_, D. Legrand, C. Campagne, M.-L. Cariou, F. Depaulis (2015) [doi:10.5061/DRYAD.67F8V](http://doi.org/10.5061/DRYAD.67F8V "").
 
-1. **Data from: Genetic, morphological and acoustic evidence reveals lack of diversification in the colonization process in an island bird**. J.C. Illera, A.M. Palmero, P. Laiolo, F. Rodríguez, Á.C. Moreno, _M. de Navascués_ (2014) [doi:10.5061/DRYAD.Q42P7](http://doi.org/10.5061/DRYAD.Q42P7 "").
+1. **Data from: Genetic, morphological and acoustic evidence reveals lack of diversification in the colonization process in an island bird**. J.C. Illera, A.M. Palmero, P. Laiolo, F. Rodríguez, Á.C. Moreno, _M.d. Navascués_ (2014) [doi:10.5061/DRYAD.Q42P7](http://doi.org/10.5061/DRYAD.Q42P7 "").
 
-1. **Data from: Recent population decline and selection shape diversity of taxol-related genes**. C. Burgarella, _M. de Navascués_, M. Zabal-Aguirre, E. Berganzo, M. Riba, M. Mayol, G.G. Vendramin, S.C. González-Martínez (2012) [doi:10.5061/DRYAD.4J7Q3S0T](http://doi.org/10.5061/DRYAD.4J7Q3S0T "").
+1. **Data from: Recent population decline and selection shape diversity of taxol-related genes**. C. Burgarella, _M.d. Navascués_, M. Zabal-Aguirre, E. Berganzo, M. Riba, M. Mayol, G.G. Vendramin, S.C. González-Martínez (2012) [doi:10.5061/DRYAD.4J7Q3S0T](http://doi.org/10.5061/DRYAD.4J7Q3S0T "").
 
-1. **Data from: Genetic diversity of the endemic Canary Island pine tree, <i>Pinus canariensis</i> (Ph.D. thesis)**. _M. de Navascués_, B.C. Emerson (2012) [doi:10.5061/dryad.7tr51](http://doi.org/10.5061/dryad.7tr51 "").
+1. **Data from: Genetic diversity of the endemic Canary Island pine tree, <i>Pinus canariensis</i> (Ph.D. thesis)**. _M.d. Navascués_, B.C. Emerson (2012) [doi:10.5061/dryad.7tr51](http://doi.org/10.5061/dryad.7tr51 "").
 
-1. **Data from: Elevated substitution rate estimates from ancient DNA: model violation and bias of Bayesian methods**. _M. de Navascués_, B.C. Emerson (2010) [doi:10.5061/DRYAD.1355](http://doi.org/10.5061/DRYAD.1355 "").
+1. **Data from: Elevated substitution rate estimates from ancient DNA: model violation and bias of Bayesian methods**. _M.d. Navascués_, B.C. Emerson (2010) [doi:10.5061/DRYAD.1355](http://doi.org/10.5061/DRYAD.1355 "").
 

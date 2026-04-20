@@ -8,12 +8,11 @@ extra_fields = extract_extra_fields(production$Extra)
 production = cbind(production, GoogleScholar = unlist(extra_fields$GoogleScholar))
 production = cbind(production, Organiser = unlist(extra_fields$Organiser))
 pos = which(production$DOI=="")
-for (i in pos){
-  if (is.na(production$DOI[i]) | production$DOI[i]==""){
-    production$DOI[i] = extra_fields$DOI[i]
-  }
-}
-
+#for (i in pos){
+#  if (is.na(production$DOI[i]) | production$DOI[i]==""){
+#    production$DOI[i] = extra_fields$DOI[i]
+#  }
+#}
 
 make_list(table = production,
           item_type = "preprint",

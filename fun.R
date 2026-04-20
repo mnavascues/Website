@@ -40,7 +40,7 @@ split_authors = function(txt) {
   do.call(rbind, res)
 }
 
-make_list = function(table, item_type, type=NA, first_author=NA, focus_author="de Navascués, Miguel", qmd_file, comment){
+make_list = function(table, item_type, type=NA, first_author=NA, focus_author="Navascués, Miguel de", qmd_file, comment){
   write(paste0("<!-- ", comment, " -->"), file = qmd_file)
   write("", file = qmd_file, append = T)
   sub_table = table[table$Item.Type %in% item_type, ]
