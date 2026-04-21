@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-04-20">
+<meta name="dcterms.date" content="2026-04-21">
 
 <title>Miguel de Navascués - CV – Miguel de Navascués — Population Genetics</title>
 <style>
@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -137,6 +166,9 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#career" id="toc-career" class="nav-link" data-scroll-target="#career">Career</a></li>
   <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a></li>
+  </ul></li>
+  <li><a href="#production" id="toc-production" class="nav-link" data-scroll-target="#production">PRODUCTION</a>
+  <ul class="collapse">
   <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a>
   <ul class="collapse">
   <li><a href="#citation-statistics" id="toc-citation-statistics" class="nav-link" data-scroll-target="#citation-statistics">citation statistics</a></li>
@@ -151,15 +183,19 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
   <li><a href="#data" id="toc-data" class="nav-link" data-scroll-target="#data">Data</a></li>
   </ul></li>
-  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences">Conferences</a>
+  <li><a href="#conference-presentations" id="toc-conference-presentations" class="nav-link" data-scroll-target="#conference-presentations">Conference presentations</a>
   <ul class="collapse">
   <li><a href="#oral-communications" id="toc-oral-communications" class="nav-link" data-scroll-target="#oral-communications">oral communications</a></li>
   <li><a href="#co-authorship-on-oral-communications" id="toc-co-authorship-on-oral-communications" class="nav-link" data-scroll-target="#co-authorship-on-oral-communications">co-authorship on oral communications</a></li>
   <li><a href="#posters" id="toc-posters" class="nav-link" data-scroll-target="#posters">posters</a></li>
+  <li><a href="#seminars" id="toc-seminars" class="nav-link" data-scroll-target="#seminars">seminars</a></li>
   </ul></li>
-  <li><a href="#training-and-professional-development" id="toc-training-and-professional-development" class="nav-link" data-scroll-target="#training-and-professional-development">Training and Professional Development</a>
+  </ul></li>
+  <li><a href="#profesional-activities" id="toc-profesional-activities" class="nav-link" data-scroll-target="#profesional-activities">PROFESIONAL ACTIVITIES</a>
   <ul class="collapse">
-  <li><a href="#conferences-1" id="toc-conferences-1" class="nav-link" data-scroll-target="#conferences-1">conferences</a></li>
+  <li><a href="#professional-development" id="toc-professional-development" class="nav-link" data-scroll-target="#professional-development">Professional Development</a>
+  <ul class="collapse">
+  <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences">conferences</a></li>
   </ul></li>
   </ul></li>
   </ul>
@@ -181,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 20, 2026</p>
+      <p class="date">April 21, 2026</p>
     </div>
   </div>
   
@@ -255,6 +291,9 @@ Doctoral candidate, University of East Anglia (UK).
 <li><p><strong>Field Collection of Weevils (<em>Brachyderes</em> and <em>Rhinusa</em>) in Spain for Phylogeographic and Population Studies</strong>. Richard Warn Memorial Fund Travel Award (2003). Rol: Grantee. <!--  05/2003 300 pounds --></p></li>
 </ol>
 </section>
+</section>
+<section id="production" class="level1">
+<h1>PRODUCTION</h1>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
 <section id="citation-statistics" class="level3">
@@ -313,11 +352,11 @@ Doctoral candidate, University of East Anglia (UK).
 <li><p><strong>Estimating gametic introgression rates in a risk assessment context: a case study with Scots pine relicts</strong>. J.J. Robledo-Arnuncio, <em>M.d. Navascués</em>, S.C. González-Martínez, L. Gil (2009) <a href="http://doi.org/10.1038/hdy.2009.78" title="Heredity">doi:10.1038/hdy.2009.78</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=11943405382607779689" title="Google Scholar">30</a>.</p></li>
 <li><p><strong>Characterization of historical demographic expansions from pairwise comparisons of haplotypes using linked mirosatellites</strong>. <em>M.d. Navascués</em>, O. Hardy, C. Burgarella (2009) <a href="http://doi.org/10.1534/genetics.108.098194" title="Genetics">doi:10.1534/genetics.108.098194</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=9596463714088772015" title="Google Scholar">15</a>.</p></li>
 <li><p><strong>Elevated substitution rate estimates from ancient DNA: model violation and bias of Bayesian methods</strong>. <em>M.d. Navascués</em>, B.C. Emerson (2009) <a href="http://doi.org/10.1111/j.1365-294X.2009.04333.x" title="Molecular Ecology">doi:10.1111/j.1365-294X.2009.04333.x</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=6952539332382038092" title="Google Scholar">80</a>.</p></li>
-<li><p><strong>The effect of altitude on the pattern of gene flow in the endemic Canary Island pine, <i>Pinus canariensis</i></strong>. <em>M.d. Navascués</em>, G.G. Vendramin, B.C. Emerson (2008) <a href="http://doi.org/10.1515/sg-2008-0052" title="Silvae Genetica">doi:10.1515/sg-2008-0052</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=13091359952782997790" title="Google Scholar">17</a>.</p></li>
+<li><p><strong>The effect of altitude on the pattern of gene flow in the endemic Canary Island pine, <i>Pinus canariensis</i></strong>. <em>M.d. Navascués</em>, G.G. Vendramin, B.C. Emerson (2008) <a href="http://doi.org/10.1515/sg-2008-0052" title="Silvae Genetica">doi:10.1515/sg-2008-0052</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=13091359952782997790" title="Google Scholar">18</a>.</p></li>
 <li><p><strong>Narrow genetic base in forest restoration with holm oak (<i>Quercus ilex</i> L.) in Sicily</strong>. C. Burgarella, <em>M.d. Navascués</em>, Á. Soto, Á. Lora, S. Fici (2007) <a href="http://doi.org/10.1051/forest:2007055" title="Annals of Forest Sciences">doi:10.1051/forest:2007055</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=15141990283300526075" title="Google Scholar">38</a>.</p></li>
 <li><p><strong>Natural recovery of genetic diversity by gene flow in reforested areas of the endemic Canary Island pine, <i>Pinus canariensis</i></strong>. <em>M.d. Navascués</em>, B.C. Emerson (2007) <a href="http://doi.org/10.1016/j.foreco.2007.04.009" title="Forest Ecology and Management">doi:10.1016/j.foreco.2007.04.009</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=10410945111220498491" title="Google Scholar">42</a>.</p></li>
 <li><p><strong>Chloroplast microsatellites reveal colonization and metapopulation dynamics in the Canary Island pine</strong>. <em>M.d. Navascués</em>, Z. Vaxevanidou, S.C. González-Martínez, J. Climent, L. Gil, B.C. Emerson (2006) <a href="http://doi.org/10.1111/j.1365-294X.2006.02960.x" title="Molecular Ecology">doi:10.1111/j.1365-294X.2006.02960.x</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=3167238740418266796" title="Google Scholar">75</a>.</p></li>
-<li><p><strong>Chloroplast microsatellites: measures of genetic diversity and the effect of homoplasy</strong>. <em>M.d. Navascués</em>, B.C. Emerson (2005) <a href="http://doi.org/10.1111/j.1365-294X.2005.02504.x" title="Molecular Ecology">doi:10.1111/j.1365-294X.2005.02504.x</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=8952630901871297070" title="Google Scholar">101</a>.</p></li>
+<li><p><strong>Chloroplast microsatellites: measures of genetic diversity and the effect of homoplasy</strong>. <em>M.d. Navascués</em>, B.C. Emerson (2005) <a href="http://doi.org/10.1111/j.1365-294X.2005.02504.x" title="Molecular Ecology">doi:10.1111/j.1365-294X.2005.02504.x</a>. Citations: <a href="https://scholar.google.com/scholar?oi=bibs&amp;hl=en&amp;cites=8952630901871297070" title="Google Scholar">102</a>.</p></li>
 </ol>
 </section>
 <section id="book-chapter" class="level3">
@@ -391,8 +430,8 @@ Doctoral candidate, University of East Anglia (UK).
 </ol>
 </section>
 </section>
-<section id="conferences" class="level2">
-<h2 class="anchored" data-anchor-id="conferences">Conferences</h2>
+<section id="conference-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="conference-presentations">Conference presentations</h2>
 <section id="oral-communications" class="level3">
 <h3 class="anchored" data-anchor-id="oral-communications">oral communications</h3>
 <!-- Oral Presentations -->
@@ -484,89 +523,96 @@ Doctoral candidate, University of East Anglia (UK).
 <li><p><strong>Chloroplast microsatellite evolution in conifers</strong>. <em>M.d. Navascués</em>, B.C. Emerson (2003) in <em>Postgraduate Poster Competition</em>, Association of Applied Biologist, London (UK) <a href="http://doi.org/10.6084/m9.figshare.1108017">doi:10.6084/m9.figshare.1108017</a>.</p></li>
 </ol>
 </section>
+<section id="seminars" class="level3">
+<h3 class="anchored" data-anchor-id="seminars">seminars</h3>
+<!--# FALTAN SEMINARIOS EN HUMAN EVOLUTION -->
+<ol type="1">
+<li><p><strong>Analysis of Dated Archaeological Record through Approximate Bayesian Computation</strong> Population Genetics group, UMR CBGP (Montpellier France) 14/11/2022</p></li>
+<li><p><strong>Using Approximate Bayesian Computation for Demographic Inference from Radiocarbon Data</strong> Human Evolution Program, Uppsala University (Sweden) 20/10/2022</p></li>
+<li><p><strong>Science Communication using Stop-Motion Videos</strong> PhD student meeting “Journal club” at UMR CBGP (Montpellier, France) 28/09/2022</p></li>
+<li><p><strong>Using Approximate Bayesian Computation for Demographic Inference from Radiocarbon Data</strong> Human Evolution Program, Uppsala University (Sweden) 19/05/2022</p></li>
+<li><p><strong>Estimation de l’histoire évolutive récente d’une population à partir de données génomiques temporelles</strong> DevOCGen project meeting (Saint Martin de Londres, France) 12/04/2022</p></li>
+<li><p><strong>Simulation of quantitative traits evolution: burn-in for mutation-drift-stabilizing selection balance</strong> Population Genetics group, UMR CBGP (Montpellier France) 18/03/2022</p></li>
+<li><p><strong>How to simulate sequencing and genotyping errors from true genotypes</strong> Mattias Jakobsson Lab, Human Evolution Program, Uppsala University (Sweden) 07/02/2022</p></li>
+<li><p><strong>Breaking bad habits in scientific computing</strong> Human Evolution Program, Uppsala University (Sweden) 29/04/2021</p></li>
+<li><p><strong>Population genetic forecasting from temporal samples</strong> Mattias Jakobsson Lab, Human Evolution Program, Uppsala University (Sweden) 22/09/2020</p></li>
+<li><p><strong>Estimating <span class="math inline">\(\frac{1}{N_\mathrm{e}}\)</span>: Estimating “a bunch of different numbers that are central to our ideas […] and call them all the same thing” which “is neither effective nor a population size”</strong> Human Evolution Program, Uppsala University (Sweden) 13/02/2020</p></li>
+<li><p><strong>Inférence statistique en génétique des populations : données temporelles et régime autogame</strong> Séminaires UMR Biogeco, Cestas (Pierroton, France) 21/06/2019</p></li>
+<li><p><strong>Joint inference of adaptive and demographic history from temporal population genomic data</strong> Réunion du réseau de génétique du Département EFPA (Montpellier, France) 16/05/2019</p></li>
+</ol>
+<!--# FALTAN SEMINARIOS EN EL CBGP -->
+<ol type="1">
+<li><p><strong>Changes in genetic diversity through time in selfing populations</strong> Human Evolution Program, Uppsala University (Sweden) 08/06/2017</p></li>
+<li><p><strong>Tracking adaptation to environmental changes: selfing and detection of loci under selection</strong> Seminar at UMR DIADE (Montpellier, France) 27/03/2017</p></li>
+<li><p><strong>Tracking adaptation to environmental changes: selfing and detection of loci under selection</strong> Seminar at BioPASS (Dakar, Senegal) 30/06/2016</p></li>
+<li><p><strong>SelfAdapt — Adaptation to climate change under selfing: Detecting selection with temporal samples</strong> Seminar for the Metaprogram ACCAF (Paris, France) 10/03/2016</p></li>
+<li><p><strong>Tracking adaptation to environmental changes in experimental or monitored populations: evaluation of a method to detect loci under selection</strong> Seminar of the UMR CBGP (Montpellier, France) 30/06/2015</p></li>
+<li><p><strong>Demographic inference from genetic data with approximate Bayesian skyline plots</strong> Seminar at Laboratoire Évolution et diversité biologique (Toulouse, France) 19/11/2014</p></li>
+<li><p><strong>Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames</strong> Journées ARCAD (Montpellier, France) 15/10/2014</p></li>
+<li><p><strong>Généalogies</strong> Seminar of the UMR CBGP (Montpellier, France) 20/11/2012</p></li>
+<li><p><strong>Demograhic Inference using Skyline Plots on ABC</strong> ANR project meeting (Montpellier, France) 03/07/2012</p></li>
+<li><p><strong>Skyline plots from approximate Bayesian computation analyses: an intuitive and flexible representation of demographic dynamics</strong> Groupe de réflexion Génétique des populations et phylogéographie CBGP (Montpellier, France) 31/05/2011</p></li>
+<li><p><strong>Skyline plots from approximate Bayesian computation analyses: an intuitive and flexible representation of demographic dynamics</strong> Department of Forest Genetics, CIFOR-INIA (Madrid, Spain) 27/05/2011</p></li>
+<li><p><strong>Étude d’un système de réproduction combinant auto-incompatibilité gamétophytique et asexualité</strong> Séminaire d’Écologie et Évolution, Centre d’Ecologie Fonctionnelle et Evolutive CNRS UMR5175 (Montpellier, France) 07/05/2010</p></li>
+<li><p><strong>Trans-specific polymorphism: isolation (incomplete lineage sorting) vs.&nbsp;migration (introgression)</strong> Seminar at the Équipe de Éco-Évolution Mathematique, CNRS UMR7625 (Paris, France) 13/10/2009</p></li>
+<li><p><strong>Trans-specific polymorphism: isolation (incomplete lineage sorting) <em>vs.</em> migration (introgression)</strong> Seminar at the UMR CBGP, INRA (Montpellier, France) 14/09/2009</p></li>
+<li><p><strong>Reproductive system evolution in partially clonal, self-incompatible plants</strong> Seminar at Istituto di Genetica Vegetale, CNR (Sesto Fiorentino, Firenze, Italy) 21/04/2009</p></li>
+<li><p>Contribution to presentation <strong>Projet Transbiodiv : Biodiversité trans-spécifique neutre et fonctionnelle : développements théoriques et quantification chez des organismes modèles</strong> Séminaire de suivi du programme ANR Biodiversite (Paris, France) 05/03/2009</p></li>
+<li><p><strong>Discriminación entre polimorfismo ancestral e introgresión reciente mediante patrones de desequilibrio de ligamiento en test no-paramétricos</strong> Seminario CIFOR-INIA (Madrid, Spain) 18/07/2008</p></li>
+<li><p><strong>Approximate Bayesian computation</strong> ANR Project Transbiodiv Workshop (Paris, France) 01/06/2008</p></li>
+<li><p><strong>Distinguishing shared ancestral polymorphism from recent introgression</strong> Séminaire Laboratoire Évolution, Génomes et Spéciation CNRS (Gif-sur-Yvette,France) 18/06/2008</p></li>
+<li><p><strong>Detection of clustering of shared polymorphisms: introgressed blocks</strong> ANR Transbiodiv Meeting (Paris, France) 25/04/2008</p></li>
+<li><p><strong>Propagation asexuée et maintien du système d’auto-incompatibilité</strong> Séminaire inter-équipes UMR 7625 (Paris, France) 04/04/2008</p></li>
+<li><p><strong>Characterization of demographic expansions from linked microsatellite data</strong> TIMC-IMAG Seminar (Grenoble, France) 07/02/2008</p></li>
+<li><p><strong>Evaluation of substitution rates estimates from BEAST: robustness to violations of the coalescent model</strong> Journées scientifiques RTP Paléogénétique de l’Homme et de son environnement, 19–20 novembre 2007, Paris (France) 19/11/2007</p></li>
+<li><p><strong>Characterization of demographic expansions from linked microsatellite data</strong> Conférence Universitaire de Suisse Occidentale “Estimating Demographic Parameters from Genetic Data” Workshop (La Fouly, Switzerland) 07/06/2007 <!--# 6--10 June 2007 La Fouly (Switzerland) --></p></li>
+<li><p><strong>Characterization of demographic expansions from linked microsatellite data: dealing with homoplasy and the case of Canary Island pine</strong> Séminaire Évolution Moleculaire (Paris, France) 23/04/2007</p></li>
+<li><p><strong>Characterization of demographic expansions from linked microsatellite data: dealing with homoplasy and the case of Canary Island pine</strong> Seminar at the Équipe de Éco-Évolution Mathematique, CNRS UMR7625 (Paris, France) 13/03/2007</p></li>
+<li><p><strong>Detection of population expansions with linked microsatellites</strong> EEE-LUBIES Seminar, Université Libre de Bruxelles (Belgium) 19/10/2006</p></li>
+<li><p><strong>On volcanoes, beetles and pines</strong> BioGeCo Seminar, INRA-Pierroton (Bordeaux, France) 31/07/2006</p></li>
+<li><p><strong>Genetic introgression between endemic <em>Pinus sylvestris</em> var.&nbsp;<em>nevadensis</em> and <em>P.&nbsp;sylvestris</em> plantations studied with chloroplast microsatellites</strong> At Course on Molecular Marker Analysis of Plant Population Structure and Processes by Royal Veterinary and Agricultural University (Copenhagen, Denmark) 05/2006</p></li>
+<li><p><strong>Population genetics of the Canary Islands pine</strong> Department of Forest Genetics CIFOR-INIA (Madrid, Spain) 02/2006</p></li>
+<li><p><strong>Population genetics of the Canary Islands pine</strong> Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 06/05/2005</p></li>
+<li><p><strong>Genetic diversity in the Canary Island pine tree</strong> Research Open-Day “Bio-Colloquium 2004” School of Biological Sciences, University of East Anglia (Norwich, UK) 03/06/2004</p></li>
+<li><p><strong>Measuring genetic diversity in pine forest</strong> Centre for Ecology, Evolution and Conservation at the University of East Anglia (Norwich, UK) 01/04/2003</p></li>
+<li><p><strong>Simulation methods in biology</strong> Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 30/01/2004</p></li>
+<li><p><strong>Homoplasy in chloroplast microsatellites</strong> Department of Forest Genetics CIFOR-INIA (Madrid, Spain) 14/01/2004</p></li>
+<li><p><strong>Homoplasy: why on Earth (and on other distant planets) have intelligent life forms evolved into humanlike organisms?</strong> Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 04/10/2002</p></li>
+<li><p><strong>Biogeography of <em>Pinus canariensis</em> </strong> Centre for Ecology, Evolution and Conservation at the University of East Anglia (Norwich, UK) 21/05/2002</p></li>
+<li><p><strong>Genética de poblaciones del pino canario</strong> Departamento de Biología at Universidad Autónoma de Madrid (Spain) 03/04/2002</p></li>
+<li><p><strong>From the Beatles to the Red Hot Canary Pine-Trees</strong> Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 16/11/2001</p></li>
+</ol>
 </section>
-<section id="training-and-professional-development" class="level2">
-<h2 class="anchored" data-anchor-id="training-and-professional-development">Training and Professional Development</h2>
-<section id="conferences-1" class="level3">
-<h3 class="anchored" data-anchor-id="conferences-1">conferences</h3>
-<dl>
-<dt>2022</dt>
-<dd>
-<strong>Ancient DNA symposium</strong> SciLifeLab Ancient DNA unit, Centre for Palaeogenetics, Swedish Museum of Natural History, Stockholm (Sweden). November 29
-</dd>
-<dt>2022</dt>
-<dd>
-SMBE Everywhere <strong>GS4: Using Ancestral Recombination Graphs (ARGs) to Infer Evolutionary Processes</strong> Virtual. September 30
-</dd>
-<dt>2021</dt>
-<dd>
-<strong>Les Rencontres Scientifiques Arcad : La Diversité des Plantes Cultivées au Cœur des Trasitions</strong> Montpellier (France), September 30–October 1
-</dd>
-<dt>2021</dt>
-<dd>
-<strong>AEET-SFÉ<sup>2</sup></strong> Online Conference for Early Career Scientists June 9–11
-</dd>
-<dt>2020</dt>
-<dd>
-<strong>Cycling backward: The G-BiKE workshop on ancient and historical DNA</strong> COST Action G-BiKE. Virtual. December 17
-</dd>
-<dt>2019</dt>
-<dd>
-<strong>Unlocking the past: ancient DNA symposium</strong> Uppsala (Sweden). September 24–25
-</dd>
-<dt>2015</dt>
-<dd>
-<strong>3<sup>ème</sup> Colloque de Génomique Environnementale</strong> Montpellier (France). October 26–28
-</dd>
-<dt>2012</dt>
-<dd>
-<strong>Phylogenetic approaches to diversification. Inferring evolutionary past from phylogenetic tree shapes</strong>. Center for interdisciplinary research in biology (CIRB) — Collège de France, Paris (France). October 22-23
-</dd>
-<dt>2010</dt>
-<dd>
-Annual meeting GDR 1928 <strong>Génomique des populations et génomique évolutive</strong> Toulouse (France). November 4–5
-</dd>
-</dl>
-<p>2010: Réunion Annuelle <strong>R-Syst</strong> (INRA), Thonon‐les–Bains (France). November</p>
-<p>2010: <strong>JOBIM 2010</strong> Journée satellite Biodiversité et Bioinformatique, Montpellier (France). September</p>
-<dl>
-<dt>2010</dt>
-<dd>
-<strong>PhyloCom. Un colloque sur la Phylogénie des Communautés</strong> Montpellier (France). May
-</dd>
-<dt>2009</dt>
-<dd>
-Annual meeting GDR 1928 <strong>Génomique des populations et génomique évolutive</strong>, Institut Pasteur, Paris (France). Octobre %27–28/10/2009
-</dd>
-<dt>2009</dt>
-<dd>
-<strong>ABC in Paris</strong> Université Paris Dauphine, Paris (France). June 26
-</dd>
-<dt>2008</dt>
-<dd>
-Royal Society Discussion Meeting <strong>Statistical and Computational Challenges in Molecular Phylogenetics and Evolution</strong>, London (UK). April
-</dd>
-<dt>2007</dt>
-<dd>
-Annual meeting GDR 1928 <strong>Génomique des populations et génomique évolutive</strong>, Université Lyon 1, Lyon (France). December
-</dd>
-<dt>2007</dt>
-<dd>
-Meeting <strong>ANR Modèles Aléatoires de l’Evolution et du Vivant</strong>, Université de Provence, Marseille (France). October
-</dd>
-<dt>2007</dt>
-<dd>
-Meeting <strong>Bioinformatique, Modélisation des Systèmes Biologiques</strong>, Institut Henri Poincaré, Paris (France). October
-</dd>
-<dt>2007</dt>
-<dd>
-<strong>3<sup>rd</sup> International Conference on DNA Polymorphisms in Human Populations “DNA Sampling - Strategies and Design”</strong>, Musée de l’Homme, Paris (France). March
-</dd>
-<dt>2005</dt>
-<dd>
-<strong>International Symposium: Wild Flora <em>Ex Situ</em> Conservation under the Framework of the Convention on Biological Diversity</strong> Jardín Botánico de Córdoba (Spain). April
-</dd>
-</dl>
+</section>
+</section>
+<section id="profesional-activities" class="level1">
+<h1>PROFESIONAL ACTIVITIES</h1>
+<section id="professional-development" class="level2">
+<h2 class="anchored" data-anchor-id="professional-development">Professional Development</h2>
+<section id="conferences" class="level3">
+<h3 class="anchored" data-anchor-id="conferences">conferences</h3>
+<ol type="1">
+<li><p><strong>Ancient DNA symposium</strong> SciLifeLab Ancient DNA unit, Centre for Palaeogenetics, Swedish Museum of Natural History, Stockholm (Sweden). 2022 November 29</p></li>
+<li><p>SMBE Everywhere <strong>GS4: Using Ancestral Recombination Graphs (ARGs) to Infer Evolutionary Processes</strong> Virtual. 2022 September 30</p></li>
+<li><p><strong>Les Rencontres Scientifiques Arcad : La Diversité des Plantes Cultivées au Cœur des Trasitions</strong> Montpellier (France), 2021 September 30–October 1</p></li>
+<li><p><strong>AEET-SFÉ<sup>2</sup></strong> Online Conference for Early Career Scientists. 2021 June 9–11</p></li>
+<li><p><strong>Cycling backward: The G-BiKE workshop on ancient and historical DNA</strong> COST Action G-BiKE. Virtual. 2020 December 17</p></li>
+<li><p><strong>Unlocking the past: ancient DNA symposium</strong> Uppsala (Sweden). 2019 September 24–25</p></li>
+<li><p><strong>3<sup>ème</sup> Colloque de Génomique Environnementale</strong> Montpellier (France). 2015 October 26–28</p></li>
+<li><p><strong>Phylogenetic approaches to diversification. Inferring evolutionary past from phylogenetic tree shapes</strong>. Center for interdisciplinary research in biology (CIRB) — Collège de France, Paris (France). 2012 October 22-23</p></li>
+<li><p>Annual meeting GDR 1928 <strong>Génomique des populations et génomique évolutive</strong> Toulouse (France). 2010 November 4–5</p></li>
+<li><p>Réunion Annuelle <strong>R-Syst</strong> (INRA), Thonon‐les–Bains (France). 2010 November</p></li>
+<li><p><strong>JOBIM 2010</strong> Journée satellite Biodiversité et Bioinformatique, Montpellier (France). 2010 September</p></li>
+<li><p><strong>PhyloCom. Un colloque sur la Phylogénie des Communautés</strong> Montpellier (France). 2010 May</p></li>
+<li><p>Annual meeting GDR 1928 <strong>Génomique des populations et génomique évolutive</strong>, Institut Pasteur, Paris (France). 2009 Octobre 27–28</p></li>
+<li><p><strong>ABC in Paris</strong> Université Paris Dauphine, Paris (France). 2009 June 26</p></li>
+<li><p>Royal Society Discussion Meeting <strong>Statistical and Computational Challenges in Molecular Phylogenetics and Evolution</strong>, London (UK). 2009 April</p></li>
+<li><p>Annual meeting GDR 1928 <strong>Génomique des populations et génomique évolutive</strong>, Université Lyon 1, Lyon (France). 2007 December</p></li>
+<li><p>Meeting <strong>ANR Modèles Aléatoires de l’Evolution et du Vivant</strong>, Université de Provence, Marseille (France). 2007 October</p></li>
+<li><p>Meeting <strong>Bioinformatique, Modélisation des Systèmes Biologiques</strong>, Institut Henri Poincaré, Paris (France). 2007 October</p></li>
+<li><p><strong>3<sup>rd</sup> International Conference on DNA Polymorphisms in Human Populations “DNA Sampling - Strategies and Design”</strong>, Musée de l’Homme, Paris (France). 2007 March</p></li>
+<li><p><strong>International Symposium: Wild Flora <em>Ex Situ</em> Conservation under the Framework of the Convention on Biological Diversity</strong> Jardín Botánico de Córdoba (Spain). 2005 April</p></li>
+</ol>
 
 
 </section>
