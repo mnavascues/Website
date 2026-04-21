@@ -170,12 +170,11 @@ date: today
 ## Studentships
 
 
-%\item[10/2001--09/2004]
-\item[2001--2004]\textbf{PhD University of East Anglia studentship}
-% three competitive awards each year
+<!--10/2001--09/2004-->
+2001--2004
+: **PhD University of East Anglia studentship** three competitive awards each year
 
-%\item[10/2000--06/2001]
-\item[2000--2001] \textbf{Erasmus exchange studentship} University of East Anglia
-
-\end{CV}
+<!-- 10/2000--06/2001 -->
+2000--2001
+: **Erasmus exchange studentship** University of East Anglia
 
