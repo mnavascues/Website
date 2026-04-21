@@ -1,3 +1,4 @@
+1. **Inférences en Génétique des Populations** Module de génétique des populations, Master Biodiversité, Écologie et Évolution, Université de Montpellier (France) 4h 12/2024 & 12/2025
 
 1. **MU 512 Données, Statistiques et Analyse des données 2** Teaching assistant at laboratory sessions "Statistiques avec R", Université Pierre et Marie Curie (Paris, France) 02/2009
 <!--# 24 hours -->
