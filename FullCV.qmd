@@ -82,6 +82,9 @@ date: today
 2025--present
 : Member of the *Peer Community In Evolutionary Biology* **managing board** and *Peer Community Journal* **editorial board**
 
+2024--present
+: Co-coordinator of "Réseau génétique" (*Genetics network*) at the INRAE-ECODIV Division
+
 2014--2016
 : Elected member at the UMR CBGP **department board** (*conseil d'unité*)
 
@@ -158,4 +161,6 @@ date: today
 
 
 # EDUCATION
+
+{{< include _education.qmd >}}
 
