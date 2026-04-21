@@ -89,6 +89,17 @@ date: today
 {{< include _evaluation_articles_open.qmd >}}
 
 
+### Projects
+
+{{< include _evaluation_projects.qmd >}}
+
+
+
+### Researchers
+
+{{< include _evaluation_researchers.qmd >}}
+
+
 
 ## Teaching
 
