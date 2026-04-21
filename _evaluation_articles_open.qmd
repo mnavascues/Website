@@ -1,0 +1,9 @@
+1.  **How the analysis of the distribution of fitness effects can reveal novel insights onto the genetics of domestication** M. Fumagalli (2025)  [doi:10.24072/pci.evolbiol.100795](https://doi.org/10.24072/pci.evolbiol.100795 "Peer Community in Evolutionary Biology")
+<!--# Matteo Fumagalli -->
+
+1. **An ancient age of open-canopy landscapes in northern Madagascar? Evidence from the population genetic structure of a forest tree** *M.d. Navascués* (2021) [doi:10.24072/pci.evolbiol.100136](https://doi.org/10.24072/pci.evolbiol.100136 "Peer Community in Evolutionary Biology") 
+
+1. **Remarkable insights into processes shaping African tropical tree diversity** M.D. Pirie (2020) [doi:10.24072/pci.evolbiol.100094](https://doi.org/10.24072/pci.evolbiol.100094 "Peer Community in Evolutionary Biology") 
+<!--# Michael David Pirie -->
+
+1. **Peer Review #2 of "Poppr: an R package for genetic analysis of populations with clonal, partially clonal, and/or sexual reproduction (v0.1)"** *M.d. Navascués* (2014) [doi:10.7287/peerj.281v0.1/reviews/2](https://doi.org/10.7287/peerj.281v0.1/reviews/2 "PeerJ")
