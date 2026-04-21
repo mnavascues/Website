@@ -76,7 +76,11 @@ date: today
 
 ## Administrative duties
 
+## Evaluation
 
+### Publications
+
+{{< include _evaluation_articles.qmd >}}
 
 ## Teaching
 
