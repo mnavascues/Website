@@ -13,6 +13,8 @@ date: today
 
 {{< include _projects.qmd >}}
 
+# PRODUCTION
+
 ## Publications
 
 ### citation statistics
@@ -51,7 +53,7 @@ date: today
 
 {{< include _data.qmd >}}
 
-## Conferences
+## Conference presentations
 
 ### oral communications
 
@@ -66,7 +68,13 @@ date: today
 
 {{< include _posters.qmd >}}
 
-## Training and Professional Development
+### seminars
+
+{{< include _seminars.qmd >}}
+
+# PROFESIONAL ACTIVITIES
+
+## Professional Development
 
 ### conferences
 

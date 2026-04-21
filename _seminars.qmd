@@ -1,0 +1,126 @@
+
+<!--# FALTAN SEMINARIOS EN HUMAN EVOLUTION -->
+
+
+1. **Analysis of Dated Archaeological Record through Approximate Bayesian Computation** Population Genetics group, UMR CBGP (Montpellier France) 14/11/2022
+
+1.  **Using Approximate Bayesian Computation for Demographic Inference from Radiocarbon Data** Human Evolution Program, Uppsala University (Sweden) 20/10/2022
+
+1.  **Science Communication using Stop-Motion Videos** PhD student meeting "Journal club" at UMR CBGP (Montpellier, France) 28/09/2022
+
+
+
+1.  **Using Approximate Bayesian Computation for Demographic Inference from Radiocarbon Data** Human Evolution Program, Uppsala University (Sweden) 19/05/2022
+
+1.  **Estimation de l’histoire évolutive récente d’une population à partir de données génomiques temporelles** DevOCGen project meeting (Saint Martin de Londres, France) 12/04/2022
+
+1.  **Simulation of quantitative traits evolution: burn-in for mutation-drift-stabilizing selection balance** Population Genetics group, UMR CBGP (Montpellier France) 18/03/2022
+
+1.  **How to simulate sequencing and genotyping errors from true genotypes** Mattias Jakobsson Lab, Human Evolution Program, Uppsala University (Sweden) 07/02/2022
+
+1.  **Breaking bad habits in scientific computing** Human Evolution Program, Uppsala University (Sweden) 29/04/2021
+
+1.  **Population genetic forecasting from temporal samples** Mattias Jakobsson Lab, Human Evolution Program, Uppsala University (Sweden) 22/09/2020
+
+1.  **Estimating $\frac{1}{N_\mathrm{e}}$: Estimating "a bunch of different numbers that are central to our ideas [...] and call them all the same thing" which "is neither effective nor a population size"** Human Evolution Program, Uppsala University (Sweden) 13/02/2020
+
+
+1.  **Inférence statistique en génétique des populations : données temporelles et régime autogame** Séminaires UMR Biogeco, Cestas (Pierroton, France) 21/06/2019
+
+
+1.  **Joint inference of adaptive and demographic history from temporal population genomic data** Réunion du réseau de génétique du Département EFPA (Montpellier, France) 16/05/2019
+
+
+
+<!--# FALTAN SEMINARIOS EN EL CBGP -->
+
+
+1.  **Changes in genetic diversity through time in selfing populations** Human Evolution Program, Uppsala University (Sweden) 08/06/2017
+
+1.  **Tracking adaptation to environmental changes: selfing and detection of loci under selection** Seminar at UMR DIADE (Montpellier, France) 27/03/2017
+
+1.  **Tracking adaptation to environmental changes: selfing and detection of loci under selection** Seminar at BioPASS (Dakar, Senegal) 30/06/2016
+
+1.  **SelfAdapt --- Adaptation to climate change under selfing: Detecting selection with temporal samples** Seminar for the Metaprogram ACCAF (Paris, France) 10/03/2016
+
+1.  **Tracking adaptation to environmental changes in experimental or monitored populations: evaluation of a method to detect loci under selection** Seminar of the UMR CBGP (Montpellier, France) 30/06/2015
+
+1.  **Demographic inference from genetic data with approximate Bayesian skyline plots** Seminar at Laboratoire Évolution et diversité biologique (Toulouse, France) 19/11/2014
+
+1.  **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames** Journées ARCAD (Montpellier, France) 15/10/2014
+
+
+1.  **Généalogies** Seminar of the UMR CBGP (Montpellier, France) 20/11/2012
+
+1.  **Demograhic Inference using Skyline Plots on ABC** ANR project meeting (Montpellier, France) 03/07/2012
+
+1.  **Skyline plots from approximate Bayesian computation analyses: an intuitive and flexible representation of demographic dynamics** Groupe de réflexion Génétique des populations et phylogéographie CBGP (Montpellier, France) 31/05/2011
+
+1.  **Skyline plots from approximate Bayesian computation analyses: an intuitive and flexible representation of demographic dynamics** Department of Forest Genetics, CIFOR-INIA (Madrid, Spain) 27/05/2011
+
+
+1. **Étude d'un système de réproduction combinant auto-incompatibilité gamétophytique et asexualité** Séminaire d'Écologie et Évolution, Centre d'Ecologie Fonctionnelle et Evolutive CNRS UMR5175 (Montpellier, France)  07/05/2010
+
+
+1.   **Trans-specific polymorphism: isolation (incomplete lineage sorting) vs. migration (introgression)** Seminar at the Équipe de Éco-Évolution Mathematique, CNRS UMR7625 (Paris, France) 13/10/2009
+
+
+1.  **Trans-specific polymorphism: isolation (incomplete lineage sorting) *vs.*  migration (introgression)** Seminar at the UMR CBGP, INRA (Montpellier, France) 14/09/2009
+
+
+1.  **Reproductive system evolution in partially clonal, self-incompatible plants** Seminar at Istituto di Genetica Vegetale, CNR (Sesto Fiorentino, Firenze, Italy) 21/04/2009
+
+1.  Contribution to presentation **Projet Transbiodiv : Biodiversité trans-spécifique neutre et fonctionnelle : développements théoriques et quantification chez des organismes modèles** Séminaire de suivi du programme ANR Biodiversite (Paris, France) 05/03/2009
+
+1.  **Discriminación entre polimorfismo ancestral e introgresión reciente mediante patrones de desequilibrio de ligamiento en test no-paramétricos** Seminario CIFOR-INIA (Madrid, Spain) 18/07/2008
+
+1.  **Approximate Bayesian computation** ANR Project Transbiodiv Workshop (Paris, France) 01/06/2008
+
+1.  **Distinguishing shared ancestral polymorphism from recent introgression** Séminaire Laboratoire Évolution, Génomes et Spéciation CNRS (Gif-sur-Yvette,France) 18/06/2008
+
+1.  **Detection of clustering of shared polymorphisms: introgressed blocks** ANR Transbiodiv Meeting (Paris, France) 25/04/2008
+
+1. **Propagation asexuée et maintien du système d'auto-incompatibilité** Séminaire inter-équipes UMR 7625 (Paris, France)  04/04/2008
+
+1.  **Characterization of demographic expansions from linked microsatellite data** TIMC-IMAG Seminar (Grenoble, France) 07/02/2008
+
+1.  **Evaluation of substitution rates estimates from BEAST: robustness to violations of the coalescent model** Journées scientifiques RTP Paléogénétique de l'Homme et de son environnement, 19--20 novembre 2007, Paris (France) 19/11/2007
+
+
+1.  **Characterization of demographic expansions from linked microsatellite data** Conférence Universitaire de Suisse Occidentale "Estimating Demographic Parameters from Genetic Data" Workshop (La Fouly, Switzerland) 07/06/2007
+<!--# 6--10 June 2007 La Fouly (Switzerland) -->
+
+
+1.  **Characterization of demographic expansions from linked microsatellite data: dealing with homoplasy and the case of Canary Island pine** Séminaire Évolution Moleculaire (Paris, France) 23/04/2007
+
+1. **Characterization of demographic expansions from linked microsatellite data: dealing with homoplasy and the case of Canary Island pine** Seminar at the Équipe de Éco-Évolution Mathematique, CNRS UMR7625 (Paris, France)  13/03/2007
+
+1.  **Detection of population expansions with linked microsatellites** EEE-LUBIES Seminar, Université Libre de Bruxelles (Belgium) 19/10/2006
+
+1.  **On volcanoes, beetles and pines** BioGeCo Seminar, INRA-Pierroton (Bordeaux, France) 31/07/2006
+
+1.  **Genetic introgression between endemic *Pinus sylvestris*  var.\ *nevadensis*  and *P.\ sylvestris*  plantations studied with chloroplast microsatellites** At Course on Molecular Marker Analysis of Plant Population Structure and Processes by Royal Veterinary and Agricultural University (Copenhagen, Denmark) 05/2006
+
+1.  **Population genetics of the Canary Islands pine** Department of Forest Genetics CIFOR-INIA (Madrid, Spain) 02/2006
+
+1.  **Population genetics of the Canary Islands pine** Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 06/05/2005
+
+
+1.  **Genetic diversity in the Canary Island pine tree** Research Open-Day "Bio-Colloquium 2004" School of Biological Sciences, University of East Anglia (Norwich, UK) 03/06/2004
+
+
+1.  **Measuring genetic diversity in pine forest** Centre for Ecology, Evolution and Conservation at the University of East Anglia (Norwich, UK) 01/04/2003
+
+1.  **Simulation methods in biology** Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 30/01/2004
+
+
+1.  **Homoplasy in chloroplast microsatellites** Department of Forest Genetics CIFOR-INIA (Madrid, Spain) 14/01/2004
+
+
+1. **Homoplasy: why on Earth (and on other distant planets) have intelligent life forms evolved into humanlike organisms?** Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 04/10/2002
+
+1.  **Biogeography of *Pinus canariensis* ** Centre for Ecology, Evolution and Conservation at the University of East Anglia (Norwich, UK) 21/05/2002
+
+1.  **Genética de poblaciones del pino canario** Departamento de Biología at Universidad Autónoma de Madrid (Spain) 03/04/2002
+
+1.  **From the Beatles to the Red Hot Canary Pine-Trees** Molecular Ecology laboratory at the University of East Anglia (Norwich, UK) 16/11/2001
