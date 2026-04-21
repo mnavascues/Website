@@ -1,0 +1,1 @@
+1. **Crash Course on Approximate Bayesian Computation in Population Genetics** *M.d. Navascués* (2018--2023) [doi:10.5281/zenodo.1435503](http://doi.org/10.5281/zenodo.1435503 "Zenodo")

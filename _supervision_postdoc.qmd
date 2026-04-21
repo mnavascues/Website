@@ -1,0 +1,3 @@
+1. **Adaptive introgression in Pearl Millet** Maud Duranton (2022--2024) Postdoc at project PamilADAPT. Co-supervisor
+
+1. **Detection of loci under selection from temporal population genomic data through ABC random forest** Victor A.C. Pavinato (2018--2019) Postdoc at project ABCSelection. Main supervisor

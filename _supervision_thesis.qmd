@@ -1,0 +1,20 @@
+1. **Estimation of the recent evolutionary history of a population from temporal genomic data** Paul Bunel (2024--) PhD thesis. Funding: INRAE-PEPR Agroécologie et Numérique. INP Toulouse (France) Co-supervisor
+<!--# Bertrand Servin,  Simon Boitard, *M.d. Navascués* -->
+
+
+1. **Prediction of genomic offset and applications to synthetic populations** Sebastien Geneste (2024--) PhD thesis. Funding: INRAE. École doctorale GAIA, Institute Agro (France) Co-supervisor
+<!--# Laurène Gay, *M.d. Navascués*, Simon Boitard, Mathieu Gautier, Joëlle Ronfort -->
+
+
+1. **Prediction of genomic offset and applications to synthetic populations** Mathilde Delmond (2022--2023) PhD thesis (discontinued). Funding: INRAE. École doctorale GAIA, Institute Agro (France) Co-supervisor
+<!--# Laurène Gay, *M.d. Navascués*, Simon Boitard, Mathieu Gautier, Joëlle Ronfort -->
+
+
+1. **Development and evaluation of methods for the inference of adaptive introgression**
+ Jules Romieu (2020--2025) PhD thesis. Funding: ANR. École doctorale GAIA, Universite de Montpellier (France) Co-supervisor
+<!--#  Raphaël Leblois, *M.d. Navascués*, Pierre-André Crochet, François Rousset -->
+
+
+1. **Analyse temporelle de la diversité en régime autogame : Approches théorique et empirique** Margaux Jullien (2015--2019) PhD thesis. Funding: INRA. École doctorale GAIA, Institute Agro (France) Co-supervisor
+<!--# Laurène Gay, *M.d. Navascués*, Joëlle Ronfort -->
+

@@ -1,0 +1,33 @@
+1. **Tri spatial et maintien du polymorphisme dans les populations panmictiques** Assinie Zana (2026) MSc thesis (M2). Formation d’ingénieur en bioinformatique et modélisation -
+INSA Lyon (France) Co-supervisor.
+<!--# Sylvie Muratorio, *M.d. Navascués* --> 
+
+1. **Integrative Demographic Inference**  Kévin Salinas (2026) MSc thesis (M2). Master Biologie Évolutive & Écologie. Université de Montpellier (France) Main supervisor
+<!--#  *M.d. Navascués*, Raphael Leblois, Lucile Marescot --> 
+
+1. **Integrative Demographic Inference**  Marie Le Bailly (2025--2006) Gap year internship. Institute Agro, Montpellier (France) Main supervisor
+<!--# *M.d. Navascués*, Raphael Leblois, Lucile Marescot --> 
+
+
+1. **Integrative Demographic Inference**  Thomas Lejeune (2025) MSc thesis (M2). Master Biologie Évolutive & Écologie. Université de Montpellier (France) Main supervisor
+<!--# *M.d. Navascués*, Raphael Leblois, Lucile Marescot --> 
+
+1. **Exploration de scénarios évolutifs de colonisation des Îles Kerguelen par la truite commune (*Salmo trutta*)**  Laura Vallée (2024) MSc thesis (M2). Master Sciences de l’Eau, Parcours Dynamique des Écosystèmes Aquatiques. Université de Pau et des Pays de l'Adour. Pau (France) Co-supervisor
+<!--# Sylvie Muratorio, *M.d. Navascués* --> 
+
+1. **Performance evaluation of adaptive introgression classification methods**  Ghislain Camarata (2023) MSc thesis (M2).  Master Biologie Évolutive & Écologie. Université de Montpellier (France) Co-supervisor
+<!--# Jules Romieu, François Rousset, Raphaël Leblois, *M.d. Navascués* --> 
+
+1. **Simulating Artificial Recombination for a Deep Convolutional Autoencoder**  Fredrik Levin (2021) MSc thesis (M2). Uppsala universitet (Sweden). Subject Reader
+
+1. **Detection of archaic introgression without genomic reference from the source population: an ABC approach**  Erifyli-Elonti Giaglara (2019) MSc thesis (M2). Master Biologie Évolutive & Écologie. Université de Montpellier (France) Main supervisor
+<!--# *M.d. Navascués*, Mathieu Gautier --> 
+
+1. **Évaluation de la performance des statistiques pour la détection de l’introgression adaptative chez le mil (*Pennisetum glaucum*)**  Omar Belkasseh (2018) MSc thesis (M1). Master Statistique pour les Sciences de la Vie. Université de Montpellier (France) Main supervisor
+<!--# *M.d. Navascués*, Concetta Burgarella --> 
+
+1. **Limites des genome-scans pour la détection de locus sous sélection chez les espèces autogames~: une étude par simulation**  Arnaud Becheler (2014) MSc thesis (M2). Master Biologie Évolutive & Écologie. Université Montpellier II (France) Main supervisor
+<!--# *M.d. Navascués*, Renaud Vitalis --> 
+
+1. **Diversification of the olive tree (*Olea europaea*) in the Central Sahara and Macaronesia during the Quaternary** Myriam Goudet (2014) MSc thesis (M2). Université Toulouse III, Paul Sabatier (France) Co-supervisor
+<!--# Guillaume Besnard,  *M.d. Navascués* --> 

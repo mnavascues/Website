@@ -53,7 +53,7 @@ date: today
 
 {{< include _data.qmd >}}
 
-## Conference presentations
+## Presentations
 
 ### oral communications
 
@@ -74,9 +74,50 @@ date: today
 
 # PROFESIONAL ACTIVITIES
 
+## Administrative duties
+
+
+
+## Teaching
+
+### teaching materials
+
+{{< include _teaching_materials.qmd >}}
+
+### courses
+
+#### professional
+
+{{< include _courses_professional.qmd >}}
+
+#### university
+
+{{< include _courses_university.qmd >}}
+
+
+### supervision and mentoring
+
+#### postdoc
+
+{{< include _supervision_postdoc.qmd >}}
+
+#### doctoral
+
+{{< include _supervision_thesis.qmd >}}
+
+#### master
+
+{{< include _supervision_master.qmd >}}
+
 ## Professional Development
+
+### training
+
 
 ### conferences
 
 {{< include _conferences_attended.qmd >}}
+
+
+# EDUCATION
 

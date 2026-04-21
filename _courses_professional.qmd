@@ -1,0 +1,14 @@
+
+1. **Crash Course on Approximate Bayesian Computation in Population Genetics** Graduate School of Biology, Uppsala University (Sweden) 05/2021
+<!--# online -->
+
+1.  **Estimation of effective population size** GenTree Training Workshop on "Methods in Forest Conservation Genetics". Madrid (Spain) 2h 12/2019
+<!--# December 10-13, 2019 - INIA - Madrid, Spain -->
+
+1.  **Calcul bayésien approché (ABC)** Formation collective Cirad-UMR AGAP. Montpellier (France) 10h 10/2018
+
+1.  **Approximate Bayesian Computation** Jakobsson lab, Uppsala University. Uppsala (Sweden) 10h 05/2017
+
+1.  **Infèrence de l'histoire des populations avec la méthode *Approximate Bayesian Computation* (ABC)** Réunion du réseau de génétique du Département EFPA-INRA. Nancy (France) 4h 11/2014
+
+1. **Identificación de la procedencia de material forestal de reproducción mediante el uso de métodos de asignación basados en marcadores moleculares** III Curso Internacional INIA-AECI "Mejora y Conservación de Recursos Genéticos Forestales" (Madrid, Spain) 1.5h 11/2006
