@@ -109,6 +109,11 @@ date: today
 
 {{< include _supervision_master.qmd >}}
 
+#### other
+
+{{< include _supervision_other.qmd >}}
+
+
 ## Professional Development
 
 ### training
