@@ -7,3 +7,4 @@
 *_files/
 *.rmarkdown
 **/*.quarto_ipynb
+*.html
