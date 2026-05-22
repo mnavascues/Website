@@ -43,32 +43,24 @@
 
 1. 2015 **R pour le calcul : R avancé et performances** ANF-CNRS, Aussois (France)
 
-<!--1. 09/2008-->
-1. 2008 **Evolutionary Biology and Probabilistic Models** École d'été de l'ANR "Modèles Aléatoires de l'Évolution et du Vivant", La Londe Les Maures (France)
+1. 2008 **Evolutionary Biology and Probabilistic Models** École d'été de l'ANR "Modèles Aléatoires de l'Évolution et du Vivant", La Londe Les Maures (France) <!--1. 09/2008-->
 
-<!--1. 06/2008-->
-1. 2008 **Molecular Markers and Population Genetics**, The Gulbenkian Training Programme in Bioinformatics, Instituto Gulbenkian de Ciência, Oeiras (Portugal)
+1. 2008 **Molecular Markers and Population Genetics**, The Gulbenkian Training Programme in Bioinformatics, Instituto Gulbenkian de Ciência, Oeiras (Portugal) <!--1. 06/2008-->
 
-<!--1. 06/2007-->
-1. 2007 **Estimating Demographic Parameters from Genetic Data** Workshop, Conférence Universitaire de Suisse Occidentale, La Fouly (Switzerland)
+1. 2007 **Estimating Demographic Parameters from Genetic Data** Workshop, Conférence Universitaire de Suisse Occidentale, La Fouly (Switzerland) <!--1. 06/2007-->
 
-<!--1. 05/2006-->
-1. 2006 **Molecular Marker Analysis of Plant Population Structure and Processes** Royal Veterinary and Agricultural University, Copenhagen (Denmark)
+1. 2006 **Molecular Marker Analysis of Plant Population Structure and Processes** Royal Veterinary and Agricultural University, Copenhagen (Denmark) <!--1. 05/2006-->
 
 
-<!--1. 03/2004-->
-1. 2004 **Intensive Course in Molecular Systematics** University of Reading (UK)
+1. 2004 **Intensive Course in Molecular Systematics** University of Reading (UK) <!--1. 03/2004-->
 
-<!--1. 01--03/2002-->
-1. 2002 **Developing Teaching Skills for Postgraduate Students Course** Centre for Staff and Educational Development (CSED), University of East Anglia (Norwich, UK)
+1. 2002 **Developing Teaching Skills for Postgraduate Students Course** Centre for Staff and Educational Development (CSED), University of East Anglia (Norwich, UK) <!--1. 01--03/2002-->
 
 
-<!--1. 11/2002-->
-1. 2002 **I Curso Internacional sobre Conservación y Utilización de Recursos Genéticos Forestales** Centro de Investigación Forestal-INIA, Madrid (Spain)
+1. 2002 **I Curso Internacional sobre Conservación y Utilización de Recursos Genéticos Forestales** Centro de Investigación Forestal-INIA, Madrid (Spain) <!--1. 11/2002-->
 
-<!--1. 07/2000-->
-1. 2000 **Curso de Biodiversidad Tropical** Universidad de La Habana (Cuba)
+1. 2000 **Curso de Biodiversidad Tropical** Universidad de La Habana (Cuba) <!--1. 07/2000-->
 
 
-<!--1. 11/1997-->
-1. 1997 **Curso de Introducción a la Ornitología** Grupo Ornitológico SEO-\textit{Monticola** (SEO/Birdlife)
+1. 1997 **Curso de Introducción a la Ornitología** Grupo Ornitológico SEO-\textit{Monticola** (SEO/Birdlife) <!--1. 11/1997-->
+
