@@ -1,66 +1,66 @@
-1. 2025 **Integrité Scientifique** INRAE e-learning.
+1.  **Integrité Scientifique** (2025) INRAE e-learning.
 <!-- https://elearning.formation-permanente.inrae.fr/course/view.php?id=746 -->
 
-1. 2024 **Prévention des Violences sexuelles et sexistes** INSERM and INRAE. INRAE e-learning.
+1.  **Prévention des Violences sexuelles et sexistes** (2024) INSERM and INRAE. INRAE e-learning.
 <!-- https://elearning.formation-permanente.inrae.fr/course/view.php?id=740 -->
 
-1. 2024 **Identifier, prévenir et réagir face aux violences sexistes, sexuelles et discriminatoires au travail** by Coop-Egal.
+1.  **Identifier, prévenir et réagir face aux violences sexistes, sexuelles et discriminatoires au travail** (2024) by Coop-Egal. Online
 
-1. 2022 **Science Communication and Outreach** Society of Spanish Scientists in Sweden (ACES). Uppsala University (Sweden)
+1.  **Science Communication and Outreach** (2022) Society of Spanish Scientists in Sweden (ACES). Uppsala University (Sweden)
 <!--Organisers: Hugo Gutiérrez de Terán and Eva Garmendia-->
 
-1. 2022 MOOC **Machine learning in Python with scikit-learn** INRIA, France Université Numérique (France)
+1.  MOOC **Machine learning in Python with scikit-learn** (2022) INRIA, France Université Numérique (France)
 
-1. 2022 **Julia for High-Performance Scientific Computing** (Online) EuroCC National Competece Centre Sweden (ENCCS)
+1.  **Julia for High-Performance Scientific Computing** (2022) EuroCC National Competece Centre Sweden (ENCCS) Online
 
-1. 2022 **Introduction to Deep-Learning** (Online) EuroCC National Competece Centre Sweden (ENCCS)
+1.  **Introduction to Deep-Learning** (2022) EuroCC National Competece Centre Sweden (ENCCS) Online
 
-1. 2021 **Project Baseline Virtual Workshop Series**
+1.  **Project Baseline Virtual Workshop Series** (2021)
 <!-- Tuesday, October 5th at 3:00 pm EST-->
 
-1. 2021 **Working effectively with HPC systems** (Online) Swedish National Infrastructure for Computing (SNIC)
+1.  **Working effectively with HPC systems** (2021) Swedish National Infrastructure for Computing (SNIC) Online
 
-1. 2021 **"It won't happen to me" --- an introduction to information security** (Online) Uppsala University (Sweden)
+1.  **"It won't happen to me" --- an introduction to information security** (2021) Uppsala University (Sweden) Online
 
-1. 2020 **Workshop on Writing Reproducible and Sustainable Research Code** (Online) CodeRefinery, Nordic e-Infrastructure Collaboration (NeIC)
+1.  **Workshop on Writing Reproducible and Sustainable Research Code** (2020) CodeRefinery, Nordic e-Infrastructure Collaboration (NeIC) Online
 
-1. 2020 **Workshop on Academic and Popular Science Writing** Unit for Professional English, Department of English. Uppsala University (Sweden)
+1.  **Workshop on Academic and Popular Science Writing** (2020) Unit for Professional English, Department of English. Uppsala University (Sweden)
 
-1. 2020 **UPPMAX introductory course** and **Awk workshop** SNIC-UPPMAX, Uppsala University (Sweden)
+1.  **UPPMAX introductory course** and **Awk workshop** (2020) SNIC-UPPMAX, Uppsala University (Sweden)
 <!-- UPPMAX 13-16/01/2020-->
 <!-- awk 17/01/2020-->
 
-1. 2019 **Supervisor Training** Faculty of Science and Technology, Unit for Academic Teaching and Learning. Uppsala University (Sweden).
+1.  **Supervisor Training** (2019) Faculty of Science and Technology, Unit for Academic Teaching and Learning. Uppsala University (Sweden).
 
-1. 2019 **SLiM Workshop** by Ben Haller. Umeå University (Sweden)
+1.  **SLiM Workshop** (2019) by Ben Haller. Umeå University (Sweden)
 <!--August 12-16, 2019-->
 
-1. 2019 École Chercheur **Méthodes beyésiennes : bases théoriques et applications en alimentation, environnement, épidémiologie et génétique (BioBayes)** INRA (France)
+1.  École Chercheur **Méthodes beyésiennes : bases théoriques et applications en alimentation, environnement, épidémiologie et génétique (BioBayes)** (2019) INRA (France)
 
-1. 2018 **Programation C++** Formation Permanente INRA-Numscale, Montpellier (France)
+1.  **Programation C++** (2018) Formation Permanente INRA-Numscale, Montpellier (France)
 
-1. 2016 **Conception et réalisation de films d’animation scientifiques en stop motion** LabEx CeMEB, Montpellier (France)
+1.  **Conception et réalisation de films d’animation scientifiques en stop motion** (2016) LabEx CeMEB, Montpellier (France)
 
-1. 2015 **R pour le calcul : R avancé et performances** ANF-CNRS, Aussois (France)
+1.  **R pour le calcul : R avancé et performances** (2015) ANF-CNRS, Aussois (France)
 
-1. 2008 **Evolutionary Biology and Probabilistic Models** École d'été de l'ANR "Modèles Aléatoires de l'Évolution et du Vivant", La Londe Les Maures (France) <!--1. 09/2008-->
+1.  **Evolutionary Biology and Probabilistic Models** (2008) École d'été de l'ANR "Modèles Aléatoires de l'Évolution et du Vivant", La Londe Les Maures (France) <!--1. 09/2008-->
 
-1. 2008 **Molecular Markers and Population Genetics**, The Gulbenkian Training Programme in Bioinformatics, Instituto Gulbenkian de Ciência, Oeiras (Portugal) <!--1. 06/2008-->
+1.  **Molecular Markers and Population Genetics** (2008) The Gulbenkian Training Programme in Bioinformatics, Instituto Gulbenkian de Ciência, Oeiras (Portugal) <!--1. 06/2008-->
 
-1. 2007 **Estimating Demographic Parameters from Genetic Data** Workshop, Conférence Universitaire de Suisse Occidentale, La Fouly (Switzerland) <!--1. 06/2007-->
+1.  **Estimating Demographic Parameters from Genetic Data** (2007) Workshop, Conférence Universitaire de Suisse Occidentale, La Fouly (Switzerland) <!--1. 06/2007-->
 
-1. 2006 **Molecular Marker Analysis of Plant Population Structure and Processes** Royal Veterinary and Agricultural University, Copenhagen (Denmark) <!--1. 05/2006-->
-
-
-1. 2004 **Intensive Course in Molecular Systematics** University of Reading (UK) <!--1. 03/2004-->
-
-1. 2002 **Developing Teaching Skills for Postgraduate Students Course** Centre for Staff and Educational Development (CSED), University of East Anglia (Norwich, UK) <!--1. 01--03/2002-->
+1.  **Molecular Marker Analysis of Plant Population Structure and Processes** (2006) Royal Veterinary and Agricultural University, Copenhagen (Denmark) <!--1. 05/2006-->
 
 
-1. 2002 **I Curso Internacional sobre Conservación y Utilización de Recursos Genéticos Forestales** Centro de Investigación Forestal-INIA, Madrid (Spain) <!--1. 11/2002-->
+1.  **Intensive Course in Molecular Systematics** (2004) University of Reading (UK) <!--1. 03/2004-->
 
-1. 2000 **Curso de Biodiversidad Tropical** Universidad de La Habana (Cuba) <!--1. 07/2000-->
+1.  **Developing Teaching Skills for Postgraduate Students Course** (2002) Centre for Staff and Educational Development (CSED), University of East Anglia (Norwich, UK) <!--1. 01--03/2002-->
 
 
-1. 1997 **Curso de Introducción a la Ornitología** Grupo Ornitológico SEO-\textit{Monticola** (SEO/Birdlife) <!--1. 11/1997-->
+1. **I Curso Internacional sobre Conservación y Utilización de Recursos Genéticos Forestales** (2002) Centro de Investigación Forestal-INIA, Madrid (Spain) <!--1. 11/2002-->
+
+1. **Curso de Biodiversidad Tropical** (2000) Universidad de La Habana (Cuba) <!--1. 07/2000-->
+
+
+1.  **Curso de Introducción a la Ornitología** (1997) Grupo Ornitológico SEO-*Monticola* (SEO/Birdlife) <!--1. 11/1997-->
 
